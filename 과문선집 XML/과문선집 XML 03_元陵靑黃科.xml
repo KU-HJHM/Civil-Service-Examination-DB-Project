@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 
 <CE id="CE1000WRCHG" korname="원릉청황과" chiname="元陵靑黃科">
 	<Metadata>
@@ -4417,6 +4416,7 @@
 					<Site></Site>
 				</Location>
 				<Examiner><br>金陽澤</br>
+				</Examiner>
 				<SuccessfulCandidate></SuccessfulCandidate>
 			</Examinationdata>
 			<Authordata>
