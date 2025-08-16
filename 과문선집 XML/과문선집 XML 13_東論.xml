@@ -1,0 +1,70 @@
+<?xml version="1.0">
+
+<CE id="CE1000DR01" korname="동론" chiname="東論">
+	<Metadata>
+		<VolumeCount>단책</VolumeCount>
+		<Title>
+			<Maintitle>東論抄</Maintitle>
+			<Subtitle></Subtitle>
+			<Foldingmarktitle></Foldingmarktitle>
+		</Title>
+		<CompilationType>사찬</CompilationType>
+		<Author></Author>
+		<Style>論</Style>
+		<Period></Period>
+		<Seal></Seal>
+		<Collectiondata>
+			<Institution>고려대학교 한적실</Institution>
+			<Callnumber>대학원 D5 A219</Callnumber>
+		</Collectiondata>
+		<Edition>필사본</Edition>
+		<Additionaldata></Additionaldata>
+	</Metadata>
+	<Formatdata>
+		<Table>
+			<br></br>
+		</Table>
+		<Preface>
+			<Title></Title>
+			<Content></Content>
+			<Author></Author>
+		</Preface>
+		<Copyrecord></Copyrecord>
+	</Formatdata>
+	<Contentdata>
+		<Work id="">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle></Sexagenarycycle>
+					<Year></Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name></Name> 
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort=""></Question>
+				<Answer></Answer>
+			</Answerdata>
+			<Additionaldata></Additionaldata>
+		</Work>
+	</Contentdata>
+</CE>
