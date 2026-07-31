@@ -1,0 +1,5220 @@
+<?xml version="1.0"?>
+
+<CE id="CE1000GB01" korname="과부" chiname="科賦">
+	<Metadata>
+		<VolumeCount>단책</VolumeCount>
+		<Title>
+			<Maintitle>科賦</Maintitle>
+			<Subtitle></Subtitle>
+			<Foldingmarktitle></Foldingmarktitle>
+		</Title>
+		<CompilationType>사찬</CompilationType>
+		<Author></Author>
+		<Style>賦</Style>
+		<Period></Period>
+		<Seal></Seal>
+		<Collectiondata>
+			<Institution>고려대학교</Institution>
+			<Callnumber>신암 D5 A10</Callnumber>
+		</Collectiondata>
+		<Edition>필사본</Edition>
+		<Additionaldata></Additionaldata>
+	</Metadata>
+	<Formatdata>
+		<Table>
+			<br>呈詩諷贈綵【初 洪啓謹】</br><br>六一泉【再 洪景海】</br><br>勿穆卜【三 洪述海】</br><br>琴解【四 李明煥】</br><br>廣魯於天下【五 朴挺源】</br><br>同題【權極】</br><br>朝服濟河【六 洪⿰(日+遂)】</br><br>孟子善用易【七 柳敍五】</br><br>蜀道易【八 權極】</br><br>熟視【九 李明煥】</br><br>君子盡老【十 洪⿰(日+遂)】</br><br>鞭草木【西 鄭棆】</br><br>引詩戒忠甫【中 姜允成】</br><br>雨賜【中 金履復】</br><br>意不在書【南 柳敘五】</br><br>同題【西 徐命瑞】</br><br>命頌充國像【東 李仁培】</br><br>文章仙【合 李海敷】</br><br>德潤身【初 李益煊】</br><br>春秋始隱公【再 沈公猷】</br><br>獻璧馬【三 姜趾煥】</br><br>題詩寺壁【四 權極】</br><br>記末論得喪【五 南公弼】</br><br>聊與諸姬謀【西 李德楠】</br><br>籲俊尊上帝【中 李載恒】</br><br>同題【西 姜楙】</br><br>同題【南 金致讓】</br><br>同題【東 鄭德煥】</br><br>翠裘付家奴【合 宋翼洙】</br><br>康節甚喜子房【初 李彦㷜】</br><br>請畢今日讙【再 李昌燮】</br><br>出敎遣張扶【三 趙載述】</br><br>桃園結義【四 申琬】</br><br>同題【趙載道】</br><br>疇若予上下草木鳥獸【▣(五) ▣▣▣(李世和)】</br><br>迎春【六 金陽鎭】</br><br>過限七年方乞身【南 洪晙】</br><br>五就桀【▣(東) ▣□□(姜必嶽)】</br><br>拜昌言【東 元重擧】</br><br>閣芝【中 趙載道】</br><br>同題【西 俞彦䥧】</br><br>哂由【初 宋百休】</br><br>蓂莢【再 鄭佑淳】</br><br>笑答天台生【三 鄭佑淳】</br><br>同題【姜楙】</br><br>脫穎【四 元重擧】</br><br>有聲畫【五 姜楙】</br><br>同題【鄭佑淳】</br><br>陽月【六 姜楙】</br><br>解鞍【七 李廷鳳】</br><br>神師畫牛本意【八 金致讓】</br><br>鳳雛【九 姜楙】</br><br>同題【鄭佑淳】</br><br>易重一斤【十 鄭佑淳】</br><br>同題【姜楙】</br><br>重歎篔簹壁上詩【南 李載㷜】</br><br>託意詠浦鷗【西 李泰運】</br><br>人能弘道非道弘人【南 宋百休】</br><br>望陣惡如籍【西 柳成模】</br><br>灑然變色【中 尹東美】</br><br>怒喜罵蕭何【東 李可學】</br><br>都是膽【合 權敬應】</br><br>乃統天【初 尹東美】</br><br>同題【申應顯】</br><br>喜起明良【再 朴垂▣(聞)】</br><br>西銘如棋盤下棋【三 蔡宅▣(夏)】</br><br>罷約賦詩【四 申應顯】</br><br>記得南院言【五 崔錫祉】</br><br>讀訖拜稱神【六 金履復】</br><br>溫公必取斯言【七 洪羲瑞】</br><br>東南風藥周公瑾【東 李可學】</br><br>不及潮州一鱷魚【南 李顯普】</br><br>借酒澆碨磊【東 鄭橃】</br><br>同題【西 李時模】</br><br>驚問黃帝塚【中 鄭維恒】</br><br>金鎔賦見將相器業【合 金鍾秀】</br><br>叱鬼屬疏草【初 尹昶】</br><br>城門開言路閉【再 申光震】</br><br>書與零丁詩【三 金載厚】</br><br>子瞻高賈生一格【四 趙德洵】</br><br>大龜興三世【五 趙德洵】</br><br>發笑遠遊篇【六 安聖大】</br><br>赤日出海心不死【七 宋百休】</br><br>以風解【八 鄭益祚】</br><br>豈復超超渡湘水【九 姜必敎】</br><br>第恐春風吹又生【十 尹昶】</br><br>幡然改【東 鄭忠彬】</br><br>歎離騷晩出【中 郭一弘】</br><br>夢周公【西 李堯白】</br><br>寄詩賀水部【南 申光哲】</br><br>子房了債人【中 黃仁熙】</br><br>蹴虎【東 申琬】</br><br>求節敢諫中【合 尹暐】</br><br>却把丹靑畫別人【初 李商說】</br><br>投袂【再 崔粹良】</br><br>起舞屬丞相【三 柳雲羽】</br><br>賣季布【四 李顯普】</br><br>同題【李海敷】</br><br>示背【五 李海敷】</br><br>輿曳柴【六 吳濬根】</br><br>同題【李海敷】</br><br>書陳揉桑事【七 柳雲翼】</br><br>同題【柳雲羽】</br><br>請以咸陽壽趙王趏王【八 吳濬根】</br><br>同題【李海敷】</br><br>無多酌【九 柳雲翼】</br><br>願得居前死單于【十 吳濬根】</br><br>責謝昌國君【西 吳濬根】</br><br>同題【中 兪彦鏽】</br><br>復定南軒集【東 趙維鎭】</br><br>無人識權字【南 李鳳德】</br><br>揖客【合 李顯普】</br><br>豫讓【初 邊得讓】</br><br>大風起【再 李奎彦】</br><br>同題【邊得讓】</br><br>借石以吐氣【三 李時模】</br><br>暗合老氏知【四 柳雲□(羽)】</br><br>復來誦婦言【五 柳雲羽】</br><br>陸學如閩商【六 任濟遠】</br><br>范增不及外黃兒【七 趙維鎭】</br><br>勅天歌見虞韶不亡【八 趙維鎭】</br><br>遂封唐【南 洪相宅】</br><br>鶴歎【中 朴東一】</br><br>賀白龜【東 李奎彦】</br><br>松菊猶存【中 柳儞】</br><br>同題【西 黃懋】</br><br>同題【東 李學源】</br><br>同題【南 李蓍賢】</br><br>黃帝三百年【合 邊得讓】</br><br>登華諷世【初 李秉延】</br><br>請畫白頭翁【再 韓用和】</br><br>三念戒徐君【三 沈陽元】</br><br>暮春戒保介【初 徐存修】</br><br>乘觀對齊侯【再 柳成模】</br><br>皇朝有其事【三 柳雲羽】</br><br>感助記黃牛【四 柳雲羽】</br><br>韓信開出路【五 權邵】</br><br>玉說諷魯王【六 權邵】</br><br>刻詩置草堂【七 柳雲羽】</br><br>留飮語陸賈【八 李學源】</br><br>忘癖論竹鶴【九 李秉延】</br><br>玄酒味方淡【十 李秉延】</br><br>顧諟天之明命【東 鄭仁煥】</br><br>羹頡侯【中 林夏喆】</br><br>每食必飽吾亦有奇事【東 李德溥】</br><br>大丈夫【中 李泰運】</br><br>大風歌不能爲三代王【南 李得一】</br><br>退出匣中筑【南 鄭必淳】</br><br>乘韋犒秦師【中 柳成模】</br><br>同題【西 趙寬鎭】</br><br>車轔知强止【合 李學源】</br>
+		</Table>
+		<Preface>
+			<Title></Title>
+			<Content></Content>
+			<Author></Author>
+		</Preface>
+		<Copyrecord></Copyrecord>
+	</Formatdata>
+	<Contentdata>
+		<Work id="1">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>홍계근(洪啓謹)</Name> 
+					<Courtesyname>경부(敬夫)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin>남양(南陽)</Origin>
+				<Year>
+					<Birthyear>1718</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">呈詩諷贈綵</Question>
+				<Answer>機絲寒於臘窓 七襄爛於吳歙 齎深慽於呵手 惜空費於纏頭 形於詩而竊歎 跪敷袵而呈前 冀或感於淸詞 願無賚乎匹練 陞公堂而待中 誦詩餘而織素 知多苦於埋機 幾遐憐於寒梭 迨率堂之樂豈 有相君之姱麗 聆嫋嫋於遏雲 停余袖而潛窺 回北門之飮博 復東山之携妓 淸歌悅與入耳 綵匹輕與隨手 紛一轉而一與 爛如雲之垂垂 笑無恤其出處 慨非察於織苦 輸多日之積勞 資半闋之纖謠 豈丞相之誤耶 不知苦之故也 吾寧察彼女工 憑文章而規規 鋪辛苦於擲梭 勉賚與於分帛 究其本則慽矣 想覽玆以惕若 勞抒柚於日夜 異苦逸於彼此 述其情以備陣 再拜進曰監玆 要載詞於傷女 俾隱諷於賞姬 其辭婉而曲情 申以規夫相公 諷惟深於句裏 言亦切於察工 旣一篇之呈上 公曰善哉娘詩</Answer>
+			</Answerdata>
+			<Additionaldata>初抄 成 李周鎭</Additionaldata>
+		</Work>
+		<Work id="2">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>홍경해(洪景海)</Name> 
+					<Courtesyname>숙행(叔行)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>남양(南陽)</Origin>
+				<Year>
+					<Birthyear>1725</Birthyear>
+					<Deathyear>1759</Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">六一泉</Question>
+				<Answer>倚半壁而永欷 觀流水兮潺湲 矯精靈而詠昔 溯淸派而翹懃 禪詰爛以不爽 聊錫之以嘉號 泉消消而有異 耿吾托此永慕 林泉曠而子管 昔予聞於勤師 籠天地而臥遊 聘文章而宣之 瀜時四以大放 麗秀爛於庭衢 紛總總兮九州 何莫非夫子有 奎纏晦而釋化 遌遺像於龍堂 靈髣髴而莫覿 隱思君兮忡忡 山之阿兮鷯鳴 溘有泉之潺潺 留慧精於如火 起一派於平地 異雲跪而鞠予 仰遺風而遐翹 風雲爛其昔遊 八荒遐猶案几 廬阿逖於鏡汜 神怳惚而徜徉 精皎皎而在上 橫四海兮有餘 𥸤琴筑而響起 通一理於玄空 儀師鞠而永靚 爛冥應其靡爽 聲洋洋而漱玉 怳蠟履之飄飄 昔之無而始出 若有意而迎予 凭淸波而累唏 匪子力而伊誰 般陞皇而赫戱 沛神馬而揚靈 琤琮鳴而轉激 宛聆子之天球 公靈毅而如覿 宜表爾而名之 寧大守之自有 矯以歸之之子 其名𠋠而靡忒 聿稱云曰六一 曾天放於八極 今有名於一泉</Answer>
+			</Answerdata>
+			<Additionaldata>再抄 成 李天輔</Additionaldata>
+		</Work>
+		<Work id="3">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>홍술해(洪述海)</Name> 
+					<Courtesyname>중선(仲善)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>남양(南陽)</Origin>
+				<Year>
+					<Birthyear>1722</Birthyear>
+					<Deathyear>1777</Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">勿穆卜</Question>
+				<Answer>精皎皎兮薄天 拊金籥而愀予 隱思君而目渺 詠嘵嘵而遐唏 班昭昭其獲書 詔太史曰屛之 皇覽揆兮忠誠 謇何爲乎筮龜 東山暖兮舃萉 朕莫開兮金縢 三壇高而孰察 憺鴟謠兮洋洋 風電焂其夕起 皇穆穆兮將筮 皎予誠兮占災 命咎繇使示兆 謇皇皇兮啓籥 耿吾得此公書 蒼珪煌以代某 三后洋而臨止 精忠菀以上假 與日月而齊光 王膺慶於𥸤墠 文在玆而足徵 言煌煌兮考繇 史繽紛而咸喜 袞衣飄而弗返 我渺渺而奚悟 鴻渚邈其顧我 寒誰留兮滔滔 登遺祝而耿懷 愀予思於轟轟 皇穹漠兮鑑女 繽儆予以雷雨 寧爲診於禾稼 撫繡裳兮遐翹 詹元德兮帝悲 凭列缺以誘之 天之命兮旣鞠 睠篿筳曰何諏 雷塡塡兮彰德 予沖人其始悟 謀于心而喚疑 仰天意而靡忒 天以么而降災 羌不可乎穆卜</Answer>
+			</Answerdata>
+			<Additionaldata>三抄 成 同</Additionaldata>
+		</Work>
+		<Work id="4">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이명환(李明煥)</Name> 
+					<Courtesyname>사회(士晦)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>전주(全州)</Origin>
+				<Year>
+					<Birthyear>1718</Birthyear>
+					<Deathyear>1764</Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">琴解</Question>
+				<Answer>璠音冷而御箕 散逸韻於碧落 凝天耳而寂聽 貫靈化而冥覺 邈神遌其東肆 遜眞諦於嵇老 靖乘化而超累 沕契音而頓妙 幽懷恨於𤃡汜 寓人間以形役 愁纏惱於苦流 驁狂頓於羈鹿 神無適而獲怡 遂寄心於龍池 肇拊絃而禁邪 爰拂軫而專思 夐潛會白默歸 倏神遇而天隨 山何岑而水泱 魚何䀪而鳥蹌 凡精發而冥悟 泯色空而靈通 天無人於廣樂 時帝傷而頫聆 托人形而幻緣 穆解懸而陟戱 人孰憐於指景 神自怡於撫徽 謇從容而顧笑 聊安節而淸挑 凭師牙之少知 晏皇禹之視歸 渾動寂而合迹 按徽軫於偕化 心通聲而感音 神入妙而發懷 專七寶而賜果 超三蟠而無累 漢虛靜而滅塵 獲所求而何思 淸身業於幻脫 浴煩勞而恬愉 化若是而永靖 職維琴而解之 孰非得而可服 苟無通其曷致 志搏搏而精結 沕律均而感微</Answer>
+			</Answerdata>
+			<Additionaldata>四抄 成 同</Additionaldata>
+		</Work>
+		<Work id="5">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>박정원(朴挺源)</Name> 
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">廣魯於天下</Question>
+				<Answer>洋洋舞兮恤廟 穆將愉兮和恒 陳龍吳兮浩唱 繽伊耆兮竝迎 繹幾音之繁會 展也廣兮東土 惟顯德而遐屆 被大樂而揚之 魯之樂兮皇錫 槪欲彰夫公勳 朱千奕而象武 素翟躚而斐文 山罍煌而穆穆 巍迓衡兮登新 思九夷兮夐博 菀馨德兮襲汝 東漸歈以舃几 南訛稽而雉禎 晷埏垓而汜布 爛上下而明芝 班汪濊而博衍 聿于何而彷像 鞮鞻趨而按節 倂佾舞以渢渢 朝雉關而任掌 象生時又時養 騈採謠而應律 協葩音而萬舞 簡簡鼓兮嘒管 羌僊僊兮茅羽 聆遐歈而穆想 魯湯湯兮難名 襲袞冕而爛昭 率日出而咸仰 般舒懲而狄膺 賁德華於雅雅 功宗皇其承綏 聿天地而同和 龜蒙張其廣樂 抨朱離使聳聆 於不顯乎率濱 俾張大于東魯 先公有此碩膚 禮樂融而耿著 洋徐宅而有餘 橫四海兮焉窮 罙際蟠而語大 環裨瀛而喩廣 撟東嶽之小視 與淸廟而齊光 樂至斯而擾擾 一魯大於天下</Answer>
+			</Answerdata>
+			<Additionaldata>五抄 成 同</Additionaldata>
+		</Work>
+		<Work id="6">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>권극(權極)</Name> 
+					<Courtesyname>여건(汝建)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>안동(安東)</Origin>
+				<Year>
+					<Birthyear>1717</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">廣魯於天下</Question>
+				<Answer>豐楹登以越操 公有頌而廣文 儀三譚而夕張 協八風而鏗殷 于閟侐而間奏 覽龜䑃兮有餘 撟聖德而永觀 撫胥鼓而遐歈 聆武亂而東顧 獨我宇兮販章 時運洋於率普 丘墟局於翰屛 明堂曠而舃位 朕思長於敉功 旅章煌其曷豐 弧韣載而非阜 雲濩侑以白牡 永以嬉夫春秋 旅楹閑而樂備 金石播而散揚 般陞降而下管 穆淸廟而愀予 惟廣德之所及 備窮髮而乃可 夷音紛以繁會 兜離錯而迭奏 歌雕齒於日南 詠文身於越東 感采陳於土風 發至德之輝光 篤不忘此武德 穆將薦夫公宮 朱干曜於象昧 詭裝渾於皮弁 疑象鴙而旅獒 怳東上而西面 依廟東而貫覽 何幅員之甚大 靈承皇其述作 一宇宙兮皆魯 雖咸丘之蕞爾 顧孔樂之其廣</Answer>
+			</Answerdata>
+			<Additionaldata></Additionaldata>
+		</Work>
+		<Work id="7">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>홍수(洪⿰(日+遂))</Name> 
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">朝服濟河</Question>
+				<Answer>皐門煌以劍舃 載九命兮方明 被龍光兮爛爛 撫東表之泱泱 其衣祈兮七之 公在何而揚靈 昭文象而戢戎 賁爲章而榮陽 曰靺韋而西渡 有如河之白水 操吳戈兮帶犀 飄大厦而縱轡 風東侯以義聲 赫王愾而撻武 徵荊茅而劍及 指溫麥而袂投 淄波沔其折東 洛水洋而在彼 衣裳爀而九會 天子尊於中土 葛宮邃而九旒 爛繹茀而嘉會 威顔近於拜胙 寵九章以綏余 牛壇屹而結檜 蒲同煌而盈繡 龍旆揚而夕張 橫大江而颷想 皇靈濯於一匡 湊四嶽而群宗 河山廓其表裏 冠冕尊於天下 干戈弢而玉帛 我服煒而象功 昭采藻而孔陽 爛天貺而餙章 惟玆衣之可貴 表獨著此文德 翩階羽而振袂 庇四暝而敷爗 兜衣炯以黼黻 五紽徨而恩光 拚心貺而感德 穆將光兮朕庸 包櫜鞬而解鞅 攬天章於在笥 華采衣兮若英 澹九稃兮揚光 抨江神使安流 詔馮幾而光導 龍章凝於彩鷁 鳳凰翼其升旗 龍偃蹇兮姣服 宛在水之中央 章斐斐兮孔昭 頌安吉兮無斁 鳥旟翩其載烈 吾其濟兮君靈 嬌女以其美好 顧射釣而色上 然其文之假爲 彼之衣兮不稱 丘呼驚於子夜 袞殮稽於六旬 臨長河而太息 儀尺羞於孔門</Answer>
+			</Answerdata>
+			<Additionaldata>六抄 成 同</Additionaldata>
+		</Work>
+		<Work id="8">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유서오(柳敍五)</Name> 
+					<Courtesyname>계상(季常)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1711</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">孟子善用易</Question>
+				<Answer>梅窩靜而玩易 里先天而尋師 龍在田而舜象 明入地而箕以 孟氏接其餘芳 運自然之妙用 默無言而道存 履時義而安行 蓋鄒聖之於易 語不及而心通 孔翼昭而何言 羲畫奧而默契 擧以措之行藏 秉陽剛而爲度 體白賁而修仁 則黃離而循義 翼四象而經世 導六龍而環轍 羈齊梁而歎睽 角揚墨而憂剝 哀井渫之不食 攬艮趾而爲吉 紛隨時而顯晦 儘無往而匪易 時君雍而理看 羌孰可以言已 詹介石而目貞 理括囊而無語 操玄緘而默運 象莫覿其端倪 宣惠矇其至象 萬丑瞽其神機 顝妙悟而潛用 綽素履而餘裕 繽迍邅而蹇連 詠陽九而無疚 颺綵花之德容 結碩果之生意 苟値時之回泰 佇隨雷而偕復 惟龍繇之體象 夐冥穆其回斡 曾何煩於講解 竊獨奇於施爲 譬猶天之無聲 易自行於其中 肆堯夫之的見 以善用而爲評</Answer>
+			</Answerdata>
+			<Additionaldata>七抄 成 同</Additionaldata>
+		</Work>
+		<Work id="9">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>권극(權極)</Name> 
+					<Courtesyname>여달(汝達)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>안동(安東)</Origin>
+				<Year>
+					<Birthyear>1717</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">蜀道易</Question>
+				<Answer>步余馬於天梯 掔乾維而春歈 儀璆鏘而樂豈 溯簾鉤而遐欷 山之峩兮偃蹇 睠以吟曰易哉 循仁聲而坦履 詠畏道而爲綏 白也難兮蜀道 槪以危夫杜子 戎床凄於醉登 殺氣濃於劍倚 欸千褒於世路 詔游子兮歸徠 撟吾恛此玉壘 聆遺藻而西嬉 浮雲變於古今 錦水暖而春回 軒琴張兮夕娛 柱台笏於山外 娵鰅逖於巴澨 子規鳴於夜午 蔭參井而曜峰 爛桃李兮成蹊 雲棧怳其改色 問前險兮焉如 重巒聳而百尋 修阪岌於九折 靑袍困於木末 謫仙爲之太息 看巉巖之憸色 悲末路之嶮戱 依古色於靑泥 咏在昔而啾予 臨鳥道之廣廣 騁騏驥使齊鑣 蓮帷澹兮永愉 山氣爽於擧眉 巴謠洋於載德 錦樹映於靑油 何昔日之上天 今直爲此平地 匪愚叟之移術 庶孝子之驅車 登靑雲兮未央 猗天衢而高歌 合行路而反辭 爛桂菁兮華予</Answer>
+			</Answerdata>
+			<Additionaldata>八抄 成 同</Additionaldata>
+		</Work>
+		<Work id="10">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이명환(李明煥)</Name> 
+					<Courtesyname>사회(士晦)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>전주(全州)</Origin>
+				<Year>
+					<Birthyear>1718</Birthyear>
+					<Deathyear>1764</Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">熟視</Question>
+				<Answer>街兒攔而拍手 夸者遊而垂劍 咨侮弄於挑達 沸嘲呵於騰蟾 惟王孫之偃蹇 目弗逃而凝覩 按怛愉而繼結 憑瀏睨而注沍 寧予口於漂泊 縱大眼於原鹿 崤關縮於睥睨 邯翳眇以嬰妾 凝淵圖以杳詢 放外貌而騃如 頎其形而穹儀 宛中枵而瞻虛 人頗似於尋常 所知寡而多難 猶腰間之劍橫 久礙視於少年 胥鳩盱而咨睢 幾巷謠而街詠 淮肆會以日中 時予行而無儔 撫長劍兮脩侏 歷街衖而踽踽 丈夫賦於登市 又逢彼之譏侮 夕夔足而宣驕 褰襦袴而傴僂 詡刺我之出我 惟乃命之第聽 佻兒戱兮底性 意以我爲伶俜 爾攪是以辱人 卬視汝而大擾 豎孺侵而豈較 還不嚬而伊笑 思長者之姑屈 將小兒之勉從 俛碩儀而却立 嘿無語而轉瞳 蘊怒膽而不發 轉遊眸而潛射 橫流涕而長久 意隨視而愈下 凝精爽於嘿眴 溢淵慮於竚胎 含左右而盱睨 注中情而强噫 森爾貌而習矚 怳後圖而潛思 倐從首而屈膝 羌回眄而復睒 誰之子之中愵 瞭多美而颺剡 卒楚强之眼恢 醻慰好而舊覿 留微迹而永揭 爛靑簡而榮目</Answer>
+			</Answerdata>
+			<Additionaldata>九抄 成 同</Additionaldata>
+		</Work>
+		<Work id="11">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>홍수(洪⿰(日+遂))</Name> 
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">君子盡老</Question>
+				<Answer>杞坮晏於洛園 悵冠劍兮遲暮 拚雲章而載歌 攬昃缶而康娛 蒼顔省於畫圖 嗟衆髦兮其衰 愍郡德之皆老 歎世運之將替 皇祐穆其鼎盛 曩諸公兮撫壯 金相煌其作人 玉楨菀以需用 周行植以衆芳 及年歲之未央 麾羲和使勿邈 與泰運以齊長 驚山壽之陟天 多素髮於三朝 天門暖以歲晏 咏芝蘭而東嬉 瓊花邈其帝醞 洛社泱以春酒 盤花濃兮娛老 澹年光於皓鬢 英堂敝而燕毛 勝會傳於龍眠 霜綃暎而斗光 儼風儀於七分 其冠偉而髮星 澹相對以杯酌 喧東人而說美 疇不榮此耆德 依玆會而耿顧 拊時運而遐懼 群英壯其玉珮 爛沼象之登熙 三秀茂其夕華 世冉冉而暮色 曾日月其幾何 人與世而俱衰 班升降而氣會 顝俛仰而多悲 唉耈德之行休 感泰運之底消 登崦嵫而拊景 倚象軸而幽噫 凭傳繪之美譚 詠愷悌之嗟老 依遺繪而永覩 想河洛之高會 羊酒澹而夕娛 契香山而趾美 非眞爲此尙齒 爛令德而崇之 廊廟曠其幾番 水升晏乎閑致 當休明其幾□ 景翳翳而西下 休爾夸夫晟事 竊卬悲乎氣數</Answer>
+			</Answerdata>
+			<Additionaldata>十抄終 成 同 賦 李明煥 洪⿰(日+遂) 柳敍五 洪景海 金鍾秀 詩 朴挺陽 鄭持淳 趙晸 李潭 呂善德</Additionaldata>
+		</Work>
+		<Work id="12">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>정륜(鄭棆)</Name> 
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">鞭草木</Question>
+				<Answer>蒼杓轉而日婁 萬翬藹而推甲 乘三微而出震 迓一氣而和德 郊蜡後而鞭草 像赤陽而宣之 體先務於東秩 鼓生意於句芽 承木德而首出 闢天造而宣敎 濟夭札於嘗草 象風雷於斲木 天之德而曰生 覽草木其有得 含神妙於么荷 寓玄理於蔀蕾 陽和屆於早萌 展萬物之權輿 當玄律之吹坎 閟活裏而揫縮 緘一練於南至 黯萬象於北陸 天心回於子半 貞攝提於建丑 仁沕穆而始萌 氣胚胎而方煽 玄堂豁而穆穆 皇撫時而翹懃 後七日之來復 占三陽之開泰 果不食於木落 孼將圻於茄粒 機方動於發育 不有宣而奚達 伻伊耆而考儀 倣土牛而制器 鞭煌煌而尙色 像赤帝以爲綏 東郊摻以卉木 帶化機之生生 召太皥而執弭 麾玄冥而鞭揚 春和蕩而手鼓 爛我赤而孔陽 匊功用於化成 對天地而無遞</Answer>
+			</Answerdata>
+			<Additionaldata>西庠 敎 韓翼謩</Additionaldata>
+		</Work>
+		<Work id="13">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>강윤성(姜允成)</Name> 
+					<Courtesyname>사집(士集)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1716</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">引詩戒忠甫</Question>
+				<Answer>圓方恢以灝純 脗寓機而馮馮 融天倪爲庶幾 局游蒙其鮮能 疇醇粹而娛愉 印以邵而鞠汝 撟覷妙於根窟 蘉蛻累於名利 鷄岑窈以逈塵 覽子所而詢訝 源原混而沕道 象峀㟿而資仁 彤雲斐以翼欞 洞幽妙而爲隣 班總總兮萬象 凡同體而自然 倚軒檻而寄傲 孯予襟而遐思 穹遼遼而下深 沕有契於昻頫 超無爲而至道 展有資於進修 苟無實其孰信 係塵網爲未可 名探騰而曷貴 志誘物而易舊 縱雲月之自娛 竟終歸於役役 撟至樂而溯觀 孰超氛而覷得 詩煌煌於樂窩 廓妙旨於神遊 明精粹於月榭 味眞遊於天機 探玄理而造極 憺神襟而爽愷 空樓屹以曠朗 御日月於無何 拚玆什而耿顧 可以規夫印友 詩言志而可觀 志娛道而宜體 焉係累於利藪 合勿契於遺篇 雲齊幽而步月 盍將把兮昭訊 般矯矯而永懷 詠在昔而爲言 擔眞道之自娛 戒名途之超蛻 惟恢理而益修 非徒貴乎玩賞 指淳芒於化理 仰先天以爲綏</Answer>
+			</Answerdata>
+			<Additionaldata>中庠 敎 趙明鼎</Additionaldata>
+		</Work>
+		<Work id="14">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>김이복(金履復)</Name> 
+					<Courtesyname>득초(得初)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>안동(安東)</Origin>
+				<Year>
+					<Birthyear>1720</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">雨賜</Question>
+				<Answer>天綏我以有渰 澹朋酒而色笑 眄西疇而解慍 憑新構而寄傲 欣相顧曰樂哉 且歸休於霈然 甄中堂之娛人 付一雨之自天 銅一佩於皇賜 間昏作以修觀 順雨暘而俶載 興土木而方營 響未掇於鼓鼛 環一方而瞻星 齎圭壁以若惔 攢梁臬而靡遑 離畢忽其告慶 詠斯于以普嬉 翬飛巍而屹功 靈雨降而應時 繽弗先而弗後 若有待於天人 籩豆秩而燕賀 偕二三而翶翔 蹇從容而敍好 湛相對兮盃酌 憂一解於南風 樂自鐃於暇日 疇假我以泮奐 拊華構而反顧 惟滂沱之以時 膏我苗而紓憂 回三農之將愆 占五穀之大孰 閭風淳而息衖 路遺浼而弗拾 百務歇以娛予 靜無爲乎公堂 夐傲遊而卒歲 寵霈澤而無彊 湯昔蒙於寵禠 眇我射而餘休 紛吾享此安樂 盍將播兮厥美 微言煥而揭亭 攬雨賜而申之 掬深喜於陶陶 敍洪惠於祁祁 聆遺章於喜雨 仰天休而遐想 方新亭之流丹 適四時之無靑 輪奐屹而曷爲 白日出而杲杲 俄薈蔚之曀奕 倐雷雨之奔驅 華堂豁而酒闌 樂衆賓而湛嘻 燕飛賀而效寵 兮厥賜之伊誰 甘霈霔於旱餘 上帝臨而申休 亭由雨而揭石 雨同亭而留美 民謠溢而街望 忭天賜而娛樂 後名亭而君賜 喟雨美又相美</Answer>
+			</Answerdata>
+			<Additionaldata>中庠 敎 趙明鼎</Additionaldata>
+		</Work>
+		<Work id="15">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유서오(柳叙五)</Name> 
+					<Courtesyname>계상(季常)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1711</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">意不在書</Question>
+				<Answer>澹皓髮而倚黎 袖神龍而時吼 循房纏而冀彩 詠風雲而爲綏 蹇貽書而耿顧 漠靈襟其維何 非妙訣之是爲 謂摧銳而後可 繹三約之翁意 若專在於授書 携火外之寶編 睠宇內之瓌器 雲橋戞以履響 攬婦貌而結貽 時夜闌而月午 爛開春而諄誨 然微志之細究 抑有在於書外 鶉芒曜而尙威 狙擊奮而餘怕 騰神駒而不羈 觸怒虎而無懼 懷伊呂之大器 蹈荊聶之駥機 翁以汝爲可惜 嘿誘衷使戾圮 佯墜履而屢顧 責折枝而餘傲 摧山湧之銳氣 遵磬折之巽意 矯氣質而變化 聿中和爲庶幾 拚儒像而永顧 撫素書而回思 靈偏縱其授汝 叟意非其在玆 英才旣以命世 不待書而自知 韜靲菀以蘊抱 籌策紛其錯出 旣自家之揣摩 又何書之可學 推橋邊之授受 意不在於凭地 庸玉汝而成器 俾了債於兩家</Answer>
+			</Answerdata>
+			<Additionaldata>兩庠合設南庠 成代考 李天輔</Additionaldata>
+		</Work>
+		<Work id="16">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>서명서(徐命瑞)</Name> 
+					<Courtesyname>백오(伯五)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>대구(大丘)</Origin>
+				<Year>
+					<Birthyear>1711</Birthyear>
+					<Deathyear>1795</Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">意不在書</Question>
+				<Answer>風精揚於霄星 一知心於留侯 傳璜猷於坐茅 資玉貌於運籌 坡立論而別見 謂叟意其非書 鑑英氣之大露 籍靈韜以深摧 想淮梁之奇遇 托精神於一篇 人豪怳其□□ 帝師期以殷勤 志固專於傳訣 故朅來於三夜 然神諏之細覷 似有意於書外 方鬼璧之未得 尙嬴斧之克利 宜待醒於醉鶉 寧憑河於暴虎 咨婦貌之氣銳 及結客於滄海 驚沙起於博浪 推副車而何快 金虎咆其十日 隱下邳而猶殆 視壯圖於鷹揚 謾俠心於鉛置 恢靈襟而嘿揣 眷英銳而思揉 知雄韜之潛諏 庶小勇之暗挫 習奚取於狙擊 才可期於豹變 丹書煌其在袖 聊憑此而相勉 始安期之墜舃 率章子之執屨 及三亭之卜夜 謂少年之可誨 蹇余迹其微意 悟不在於授書 思莫質之變化 托靈訓其虛徐 知有期於儒象 豈他地於文韜 荒橋夜而怳惚 一部敎於揣摩</Answer>
+			</Answerdata>
+			<Additionaldata>西庠 成 同</Additionaldata>
+		</Work>
+		<Work id="17">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이인배(李仁培)</Name> 
+					<Courtesyname>계수(季修)</Courtesyname>
+					<Pseudonyms>회계(廻溪)</Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>전의(全義)</Origin>
+				<Year>
+					<Birthyear>1716</Birthyear>
+					<Deathyear>1774</Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">命頌充國像</Question>
+				<Answer>威稜憺於枕上 僾典刑以桓桓 紆宸情於圖像 遡徽裂於開邊 西塵曖而人遠 詔子雲曰識哉 儀舊績於肅淸 頌新詞於穆如 囊書急以夕聞 皇旰食而西顧 鬱隱憂於推轂 遐遐想於聽鼓 思昧昧於曠世 孰靖亂於西土 央宮肅以一幅 老臣儼其皤容 金城入於圖土 遺像宛於敉功 繽便宜以封章 爛七分而可徵 如斯人其得來 朕何憂於西彊 風已逖於異代 貌惟稽於丹靑 懷前烈而不諼 唉朕情其悠悠 懿厥像之獨留 盍懋績之永綏 思頗牧而遠挹 詠方召而同歸 追皇祖之翊功 擬宗臣之配美 咨明靈於綏遠 煥武力於敵愾 圖奚盡於喩意 詞又繼於象功 凭繪素之彷彿 眷詠歌之鏗鏘 回秦朝之發歎 配周家之揚休 紆皇眷於念功 誦淸風於臨圖 詞人藹而解撰 煥筆下而洋洋 猗盛典而若待 拂生綃而增光 推長揚之獻賦 睿法殷之替像 警旣急於邊郵 思故發於宿將 撫漢乘而遐溯 想帝臣之綏邊 利通道於宛城 驃象冢於祈連 繽闞如而干城 嘐古人其焉追 威撫邊而警西 睠狑圖以何思 昔羌僰之樹勳 維漢後之將年 織鳥章以薄伐 來鬼方使庭貢 功煌煌而永逖 塑宛宛其獨留 憑采芑於六月 配典屬與衛侯 勳至今猶不沬 詠在昔以何忘 光西邊而一人 更何物之像功 傳靑編而不足 竝喈頌而同光 奚儒臣之撰功 爛皇寵於厥像 歸雲臨而竝高 撫乃孫而多想</Answer>
+			</Answerdata>
+			<Additionaldata>東庠 敎 李昌壽</Additionaldata>
+		</Work>
+		<Work id="18">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>甲子</Sexagenarycycle>
+					<Year>1744</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이해부(李海敷）</Name> 
+					<Courtesyname>여문(汝文)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>덕수(德水)</Origin>
+				<Year>
+					<Birthyear>1724</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">文章仙</Question>
+				<Answer>靈瑣肅其帝案 頫林府以遐悲 荊汜淼其蟬蛻 采江愁而鯨蜚 眉精蹌其載降 橫大宙而揚靈 凭神變之倐忽 寄翰墨而駝翔 奎躔煌其動人 公在帝以是司 臨杜陵而飮河 俯穉川而良史 談一誤於黃庭 幻神解而人間 疑天卑而自姱 眇衆兆而大觀 窮宙夐其萬象 寓朕心於何物 詹詩壇而白豪 戾兵壘而信傑 穹昊覆而酒壘 又有人其當爐 文垣屹其大地 久無主於終古 班楊棼其闢墻 屈賈從以開壘 天無乃其卑予 俠凭玆以宣之 公於是乎運機 乃大放其雄辭 編若木而作鋒 倒有盤而爲池 乾坤廓其萬物 籠以筆以流離 因其文而竊歎 以凡人而如是 雲辭玄而但神 吉才姱猶如鬼 惟公書其特捷 離人群而高視 聘鴻藻而勃鬱 姱蠛蠓而揮霍 繽虎變而獸攄 怳鳥擧而魚躍 詞苑闢其紫洞 鶴笙倚以金椎 風雲菀以紙端 焱八荒以淋漓 飄遺世而獨立 頫諸家之凡庸 山斗仰其亦偏 神鬼泣又匪獎 仙旣無於天下 攬我公其眞似 儻斯世之久留 作衆究以神化 天無人而帝悲 拊香籍而徠如 壁鶴同於湖龍 諸子繽其夸鬍 人仙去而苑閑 夐無管而凄凉 容城修以鬼倐 繫是仙而翶翔</Answer>
+			</Answerdata>
+			<Additionaldata>合製 成 李天輔 賦 李海敷 徐命瑞 韓必壽 尹鳳周 李德楠 閔百興 尹得雨 李仁培 詩 韓善養 李夏濟 姜世南 沈命一 李善海 柳東賓 吳大成 金德淳</Additionaldata>
+		</Work>
+		<Work id="19">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>乙丑</Sexagenarycycle>
+					<Year>1745</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이익훤(李益煊)</Name> 
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">德潤身</Question>
+				<Answer>行大道而有得 玉其輝而溫如 匪丹靑其可染 盍專攻乎近取 措諸身而潤腴 爛是德之攸廬 諒積中之儘美 故溢表之孔炤 原君子之大德 煥乎其有光華 澹純粹而爲體 該道義而咸明 繽存存其共由 彪厥輝而章章 固其用也廣大 孰做工而舍是 肆修己之欲着 務明德爲必積 逌誠正之安處 底寬乎之實地 塵垢滌而廣胖 葆虛靈之本色 天君泰而自如 瑩無礙而無滯 班膩道而肥義 儼俯仰而無愧 心奚蔽於發揮 氣常舒於動靜 存諸中而旣美 著乎外而愈章 容貌上而發越 辭氣間而溫潤 沛如水而浸濡 隨日用而自宣 用流蕩乎四體 果無餒而有裕 固積內之信姱 詎不顯乎其光 旣萬里之瑩澈 覺一身之華潤 匪德晟之內美 豈光輝之外著 緣厥美之抱得 面則粹而盎背 飽乎心而潤氣 不期華而自華 衣無求於文繡 味不待於膏粱 苟玆德之或虧 寧厥光之自煥 遂前聖之㫼此 揭方冊而明詔</Answer>
+			</Answerdata>
+			<Additionaldata>初抄 成 權⿰(衤+商)</Additionaldata>
+		</Work>
+		<Work id="20">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>乙丑</Sexagenarycycle>
+					<Year>1745</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>심공유(沈公猷)</Name> 
+					<Courtesyname>사원(士遠)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>청송(靑松)</Origin>
+				<Year>
+					<Birthyear>1724</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">春秋始隱公</Question>
+				<Answer>雅不作而跡息 聖奮筆而遐懼 咨圮絶而罔階 痛顚覆而難造 撟大法而自隱 竊有感於徽旨 旣皇綱之其終 故聖經之爲始 蓋春秋之爲書 卽天子之事也 尊周室而大書 名魯史而竊取 念孝惠之末初 宜權輿之在玆 繁霜降而憫虐 菀柳瞻其疚懷 然王轍之始東 幸皇風之尙遺 依瀍澗而縱替 賴晉鄭而甫安 豐鎬業其欲墜 猶有望於天眷 歎王室之不造 到魯隱而垂顚 揚之水兮束楚 遂不王於天下 王春暮而已秋 周道鞠爲茂草 旣風雅之絶響 宜是書之肇作 莊壇儼其執簡 聿勤始而垂法 假于魯而托權 首宗國而扶義 嚴尊卑於大防 寓經權於隻字 循時運而撫念 揭典刑而昭示 追黍離之旣降 起隱公之元祀 森其筆而肅法 亂賊紛其寒胆 明一王之大法 垂千古之謹嚴 寔有由於時世 認非偶於撰次</Answer>
+			</Answerdata>
+			<Additionaldata>再抄 成 同</Additionaldata>
+		</Work>
+		<Work id="21">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>乙丑</Sexagenarycycle>
+					<Year>1745</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>강지환(姜趾煥)</Name> 
+					<Courtesyname>백린(伯麟)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1715</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">獻璧馬</Question>
+				<Answer>戎功懋於拓地 美貨售於誘隣 瞻友邦而竝墟 攬前物而俱全 提良乘而秉璧 于以復於吾君 輸舊玩於賣敵 詫茂勳於還寶 昔公詔以伐虢 指璧馬而贊謀 將啗利而取路 佇越國而收績 王何愛兮小玩 昧誤隣之奇策 謀雖勤於征敵 志猶慨於居貨 惟神算之逆覩 料他日之煎取 唇之亡而齒寒 一旣擧而兩得 虞宮視以外府 走蚌胎而馳鬣 俄典幣之賣隣 五載間而集勳 桑都凄而告亡 雍祀隨而不臘 纔主憂之已紵 奄舊物之斯復 還故府而燦燦 服前輿而彭彭 欣秘計之竟售 慶奇珍之無恙 揆吾君之所寶 拊二物而多思 曾貽敵而旣靳 今返國而宜奏 收厚珍而在府 矯昔說之不爽 旣與人而奪人 盍於是乎獻公 牽風騣於赤墀 進月班於前席 良蹄宛其我馬 寶彩爛以猶昔 諒出我而復返 故玩物而載奏</Answer>
+			</Answerdata>
+			<Additionaldata>三抄 成 同</Additionaldata>
+		</Work>
+		<Work id="22">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>乙丑</Sexagenarycycle>
+					<Year>1745</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>권극(權極)</Name> 
+					<Courtesyname>여달(汝達)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>안동(安東)</Origin>
+				<Year>
+					<Birthyear>1717</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">題詩寺壁</Question>
+				<Answer>邈聖化於伽藍 徠鬼和於空花 匪墻麾而卽攘 等壑移而曷歸 披娑衣兮翩繽 撤梵唄而題詩 齎長慽於迫威 寄深刺於背閭 瞻寺壁而溯往 樂余棲此名區 曇局豁於露臺 寶筏連於花溪 招四衆而偕隱 眇十方而恢思 時宰忽其網利 我界入於姿睢 移谿壑於侈觀 逐緇徒於奪廬 官威嚴於日夕 法天王於塵寰 何所獨無勝地 胡寧取夫沙門 紛出彼而入此 羌不奪則不厭 禪房斷以暮磬 愀空山而愁予 方鰲扉之永遷 倚龍堂而潛悲 蒔花香於舊籬 老鶴閑於新巢 彼明月與白雲 摠我有而人領 知玆境之信美 詎無感於瀕行 追慈恩之詠花 效鍾山之吟龍 瞻天涯而俶裝 偕大苗而通情 旣不可以竝居 宜謹避而遐擧 憑文藻而自宣 浩歸意於物外 唉流俗之混濁 寓耆臘之微意 留長恨於題句 溢悲辭於刺世</Answer>
+			</Answerdata>
+			<Additionaldata>四抄 成 同</Additionaldata>
+		</Work>
+		<Work id="23">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>乙丑</Sexagenarycycle>
+					<Year>1745</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>남공필(南公弼)</Name> 
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">記末論得喪</Question>
+				<Answer>乾坤浮於一萍 華屋同於蘧蘆 物無全於長久 理故常於興替 凭文章而自宣 寓得喪之深意 斥陋習之夸大 視人事之成毁 岷峨菀而振裾 眇一世而揭芬 菀奇氣於干霄 騁達觀於超塵 迨鳳府之佐幕 被主君之輕視 昧庾公之禮遇 侮介甫之年少 辱旣深於見輕 意常嫌於受侮 俄凌臺之落成 公語余以爲記 華構燦而俾模 景物奇以命述 方臨高而執管 撫平昔而多思 念興廢之不常 顧繁華之能幾 朝華屋之突兀 暮荊榛之丘墟 前荒田而傑構 今高臺而何狀 知桑海之一瞥 摠蜃樓之塵空 秦礎凄以綠苔 漢閣虛而荒草 頹垣雜以破甍 問無憑於隴畝 雖殿觀猶若玆 矧此臺之何論 惟榮華其難恃 盍因是而寄諷 諒昧理於得失 宜視斥於夸耀 推平昔之所蘊 可玆文之寓志 騁雄詞於筆端 諷微旨於篇尾 陟是臺而考記 想陳公之本意 惟名譽之太早 慮志氣之或溢 何蘇子之莫諒 恒蘊中而不釋 爰托辭而自逞 乃寓意其深切 夫何事而撰述 亦可見夫悁隘 視夷然而一笑 匪小腹之可乃 聿榮悴之靡常 認自鳴其不平</Answer>
+			</Answerdata>
+			<Additionaldata>五抄終 成 同 賦 沈公猷 南公弼 李春培 尹得雨 權極 詩 李夏濟 元仁孫 尹養厚 李心輔 吳進源</Additionaldata>
+		</Work>
+		<Work id="24">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>乙丑</Sexagenarycycle>
+					<Year>1745</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이해부(李海敷)</Name> 
+					<Courtesyname>여문(汝文)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>덕수(德水)</Origin>
+				<Year>
+					<Birthyear>1724</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade></Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">三拜鹿鳴詩</Question>
+				<Answer></Answer>
+			</Answerdata>
+			<Additionaldata>中庠 敎</Additionaldata>
+		</Work>
+		<Work id="25">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>乙丑</Sexagenarycycle>
+					<Year>1745</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이덕남(李德楠)</Name> 
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">聊與諸姬謀</Question>
+				<Answer>陟阿丘而采蟲 詠竹竿而寫憂 雖女子之善懷 申大防而瞿瞿 咨諸姬兮恪聽 台所思兮忉忉 心嫌移而不省 就塞淵而儀圖 日懷歸兮沖沖 爾曁我而一般 瞻彼淇而願航 曾薄汚而薄澣 寒泉忽其永歎 蓼莪悽其餘音 魂一夕兮九升 攬燕燕而勞心 檜余楫兮栢舟 睠禮防其焉如 昔百兩兮將之 已女心之傷悲 今怙恃兮旣終 不瑕害兮歸寧 思纏綿而瞀亂 迷不知其所程 願載脂而載牽 乖義方之典則 欲遵禮而自持 哀緣情而難抑 廓獨潛而專精 思百爾而不獲 心憑噫而莫舒 羌孰從而謀諸 冀賜問而自進 只逢怒於往愬 思諏諮於在朝 奈衆穉而且狂 惟予志兮汝同 奕且婉兮諸媵 伊泌泉之永慕 卬及爾而炳炳 佩女訓而周章 又何間於彼我 揄長袂而自吳 攬珮玉而儀之 宿于干而餞言 兮臧否而焉居 發於情而止義 朕曷爲而得中 魂踰跌而不返 撫還車而難稅 聖制禮而斯嚴 復孰可而踰越 心矇矇猶未察 懷菀菀其誰語 古國思而以勖 予有心兮汝度 載遺篇而制經 蓋聖意之戒後 詠魯道之有蕩 胡背禮而速禍</Answer>
+			</Answerdata>
+			<Additionaldata>西庠 敎 金相福</Additionaldata>
+		</Work>
+		<Work id="26">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>乙丑</Sexagenarycycle>
+					<Year>1745</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이재항(李載恒)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">籲俊尊上帝</Question>
+				<Answer>降尹聖而湯聘 賚說良而武求 咸賢輔之有擧 寔帝命之無違 徵明訓於籲俊 悟尊上之在玆 諒天才之能用 認我敬之莫如 繄夏政之大競 蓋承天之丕釐 位旣承於君師 命惟勅於時幾 念賢俊之克上 信上帝之攸命 挺淑姿而賦德 授美質而降能 鍾山河之間氣 大抱負其如許 知生爾於世間 將爲用於天下 要儀逵而亮彩 佇揚庭而贊化 旣必欲乎平治 所以遺於邦國 顧事天之有道 在是俊之崇擢 才非偶於降生 念豈忽於旁招 方帝心之仰體 聿邦彦之敷求 羅俊士之列位 簡義民而縻爵 承明命於錯輔 藹深誠於籲哲 收生才於一世 俾代工於三宅 吾旣用夫彼賢 上不負於惟皇 凝宸旒而側席 謇尊帝而祗承 天不違於用賢 道莫如乎敬彼 惟彦聖之畢登 故欽崇之在此 旣厥賢之罔遺 亮其存之爲主</Answer>
+			</Answerdata>
+			<Additionaldata>四庠合設中庠 成代考 權⿰(衤+商)</Additionaldata>
+		</Work>
+		<Work id="27">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>乙丑</Sexagenarycycle>
+					<Year>1745</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>강무(姜楙)</Name>
+					<Courtesyname>자무(子茂)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>홍주(洪州)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1710</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">籲俊尊上帝</Question>
+				<Answer>天工穆其辟代 覽民德焉錯輔 虞咨嶽於勅命 堯揚陋於欽昊 徵籲俊而尊帝 台乂韙夫夏王 亮敷誠於旁求 認崇道於克享 粤夏德之格天 配上帝而時對 啓懋邦而祗承 禹敷文而光綏 皇穹儼其俯安 穆尊之以何事 天俾辟而撫邦 難獨理此兆庶 皇位難而藐予 帝載煩而萬機 昭在上而日監 辟一人以渺渺 三光熙而孰調 七政紛其誰齊 伊風雲與霜露 后豈獨乎若昊 知欽崇之有道 貴得賢而共理 杞瓜菀而有隕 巖穴俊其茹茅 飛龍利而在天 髦俊登而若采 繽贊化而代理 盍對揚夫帝命 肆哲后之側席 以籲賢爲尊帝 群龍爛其滿朝 招孔昊兮我察 邦旣乂於宅俊 朕無愧乎配天 ⿰(糹+穸)作幹而作楨 仰玄縡而同軌 庶明熙而在天 爛陟降于厥仕 嗟非俊而曷孚 所求賢而仰對 懿姬聖之㫼此 申以韶夫沖子</Answer>
+			</Answerdata>
+			<Additionaldata>西庠 成 同</Additionaldata>
+		</Work>
+		<Work id="28">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>乙丑</Sexagenarycycle>
+					<Year>1745</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>김치양(金致讓)</Name>
+					<Courtesyname>여득(汝得)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>청풍(淸風)</Origin>
+				<Year>
+					<Birthyear>1725</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">籲俊尊上帝</Question>
+				<Answer>皇德懋於拔茅 天職理於代工 招吉髦而勵翼 仰明命而祗承 徵尊帝於籲俊 攬聖訓而遐愬 推格謹之相須 示對越之有要 原誥后之理邦 及俊乂而共貞 環四方而禮羅 咨百工而績凝 懷萬機而佐治 恐天命之或墜 念帝事之靈承 有尊敬之惡道 資良謀於共濟 答上眷於代理 推乾父之丕責 懋宗子之欽崇 循玆道而上下 覽夏后之祗敬 儀九德而旁招 卽三宅而訏謨 莅天位而昭假 基宥密而無康 英才氣而績昭 曾若是其恭承 拚遺軌於迪知 得要務於欽帝 來庶髦而寤懷 仰皇昊而祗懼 緣有隕之自天 果莅職之咸若 惟彦乂之資治 所帝事之敬迓 旣承位而莅位 不期尊而自尊 斯一德之克享 在衆士之咸造 肆元聖之告后 揭斯言而申申</Answer>
+			</Answerdata>
+			<Additionaldata>南庠 成 同</Additionaldata>
+		</Work>
+		<Work id="29">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>乙丑</Sexagenarycycle>
+					<Year>1745</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>정덕환(鄭德煥)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">籲俊尊上帝</Question>
+				<Answer>天覽德而錯輔 皇簡修而奉若 惟其人於左右 允克享於對越 曰籲俊而尊帝 詔盡道於事天 因謨明於秩采 致欽若於崇賢 聖出物而御極 丕靈承於帝事 膺休命而體元 昭大德而若昊 然天位之惟艱 貴賢士之與共 機難曠於代工 業必弘於登良 百僚旣以師師 庶績由其熙熙 后垂拱而仰成 功位育以可期 顧俊乂之旁招 信有得於奉天 皇穹儼其賚治 哲王穆而迪簡 搜邦彦於揚陋 答帝眷於降任 旣時髦之彙征 固乾道之欽崇 苟昧術於任賢 亮無期於配命 肆后古之是蘉 聿群才之威籲 求側席於日夜 禮招旌於巖穴 寔賢賢而如渴 恒業業而敬若 官惟賢而昭事 皇矣帝其是尊 迪么德而亮采 虔一心而承乾 由重宸之敷求 看上穹之克配 天其子於宅俊 帝惟念於祗承 周公所以作誥 視深戒於成王</Answer>
+			</Answerdata>
+			<Additionaldata>東庠 成 同</Additionaldata>
+		</Work>
+		<Work id="30">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>乙丑</Sexagenarycycle>
+					<Year>1745</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>송익수(宋翼洙)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade></Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">翠裘付家奴</Question>
+				<Answer>服不衷則爲災 劉其膩而將浼 心惟切於割席 志豈肯於同袍 裘委蛇而自公 旋余授乎平頭 匪好人之攸服 視姱節之不屑 人第一於斗南 旋性行而製佩 襲蕙纕之遺芬 揖羊裘之淸風 屬簾帷之奏事 値弄臣之在傍 恫內豎之怙寵 恥小門之染跡 時珍裘之自南 侈六郞之殊錫 人似蓮於當局 翩翠衣之陸離 承綸綍而陸戱 指䙅襋而相賭 誠無雙之姣服 價實重於緋袍 然暬御之媚餙 異朝衣之章身 纔一言之抗直 已小豎之沮祶 千金輕於一擲 奄翠裘之已褫 回奪袍之宋喜 運坐炭之夷操 旣襲體於鄙夫 宜掩骼於賤隷 挈宮裏之翠雲 衣馬前之蒼頭 昔在笥之寵賂 今執鞭之短服 計實詭於挫侫 意故嫌於章體 將由縕之不恥 恐傑服之有浼 收秦府之懷篋 付齊門之裂軌</Answer>
+			</Answerdata>
+			<Additionaldata>合製 成 權⿰(衤+商) 賦 宋翊洙 安兼濟 具常五 金致讓 李命植 李錫宗 林得浩 金簡行 詩 洪趾海 柳煥猷 李碩載 李瀚 宋載中 李覺 沈恒之 李師言</Additionaldata>
+		</Work>
+		<Work id="31">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丙寅</Sexagenarycycle>
+					<Year>1746</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이언혁(李彦㷜)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">康節甚喜子房</Question>
+				<Answer>皇王卷而大鋪 帝者師而偏伯 撟三杯於揖遜 㑋一推於風雨 尋所樂於樂窩 顧何取於張也 諒厥用之相契 認攸好之在玆 挺人豪於大宋 得體用於玄繇 審貞咎而庸迪 我行藏而不頗 梅窩靜以弄丸 斂伯手而無爲 蘊蓋世之英氣 歷窮宙而求好 黃神邈而曷比 漆叟盪其不取 登空樓而大觀 頫擾擾於俗子 繽夸智而務現 疇善藏而不露 乘皇漢而竊取 顝子房爲庶幾 摎神鞱而佐眞 展幄籌而無踪 潛隨機而善用 渾圭角之不見 超紛拏而背處 傒事變而試可 惟儒像之可見 顧爾用之孰覩 托餘風之載懷 歎我心之先獲 求藏用而旣契 覽施爲而亦合 苟皆然於易地 欣相感於異代 豈爾學之可論 惟其用之予嘉 詹眞主之贊業 樂經濟之相符 顧赤松之從遊 嘉利遁之同歸 能隨機而見潛 若有得於大易 斯平生之所好 詎厥心之不艶 肆先儒之揚揄 謂甚嘉於留侯 知心事之旣同 式相好於千載</Answer>
+			</Answerdata>
+			<Additionaldata>初抄 成 南泰齊</Additionaldata>
+		</Work>
+		<Work id="32">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丙寅</Sexagenarycycle>
+					<Year>1746</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이창섭(李昌燮)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">請畢今日讙</Question>
+				<Answer>胡天懸以漢日 照精誠而昭昭 詹牧羝而永傷 徯南雁而不飛 方與子而飮酒 語維何於畢觀 心旣誓於死義 意故示於當筵 曩余拘於北海 驚消息於稽山 吾生寄於漢節 子名辱於摧轅 遵雪窖而冷光 望隴西而深惜 胡笳動於酒闌 歡故人於一席 陳肉酪而羞我 奏傑佅而永夕 追揷貂之舊遊 展握手之新情 胡卬友之不諒 羌饒舌於拓降 誇新貴於左袵 㑋苦操於嚙旃 聆爾語而激慨 增我思之悲憤 顧吾有此貞節 曾一死之已辨 生當爲乎漢臣 沒有願於南鬼 伊偸生而屈膝 余不忍爲此態 苟欲必乎相脅 顧性命之奚惜 熊魚審其舍生 杯酒非不取樂 寧伏義而自靖 歸以獻夫吾君 維子心之不同 奚舊義之足論 繽啣盃而接歡 詣以畢於今日 及席席之方闌 佇與子而長訣 朝獲仁而夕死 將舍笑於窀穸 甄昌言而凜斥 顔色少於降將</Answer>
+			</Answerdata>
+			<Additionaldata>再抄 成 同</Additionaldata>
+		</Work>
+		<Work id="33">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丙寅</Sexagenarycycle>
+					<Year>1746</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>조재술(趙載述)</Name>
+					<Courtesyname>선지(善之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>풍양(豊壤)</Origin>
+				<Year>
+					<Birthyear>1717</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">出敎遣張扶</Question>
+				<Answer>圓坮暮而詠樞 送諸曹而休暇 撟明酒於湑予 㑋展月於足事 驚坐府於小吏 遣女歸而申辭 甄告休於及告 詔湛樂於出曹 肇公佐以大府 緖廣漢而揚聲 恢風儀於勉庸 款酒糈於滌臟 三至適其節屆 古事傳於屛務 酬令節於告暇 澹明筵於樂歲 公堂掩以牒書 雁鵝散於中庭 誰坐衙於是日 兀無歸以靡遑 違休風於告謁 送暇日於薄書 塊空府以坐勞 汨無暇而瞿瞿 嗟良辰之不誤 慨多負於吾子 和爲大於禮用 事貴通於人道 雖百事之有期 豈一樂之無盬 官有令而吏散 室藇酒而媚俟 南隣嬉而北愉 社羔烹而朋酒 時固有此一娛 寧此辰之靡歡 摎靈節而惜去 爾亦可乎酣娱 樂可共於妻拏 頭豈埋於牒簿 子寧酌彼兜觥 婉鍾鼓而歌篪 謇申申而結詈 送爾歸兮家愉 勖曁衆而休燕 牖迨吉而康娛</Answer>
+			</Answerdata>
+			<Additionaldata>三抄 成 同</Additionaldata>
+		</Work>
+		<Work id="34">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丙寅</Sexagenarycycle>
+					<Year>1746</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>신완(申琬)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>공주(公州)</Residence>
+				<Origin>평산(平山)</Origin>
+				<Year>
+					<Birthyear>1725</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">桃園結義</Question>
+				<Answer>炎炎火其不揚 睠鴻烈而疇與 肝膽照於握手 詠棣華而爲綏 集桃園而鞠辭 顒帝冑之意氣 亮一體之君臣 謂他人之兄弟 今社稷兮若是 仗大義其吾責 傷艱危而攬涕 菀風雲而圖績 惟匡恢之大計 苟得士則殆庶 勞夢想於俊傑 歷九州而求好 詹揭榜而氣聳 孰與朕而同憂 人如豼之忽遌 又美髯之云遘 旅第夕而酒闌 颯英氣之驚座 披雄襟而話心 薄層雲而高義 頫中原而共悲 眷宗國以胥慽 志偏同於興復 情何間於手足 揄蘭臭而永歈 歌脊令而侑女 曾無異於骨肉 盍托義於昆季 辨精誠而鞠帝 闢小園以牲酒 桃花爛其滿樹 時亦維其春暮 指死生而爲正 關在左而張右 菀一腔之正氣 質九天而無慙 年雖殊而志合 姓則異而情深 疇處難而不忘 孰有侮而靡禦 皇綱裂而可振 大厦傾而將扶 跪敷袵而陳辭 上帝穆以臨予 繽旣翕而旣樂 知莫如我三人</Answer>
+			</Answerdata>
+			<Additionaldata>四抄 成 李冉輔</Additionaldata>
+		</Work>
+		<Work id="35">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丙寅</Sexagenarycycle>
+					<Year>1746</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>조재도(趙載道)</Name>
+					<Courtesyname>문지(文之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>풍양(豊壤)</Origin>
+				<Year>
+					<Birthyear>1725</Birthyear>
+					<Deathyear>1749</Deathyear>
+				</Year>
+				<Grade></Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">桃園結義</Question>
+				<Answer></Answer>
+			</Answerdata>
+			<Additionaldata></Additionaldata>
+		</Work>
+		<Work id="36">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丙寅</Sexagenarycycle>
+					<Year>1746</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이세화(李世和)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">疇若予上下草木鳥獸</Question>
+				<Answer>玄衣返而歈切 履裳土而出號 詢澤人而祗服 格山虞而率趨 嗚呼若其眷疇 頫予庭以鼂瞿 思衆生於順軌 撫徠責而申顧 廓天下而朕有 恐一物之失所 乘陽煦而燭幽 載博厚而遂度 薰宮巋而舃茀 皇謨洋而導宣 民彛煥而鬼饗 其下率則猶難 群龍退而稽首 大麓歸而餘思 曰庶彙之林總 亦上帝之卑予 根核藹於孼萌 羽毛嘉於翯濯 天惟賜乎雨露 罔巨細其品率 皇天大於育物 混衆象而同胞 山川濯而在戒 攬龐化而爲懼 般紛芸以一氣 朕責內而寧忽 撟蓂草以眷懷 憬孼尾以溯昔 靑陽爛以左介 澹遐思而儼若 雲謠聆於在衢 粗無憂於群龍 詹五辰而仰撫 攬庶績其無愧 惟若采於動植 固難人於勤咨 疇協德而沕軌 孰宣化而達賁 依颷祥而遐被 載皇澤而潛周 山之天兮澤離 戒斧罿使勿入 鏘环珮而滿庭 復誰是於膺責 詢老成而煩咨 訪岳牧而餘憂</Answer>
+			</Answerdata>
+			<Additionaldata>五抄 成 同</Additionaldata>
+		</Work>
+		<Work id="37">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丙寅</Sexagenarycycle>
+					<Year>1746</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>김양진(金陽鎭)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">迎春</Question>
+				<Answer>靑陽闢以槖籥 仰天路而同軌 瞻胚胎而撫辰 儀坱圠而博利 東郊儼以帝駕 肅公狐而迎之 撟天時於蝹蠅 則仁德於敬迓 皇代天而面稽 衆陽昭而釐工 承玄縡而位育 體三元而載成 掞洪勻之各遂 任化樞之普施 春坮藹而順時 囿泰階而敷化 參尾中而日營 木德屆於幹旋 回揫縮於北陸 養絪縕於東躔 薰太和而頡滑 鼓生意而陶甄 天縡運於煖律 爛句萌於出宸 明堂闢而茂對 玩春翹而齊思 皇猷燦於搢圭 穆撫辰於欽昊 推載陽於叶簇 敷仁政於調元 紛開簇而活絡 將代工而鞭約 詹百昌而仰若 攬七政而思敷 天機囿於𤅧融 芳王澤亦宜孚 般參贊而協燮 戾東甸吾將迓 齊鸞輅而肅穆 睠鑪韛而欽祗 陶龐澤之導和 象句芒之用事 將仁化於顒孚 撫玄切於北朕 靈壇屹而罄柝 竝大史而從之</Answer>
+			</Answerdata>
+			<Additionaldata>六抄終 成 同 賦 李世和 趙載道 申琬 柳成模 徐命瑞 詩 崔益男 申光洙 洪榟 朴挺陽 權敬應</Additionaldata>
+		</Work>
+		<Work id="38">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丙寅</Sexagenarycycle>
+					<Year>1746</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>홍준(洪晙)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">過限七年方乞身</Question>
+				<Answer>披遙賀以大勇 撫華髮而忸怩 金華惱以夢思 秋圃黯而晩歸 攬引年而反顧 嗟冉冉而過七 撟乞休於頹嶺 惕踰限於初約 曩台身之强健 早結戀於款田 厭持被於玉署 矢懸車於壯年 踰知命於方八 寔餘恨於休老 退何拘於戴禮 乞宜早於疏骸 及同志於書楣 撫朕齒而延仰 歷三朝而迨玆 皇縻我於名韁 賦未就於遂初 詩獨留於思款 惟約退之昔年 卽紆寵之今日 天恩頻於玉局 歲華道於花磚 羌拘攣於世故 欲擺脫而未能 天門晏以揄咎 始丏身於今皇 柱台笏於蘆阿 遂我服兮居士 謝兩府而十畝 弗撫壯而及暮 依柱書而遐顧 年淹淹其過幾 曩有限於三休 今不圖其七年 塵思惱於金鑾 歸計晩於林泉 始決退於五十 嗟過期於六旬 矢余辭於在楣 應子華之笑人 撟乞身於已晩 儘踐言之誠難</Answer>
+			</Answerdata>
+			<Additionaldata>南庠 敎 任璞</Additionaldata>
+		</Work>
+		<Work id="39">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丙寅</Sexagenarycycle>
+					<Year>1746</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>강필악(姜必岳)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">五就桀</Question>
+				<Answer>聖自任其天下兮 戴時日而愀愀 洵擇君其不暇 苟用我則才就 凡如是者幾許 羌匪一而至五 聿存心於行道 豈憚頻於就彼 粤夫釋耒而翻然 初迨就乎聖人 溝中隱其一夫 儗堯君而舜民 覽民德焉思輔 云走乎彼乙氏 璜坮嵬其天王 聖不有而歸之 悲夏德之常違 奉天民而薦帝 板聖心之不和 摎吾道其焉如 治亦進其亂進 歷九州而皆君 雖瑫宮之流毒 狂丌聖於用予 民奚墜於炭塗 邦豈阽於顚隮 圭社保其永籙 定有榮於聖湯 公心見於屢薦 臣摯敢曰彼愚 匪謂癸之可相 人事冀其或然 將以鑿而用柄 固知是爲難事 惟其盡夫我道 用不用其在彼 繇苦心之不釋 予何擇夫殷夏 誰以君爲不能 積血成其煩就 聖遇聖其在彼 獨亟往乎瑤庭 舍捨予其奈何 雖五友而靡悔 腁台手而胝跆 固甘心乎如如 歸以相夫聖王 匪本心於墟夏 徵放巢而懷靦 同一心而五就 遂爲之小唱 莘摯之任兮 孰非吾責 就湯則遲兮 就夏則速 捨我亦天兮 回志竭來 佐湯黜夏兮 俯仰無愧</Answer>
+			</Answerdata>
+			<Additionaldata>東庠 敎 洪重孝</Additionaldata>
+		</Work>
+		<Work id="40">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丙寅</Sexagenarycycle>
+					<Year>1746</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>원중거(元重擧)</Name>
+					<Courtesyname>자재(子才)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>원주(原州)</Residence>
+				<Origin>원주(原州)</Origin>
+				<Year>
+					<Birthyear>1719</Birthyear>
+					<Deathyear>1790</Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">拜昌言</Question>
+				<Answer>肅秉旄而歌韶 寅帝仁而聆輿 遵每每而若裕 孰諄諄而牖予 虛吾已而拜嘉 旨哉言其攸服 宴淵衷之式善 所聖躬之罄折 登吁喩而載颺 自在庭而師歸 般孜孜於日贊 羌納納於敷庶 仁曳赫其載社 奉帝辭而南屆 匡齒羽之不庭 遏彭蠡之橫流 旌祈翼而承天 舞威英而顒俟 嗟小醜之蠢蠢 越三旬而匪茹 環洞庭而自昏 梗士師之三就 宿予武而徘徊 齊爾戈而延佇 皇有命於至仁 我志菀而人知 侯虞氏之協謀 先我黽而其依 循天道之滿損 指歷山而爲綏 勖至誠於感神 詔彼頑之允若 播文德之洋洋 愒嘉猷之翼翼 言如日於提耳 邑有莊於度身 謇攝衣而惕若 懷善言而知仁 忻良謨之格予 容蠢息於度外 天有仁而帝欽 子言章而朕諧 紛矩準之雜畓 攝淸拱而欣怡 爰折服而上予 嘉身文之禮彰 恭其貌而遜辭 自不覺其下拜 俄旋師而舞羽 遂苗頑之首稽</Answer>
+			</Answerdata>
+			<Additionaldata>東庠 敎 洪重孝</Additionaldata>
+		</Work>
+		<Work id="41">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丙寅</Sexagenarycycle>
+					<Year>1746</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>조재도(趙載道)</Name>
+					<Courtesyname>문지(文之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>풍양(豊壤)</Origin>
+				<Year>
+					<Birthyear>1725</Birthyear>
+					<Deathyear>1749</Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">閣芝</Question>
+				<Answer>天安暖而谷秀兮 爛紫榮而秋菲 結幽房而延佇 侶武城而旖旎 携幽華而永哀 儀昭應而貯之 惻爾時之不遇 眷靈蕤曰勿墜 曰女昭質其紛郁 耀元氣之靈龢 王秀馥以國香 盻天休而貽嘉 往玉淸之搜瑞 后有事乎登汝 山紫薦而湊庭 岡穀籠於皇築 鄕攘攘而吏走 爛天府以猗猗 儐胡搴而夕擥 固衆芳之遌時 嗟爾生之不夙 在今皇之沖謙 搴瑤華而不服 屛九莖而幽林 卬之庭而草滋 爾何爲而敷榮 偕荊榛而夕秀 煥燁燁其彌章 悄寒香而獨立 怨秋風於荒皐 儂癖古而好爾 擥頳莖而翶翔 翹白雲而弔夕 歲旣晏兮孰華 惟枝葉之峻茂 悵無時其焉逝 愀幽谷而暮倚 芳酷烈而疇摛 條婀娜而莫聞 華芬苾而莫知 先王邈而已遠 爾將焉所程 縱人安爲上瑞 爾不遇如三馬 吾寧屋於中庭 薦靈華使榮貯 華楹植以載登 申以颺曰嗟芝 拚臭味於商老 溯凄怨於祥府 臨霜葭而永弔 獲華楣而容與 亂曰 爾之兮不辰 抱靈瑞兮焉如 嗟士兮抱奇 不我知兮奈何 或華兮天門 有坎柯兮欿嗟 爾芝兮我知而閣之 吁嗟兮士也悲</Answer>
+			</Answerdata>
+			<Additionaldata>兩庠合設中庠 合製未設 敎 黃景源</Additionaldata>
+		</Work>
+		<Work id="42">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丙寅</Sexagenarycycle>
+					<Year>1746</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유언선(俞彦䥧)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">閣芝</Question>
+				<Answer>士蓬累而不遇 草靈秀而莫售 撟此身之蹇連 哀彼芳之蕪穢 循庭際而薄掇 竊獨愛而藏之 凭人物之相似 耿有托此深意 若有草兮生庭 靈煌煌其襲予 茁一年之三秀 冠百晦之衆卉 膺神休而吐芳 謂之祥也亦宜 皇務嫌而閣瑞 匪是時之攸珍 違楓宸之效靈 任望草之同混 山之中兮歲晏 羌獨茂而燁燁 何昔日之異草 今直爲此蕪沒 攬芳馨而延佇 拊吾身而遐思 天衢渺而棲棲 抱幽蘭而蹉跎 搴播香而莫聞 將與草而同腐 遵物我而竝觀 寧草木以區別 士有志而莫試 草爲瑞而孰察 唉朕時之不當 嘆奇祥之莫呈 疇有取於此卉 世無人其我知 惟玆物之可貴 凡異類之同儔 憑臭味之一般 攬庭翹而愀予 人與芝而不辰 可於焉而同歸 竊有惜此靈芝 于以閣而藏之 悲斯功於屯遷 意古托於愛護</Answer>
+			</Answerdata>
+			<Additionaldata>西庠 敎 趙明鼎</Additionaldata>
+		</Work>
+		<Work id="43">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>송백휴(宋百休)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">哂由</Question>
+				<Answer>夫子得乎恭讓 謇誰趨兮前對 憑河勇而說治 袵金志而誇藝 春風藹於發哂 由也何其率爾 謙太露於遽對 寓深誨於微笑 由徒强而問徒 昔余勉以四者 桴乘海而許從 瑟噍門而垂戒 思文豹之丕變 潤咳質以時雨 和氣流於丈席 列待誾而左右 執謙德於毋吾 叩底蘊於言爾 强哉汝其率口 先諸子而趨對 邦千乘而務劇 政三年以爲期 辭則夸於是興 吾無遜於治賦 珠衡穆其默言 擬撞鍾於僻咡 雖爾優於辨治 鋒實露於輕擧 顧爲政之頭腦 一禮字而做去 政度具於理民 節文炳於經邦 豈徒賢於攻學 聿爲要於從政 儐禮齊而德導 襀達道於征格 自美事於克讓 宜慥慥於嫌德 何以對之勇歟 遽一言而論治 志有嫌於退讓 氣猶癢於强果 殊魯參之篤厚 異賢回之如愚 豈爾才之不優 惜乃言之太過 恢靈襟而嘿思 睠吾子之狂簡 術亦多於示敎 羌爲女而哂之 是不屑之敎也 詎無意於莞爾 認爲賢而責備 諒仍笑而設敎</Answer>
+			</Answerdata>
+			<Additionaldata>初抄 成 洪啓禧</Additionaldata>
+		</Work>
+		<Work id="44">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>정우순(鄭佑淳)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">蓂莢</Question>
+				<Answer>芧堦邃而暢德 爛薰腴之潛周 頳芝徨其膺瑞 指侫藹以昭休 隨朒朓而隕茂 又有草而占時 旣物覩之非偶 認天運之可知 咨羲和以歷象 曰異卉之生庭 涵深膏而峻茂 浥龐澤而增長 靈枝猗以薈蔚 儀帝荄而徨徨 超凡彙而有異 睠榮枯而惟常 敷新芽於幾望 隕靈葉於生魄 隨時日而罔愆 厭朔虛而不落 繽三百有六旬 聿於斯而可測 天機昭於一叢 宛同符於璿璣 循嬴虛而合度 占徐疾而無違 拚撓甲而曷貴 拊嚳歷而何施 榮謝隨乎瑞日 可人時之欽授 嵬至德於協天 地不愛乎其寶 昭深治於七政 助休績於五辰 旣靈卉之效象 惟不僭而賁然 依旬朔而不忒 更無事乎推步 不出戶而乃知 千歲日其可致 來羲仲而勅命 攬榮悴而平秩 謇旣異於凡草 斯以名之蓂莢</Answer>
+			</Answerdata>
+			<Additionaldata>再抄 成 洪象漢</Additionaldata>
+		</Work>
+		<Work id="45">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>정우순(鄭佑淳)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">笑答天台生</Question>
+				<Answer>詡談笑而按劍 頫世路而遐嘆 牙狗嘊而嚙群 李猫柔而戕人 謇爲誰而歎蚊 發微笑而爰對 執拂肱之細患 晣醢腦之深害 停揮箑而倚床 子告蚊而太息 驚噆肥而拊心 憯成雷而豎髮 撟微物之肆毒 指彼蒼而悒悒 愁利喙之吸膚 登造化之播物 絺惟閴而攬衣 拊天賦而尤之 憑玆言而永靚 達余觀而多思 播群彙而大勻 聽冶拊而一區 雖鉅細之各異 物物同其含生 翹肖繽其舛錯 豈有異於受形 强旣食乎弱肉 物雖然而人甚 紛乘間而濟穽 世途曖而愈險 戈爭尋而一室 石推下而同胞 顚草野而莫恤 餓道路而弗救 告奚翅於嚙肥 患實甚於吮膏 人情旣以險巇 曾異類之不若 物有求於昏夜 人相毒於白日 衣冠儼而啜粟 毒猶滋於細股 肆偈坐而發哂 對子語而申申</Answer>
+			</Answerdata>
+			<Additionaldata>三抄 成 同</Additionaldata>
+		</Work>
+		<Work id="46">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>강무(姜楙)</Name>
+					<Courtesyname>자무(子茂)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>홍주(洪州)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1710</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade></Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">笑答天台生</Question>
+				<Answer></Answer>
+			</Answerdata>
+			<Additionaldata></Additionaldata>
+		</Work>
+		<Work id="47">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>원중거(元重擧)</Name>
+					<Courtesyname>자재(子才)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>원주(原州)</Residence>
+				<Origin>원주(原州)</Origin>
+				<Year>
+					<Birthyear>1719</Birthyear>
+					<Deathyear>1790</Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">脫穎</Question>
+				<Answer>飛常情於動煙 影楚鐵而霍霍 南裝視以發硎 文席暖以尖鍔 鹿鋒厲而自躍 閃趙囊而穎脫 撟相類而引物 反彼喩而奇衒 爐天地而化冶 賦脫質於邯鄲 合方圓而托形 混剛柔而精鍊 紛燕鋒而岱穎 繞碣石之風雲 良工脫於趙堂 薄一躍於逢機 懮三年之處鈍 岐十八之零砂 昧子囊之不處 謂我鋩之莫利 尖鋒鑠而動色 暎珠筵而閃閃 排浮雲而露影 騰紫氣而翳陰 看公目之夕睞 覷吾錐其今何 矯張劍而待價 伴徐人於屠市 般仁裝而義餙 淬智水而砥硺 章臺入於大囊 撫利芒而瞬目 輕煙蔚而徯時 資一使於公子 君如囊於流漢 遂若錐而願處 江沱闊而鋩外 玉帛厚於夫橈 籠荊雲而莫指 冪郢樹而難罩 豈玆末之獨現 幷其柄而呈露 排纖翳而一蹴 洋身材而距躍 尖與穎而盡脫 以左右而颺飛 肆吾錐之已礪 盍夫君之我將 提明喩而反顧 騁劇諧而自薦 遂爲毛錐銘曰 圓柄尖末 鐵中最銳 舌鍔石劃 毛遂亦銳 錐銳遂耶 遂銳錐耶 是誰之況 其材錐耶</Answer>
+			</Answerdata>
+			<Additionaldata>四抄 成 同</Additionaldata>
+		</Work>
+		<Work id="48">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>강무(姜楙)</Name>
+					<Courtesyname>자무(子茂)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>홍주(洪州)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1710</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">有聲畫</Question>
+				<Answer>騷譠隣乎顧廚 筆法有其巧拙 工吮丹而理局 語逼境而機活 畫以兼其有聲 詩到此而稱奇 洵善鳴於寫物 耆龍工於揮素 論詩格於畫法 玆妙入於三昧 詞場接於墨臺 繡肝工於龍眠 毫端走其化兒 錦囊貯以鉛丹 敲推卽其嬴礡 月露凝乎蚊綃 江山入於點綴 同意匠於二家 然彼畫之異詩 不以聲而以貌 天機淺於巧手 永廚寂其三籟 云有響於大同 玆理茫而無稽 山無語於淡墨 人不應於招呼 勞經營於響外 只依樣乎胡盧 咨未得其活法 反以求諸詠句 籠萬象於筆端 泣化翁於口語 精通靈而感物 響天風而自然 牙吻繽以黃白 山水得其騷人 盈天地而韻淸 諧金石而響越 神以化爲極工 是謂畫亦不得 綺繡備其韶頀 雕刻兼以鏗鏘 術則同於響播 又無所於畫中 人工擬於天籟 手法遜於心匠 生宮商兮寫境 兼虎頭於夔鳴 神高馳而漠漠 聲以得其活畫 山河麗而欲動 風露淸而開語 詞場竝其二籟 誰云畫之無心 匪徒工於摸寫 沛正響而悄悄 留希音於宇宙 匝漢唐以分流 尋正脈於詞家 畫以聲者蓋希</Answer>
+			</Answerdata>
+			<Additionaldata>五抄 成 同</Additionaldata>
+		</Work>
+		<Work id="49">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>정우순(鄭佑淳)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">有聲畫</Question>
+				<Answer>騷壇菀其繪絺 爛玄黃而摛文 天巧符於奪造 妙解通於傳神 𤨿金石而煥炳 復瀏響之洋洋 歸同歸於能模 認有異於流聲 籠天地以筆端 詩善鳴而敷藻 幽韻靄而綺靡 萬彙困其陵暴 山河入於操觚 憺形容於呻咳 播錦繡而大放 元氣長以淋漓 撟彬菀而永靚 拊衡廚而焉如 參造化而硏丹 符經營於揮毫 文章煥其滿家 繪素爛其盈眸 風雲繞於巧寫 宛一般之通靈 然丹縑之幻物 異天葩之颺聲 音難叩於壁水 彩空麗於盤礡 雖天籟之厲響 兮莫尙乎甛筆 憑玆端而有語 睠雅音而多思 流新調於鼓吹 騰活法於花鳥 回人物於眼前 作畫笥之琳琅 天球振以入妙 怳有聲於丹靑 空形影於物化 逼淸姸而瀏湸 繽五章之相寘 獨徽韻之渢渢 摸月露而燦爛 草繪事而餘音 神奚貴於咿粉 律惟和於舂金 瓊章洋以綺語 振逸響而盈耳 宮羽鳴而逼眞 攬通神而無異 豈以詩而觀詩 信雅韻之奇畫 循斯語而細究 想摩誥之二絶 將輞川之一區 詩爲畫而鳴之 遵唳鶴於九皐 陋雕蟲於百代 評詞垣而拊聆 指玆畫而爲正 誦東坡之餘論 仰末路而遐唱</Answer>
+			</Answerdata>
+			<Additionaldata></Additionaldata>
+		</Work>
+		<Work id="50">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>강무(姜楙)</Name>
+					<Courtesyname>자무(子茂)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>홍주(洪州)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1710</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">陽月</Question>
+				<Answer>復之前而剝下 牝馬貞於亥會 猶望魄於旣朏 若待泰於極否 天縡䙡其斡旋 人以號曰陽月 旣云預其陽來 所揭名於陰極 純坤形於日尾 無一畫於陽上 三英入於混竅 萬籟歸於應鍾 玄冥宅於北陸 其菇十而理窮 逖七日之來復 甚八月之終凶 支干極於戊亥 天地揫其旭卉 寒床鳴其蟋蟀 氓在澳而何知 乘天機而袞袞 拊歲月而思悠 玄縡運其槖鑰 一理斡而沖漠 瞻烏环乎大宇 繽旣有此四節 方向晦而未明 不可謂之長夜 前地雪而虹藏 後蓐收而顓帝 春秋往而暫冬 得來月於今日 噓暖律於朔宅 繫碩果於觱發 包陽明於裏面 咨長道而世暗 蚩氓局於卽日 遇是月而全陰 參天人而頫仰 可斡機於名朔 權假號於復陽 詔和叔使弭節 挽重坤而歸乾 弋朔輝而南至 袖一線之玉衡 補湯和之所處 時維閉於大冬 我則視以暖序 群龍揚乎九位 披重陰而瞥天 天以陰而人陽 自消長之理嬗 玄堂闢其左介 太史揭以何號 求其常則是陰 姑以陽而肇揭 皇穆穆而面南 布陽德於坤月 登皇明于泰階 昏曀闢以白日 賢邪維其對待 噫陰盛而陽微 咨文明之在逖 久不揚於大界 王春入於伯冬 疇揭日於昏衢 尼丘炳其一燭 救王道於春正 今夷狄而亂華 少一綵於靑陽 山河霾以衆陰 理必享於極盛 三陽回於我東 聖人拊其乾德 命四夷而布政 仰神功於位育</Answer>
+			</Answerdata>
+			<Additionaldata>六抄 成 同</Additionaldata>
+		</Work>
+		<Work id="51">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이정봉(李廷鳳)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">解鞍</Question>
+				<Answer>龍鞱淵而設囮 執我虛而夸實 依孫竃而鎭弱 假晉鼓而籠敵 爰稅鞍使彼疑 夥李將之神籌 運奇柵於訛虜 視假安於解鞴 隴西世其將種 跨戎鞍而英略 驚虜瞻於雕射 騰神材於虎發 聲雄颺於朔野 儗月頭之懸鞍 迨雁塞之按鑰 覿告警之狼煙 夸猿臂於任革 㤼貂璫於蹲犀 招搖屬於繕怒 攬余轡而西驟 鳴大黃而執韁 設百騎使從後 焱風乍於一發 三醜入於利獲 前茅虛而誘我 云賊騎之將逼 聲班馬而勢突 倚山河而覘窺 荒堆漭而夜漆 殘甲駭而息鼓 紛束手而瞠眡 野壘慘而鞱彩 危機迫於走驚 在元帥而何籌 神謀運於倉卒 嘿據鞍而審勢 羌彼衆而我寡 儘難進而難退 苟吾騎使植鞍 宜彼謂其將走 寧示弱而徑退 可設機而堅意 移毁師之視弱 睠吾騎曰若徐 爰申令而下鞍 欥視閑於戎機 和星靜而臥杼 轡群卉而晏知 肆飛將之善謀 攬解鞍而歎之</Answer>
+			</Answerdata>
+			<Additionaldata>七抄 成 同</Additionaldata>
+		</Work>
+		<Work id="52">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>김치양(金致讓)</Name>
+					<Courtesyname>여득(汝得)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>청풍(淸風)</Origin>
+				<Year>
+					<Birthyear>1725</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">神師畫牛本意</Question>
+				<Answer>操板歸而執籌 走卒儼其多禮 粧妙機於眩人 筮奇勳於酬恥 詹畫牛而卽獲 悟將軍之有意 事非偶於近戱 計實在於設疑 城壘靜而縱牛 子其神乎紆謀 龍文閃而駭視 角絪鬱而騰怪 千群倐其蹴踏 怳鬼驅於中夜 韎韋繽其愕顧 辨膚公於倉卒 儀遺謀於永漽 覽余意而有得 靑油昔其運機 化老卒而神師 隱霄煙之彷彿 託畫轅之指揮 元戎屈於恪禮 環一軍而然疑 偕烏祭而薄嬉 若無裨則臨壘 然余觀於跡外 果子策之孔妙 聆旣警於拜師 瞻復駭於驅牛 羌慌惚兮設謀 摠一般於疑人 言寸詭於薦祀 計忽粧於束葦 咨無謂於戱劇 良籌臧於眩曜 推吳卒之禮遇 辨楚象之霄奔 知靈師之怡然 本畫牛之深意 神機秘於衆駭 集偉功於指掌 俄花蹄之怒馳 奄全齊之快恢</Answer>
+			</Answerdata>
+			<Additionaldata>八抄 成 同</Additionaldata>
+		</Work>
+		<Work id="53">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>강무(姜楙)</Name>
+					<Courtesyname>자무(子茂)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>홍주(洪州)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1710</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">鳳雛</Question>
+				<Answer>岐桐漭而不聞 閟瑞羽於千仞 登高岡而騁望 恨荒枳之蓁蓁 閱九苞於鹿門 覽炎德而可下 其猶龍於特恤 竚成翼於衝宵 比展驥而不足 子有故於丹鳥 㑋毳毛於鵠腹 筮羽儀於人國 鳥中䙡其鳳凰 汝以人而彷彿 南柯脩以刷羽 第未遇其天風 凡鳥笑之八九 隣有鱗而同境 龍吟深於九淵 瑞翼依於寒梧 可棲定於何枝 喟潛蛟之未雨 蠶叢鮮其竹實 繞桑蓋而悲鳴 山河低於一翮 何處今其虞庭 如起龍而高駝 揮汝翼而承旂 偕翶翔而鼎峙 爛遇順於鴻毛 高可橫於雲霄 大亦蓋於九州 秋毫軼乎百里 別駕維其丹穴 魏之犬與吳虎 以子翼而可搏 垂大翮於劍外 庇魚鳧之一域 豈其求兮喙粟 矯汝以其羽翼 烏鵲飛於東南 笑棲棲而無依 梧桐生于漢庭 瑞禽鳴而喈喈 驚春睡於臥龍 龍亦隨而驅馳 翩繽沛其瑞輝 奚必棲乎崑丘 何昔日之弱羽 今直爲此介鳥 樓霄毛而比翼 俯羽蜚以几族 伸其嘸於主人 偉爾能乎擇木 眉岑視以黃河 定得意於棲嶼 三巴霍於翼外 哂尺鷃之飛低 遊塵外而瞥天 橫四海於焉窮 唱曰 高鳳之一擧兮 龍爲友于高翔 炎皇撫其細德兮 焉謂擊於此去 再擧兮 浮蠛蠓而俯九有 群雄視以渾虱兮 翼帝冑而徘徊 咨鳳德之終孤兮 瘁瑞彩於落坡 龍亡而鳳逝兮 悵舞鰌於終古</Answer>
+			</Answerdata>
+			<Additionaldata>九抄 成 同</Additionaldata>
+		</Work>
+		<Work id="54">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>정우순(鄭佑淳)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">鳳雛</Question>
+				<Answer>岡梧凄以寢髦 逖不聞乎鳴鳳 管鴻迫於海垈 召翰遙於岐周 龐才奇於漢末 號維何於鳳雛 執調翼而將翶 媲侯時而大行 鹿門等於丹穴 兮有鳳於人中 同渭鷹之䎒䎒 異邴崔之昻昻 儀馮翼而不群 頫凡鳥於阿蒙 鴻猷爛其抱中 偕臥龍而颺靈 軒何古而岐蕪 怳復見乎南州 撟良翰而願言 佇覽輝而來之 雲路脩而未謇 若不調其鱗羽 懷棲棲於枳棘 翅翾翾以初起 靑冥暖而垂翼 物與人其奚異 天衢亨以羽儀 爛新翮之絢練 回風塵之困翮 覿文章之斯宣 飛縹縹而九千 笑魏狗與吳虎 瞻眞主而奚止 宛聖作而物覩 揆神物於顯晦 攬吉髦而同歸 權雖猘而魏狐 等黃口之啾啾 才旣優於濟北 瑞奚止於儀德 靑雲生其羽翮 颻順風而翼翼 聲光藹而拂人 奮天路而翶翔 旣軒軒而拔萃 庶一蜚而沖天 繽藹藹以國華 菀爲宗於人間 秋毫當其利器 煌來儀於帝冑 紛火精之旣鍾 宜炎運之重恢 除黃鬚於燕領 掃碧眼於魚尾 拚九德而豈讓 將一見而時寧 唉漢業之已頹 淚志士於落鳳 台抽毫而綴辭 寓深感於千載</Answer>
+			</Answerdata>
+			<Additionaldata></Additionaldata>
+		</Work>
+		<Work id="55">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>정우순(鄭佑淳)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">易重一斤</Question>
+				<Answer>盈天地以大數 拊奇耦而森列 尋六十之博精 抗參伍之綜錯 謇謂之以一斤 予又獲於程子 撟厥數之沕合 㫼其重之同符 包萬物以易象 非可論其斤重 藏乾坤而檃括 藹陰陽而流通 回幽微之一理 涵巨細之千彙 惟範圍而廣博 浩無垠於其大 然爻象之細究 繽不生於數外 初肇瑞於一極 終寓理於萬殊 惟互變於六虛 藹交橫於三分 旣兩體之燦然 亦不差於毫釐 凭象數而永靖 覿斤重而焉在 肇生八於四象 等十黍之爲釐 逮羲畫之重積 類卄四之錙銖 爻數爛其妙符 若論重則爲斤 摎三百有八四 沕十六於秤量 積龍繇於分畫 墨白物於錘稱 權然後而不知 詎玆理之不同 玄機藹其相符 卽不僭以輕重 函丈儼其對容 發微奧而申申 故妙數之沕合 贊至道之不輕 豈分殊於理一 攬卦畫而無異</Answer>
+			</Answerdata>
+			<Additionaldata>十抄終 成 同 賦 姜楙 金致讓 鄭佑淳 洪景海 尹憲東 詩 朴元衡 李守鎭 元仁孫 金相翊 趙榮順</Additionaldata>
+		</Work>
+		<Work id="56">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>강무(姜楙)</Name>
+					<Courtesyname>자무(子茂)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>홍주(洪州)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1710</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">易重一斤</Question>
+				<Answer>倚玉衡余觀象 詔極翁使颺錘 奇耦積於釐忽 揲扐幻而星子 龍繇歸於一斤 矯以證其成爻 匪其重之本同 要不過乎喩數 準大易於穹隤 其輕重之何論 風駟叫乎大宇 一象寄於一圈 乾坤匪其適器 物之中而無對 匪蟻磨而執斡 異九鼎之疇擧 然執數而觀變 其爲易也以積 先天垂以十翼 有庖犧而劃八 八其百者三之 剩零星於掛指 加倍得于里巷 豈堯夫之欺予 携無形之大錘 引以齊夫物類 斯斤成乎豈猝 籥有黍而其始 至千勻亦此法 準一尺於羲天 衆數密于寸銖 忘大小之相德 故不論其妙體 就形氣而暫譬 天地化而一稱 庖孔爲之視星 臨鴻樞而量數 其重何於斤重 如以易而觀物 海之芹而山塊 匪巨細之可論 只以理而相提 蘧廬比乎大宙 槖鑰淪於玄縡 登龍翼而頫低 儒是斤於圈內 病高大而難窺 卽摸提而易撓 監譬日其理同 茅有體而無休 洋洋塞乎兩間 細究是其重處 本無物於象理 指淸虛而成說 爻揲維其稱衡 低昻有夫定局 管窺大而蠡海 䙡一理之斯寓 錙銖沕於不頗 直一秤於萬古</Answer>
+			</Answerdata>
+			<Additionaldata></Additionaldata>
+		</Work>
+		<Work id="57">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이재혁(李載㷜)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">重歎篔簹壁上詩</Question>
+				<Answer>廬峰巀兮寒泉㶁 山有桂兮畦有菊 玉樹寒兮蓬萊遠 九轉燒兮雲水邈 歲暮兮山之中 攀援桂枝兮聊淹留 紫氣蕭瑟 函關之靑牛不遠 金花零落 渥佺而啖柯何時 靈芝燁燁兮靑山阿 所懷伊人兮尋無處 粤余有志僊久矣 菀經綸而莫展兮 唉朕時之不與 旣莫可爲美歸兮 攬遂初而延佇 雲谷滄洲兮聊翶翔 裒衣博帶兮思遠擧 一篇遠遊 托素志於上游 九曲武溪 作神仙於平地 聊彷彿而逍遙兮 永歷年而無成 于斯時也 忽吾行此順昌兮 憩杖屨於篔簹 靈香暖於寶錄兮 壁有詩而余讀 丹丘煌其紫芝兮 播芳香於種玉 冀一年之三秀兮 願枝葉之峻茂 曰有志而終不就兮 遺墨儼其神符 余乃喟然而嘆曰 旣余志之固如此 彼何人斯先獲 羌前後之一揆兮 獨摩挲而三復 拚遺躅而俯仰兮 攬吾生而增愧 才莫施於經濟兮 意亦稽於遐擧 旣違計於壽民 又莫遂夫延生 流光忽其四十兮 撫志業而何成 逮夫 赤蛇之歲 月在建酉 秋風古驛 舊客重回 三山芝秀 邈仙跡之怳惚 四壁苔荒 亦遺字之湮沒 於是乎 步徙倚而遙思兮 怊惝怳而永懷 甄歲月之颷駛 攬芝草而愀思 瑤之圃兮草秀 彼冉冉其幾時 玄都閴其歲晏 消息遲於金丹 一天廓其鍊丹 藥無賴於駐顔 矯往迹而景仰 心愁悽而增悲 羌道上而起感 詠一詩而爲綏 撟宿計之未就 寓深歎於言志 道不行而仙無功 與子意會兮重余感 甄子詩而導余志 緬摠千秋兮事如昨 哀人生之豈艱 爾與我其何殊 誶曰 洞裏有天 人間無路 雲觀曠廓 琪樹叢茂 瑤芝爛爛 可以療飢 我懷斯人 仙耶人耶</Answer>
+			</Answerdata>
+			<Additionaldata>南庠 敎 金尙喆</Additionaldata>
+		</Work>
+		<Work id="58">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이태운(李泰運)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">托意詠浦鷗</Question>
+				<Answer>乾坤暮於餔餟 輩鷄鶩而滔滔 鴻翹遠於喙梁 燕啾騰於含泥 浦禽翩其入眸 匪漫興於詠詩 抽深意於慨世 抒幽思於相彼 浣岑爛以花鳥 尙有事於詩外 攬渴鷺而寄想 睠飢烏而寓刺 江浦望而點點 彼何鳥兮翩翩 俄翩影於閑語 旋鼓喙於春田 蘆眠罷而稻末 溷玉羽而噍噍 滄波渺以爾類 覽超翮其焉如 雙趾印於鏡面 百年間於沙頭 無稻梁之經營 任江海之浮沈 嗟泛浮之一物 何閑忙之異跡 雖同族於浦海 寔珠智於淸濁 儀一禽余永靚 頫世間而亦然 點苗等於逐利 翛影視以潔身 看名韁之絆人 有浦喙之疏疏 瞻遐蹈之高風 類海影之蕭蕭 物固殊於悴逸 人自判於潔賤 逌點染而則卑 眄曠逸而爲賢 疇獨鶴之棲遠 邈冥鴻之擧霄 雲悠翛而繞酒 和禽聲而人語 靑袍困於白頭 愀新詠而攬懷 依玆詩而折衷 想少陵之心事 今鸂鶒而遣興 攬鷓鴣而護思</Answer>
+			</Answerdata>
+			<Additionaldata>西庠 敎 趙明鼎</Additionaldata>
+		</Work>
+		<Work id="59">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>송백휴(宋百休)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">人能弘道非道弘人</Question>
+				<Answer>銀塊澈而箇箇 活虎手而生龍 依一泓之鏡水 玩滿山之靑黃 撟吾以其博大 匪道弘而人弘 執全體之爲法 㫼極工之能擴 道蟠天而亘地 廓吾意之這域 涵二儀於得一 森萬物於用八 固純懿之所廬 孰能博以大之 遵周行而靚觀 人與道其相須 儀洪勻而炳靈 燦道微而備體 沕一貫其淳粹 展不用乎相離 拚斯道之怛怛 撫降衷而嘿究 盞花洞以應物 甁燭爛以虛器 諏天君之妙有 俯道樞而冥嘿 如實工之不推 豈大源之自廓 人非道而罔造 道靡人而難行 顧極地之能弘 在吾心之盡性 撟天賦而戬穀 履康莊而坦泰 開方塘而俶載 歸母氏而後寧 繽闊步於道眞 招廣大而爲期 咸魚淵而鳶天 月處處而圓滿 沕渾成而自然 元遐通而不迷 無形外而亭流 實地工以自推 苟無人其孰知 夫子有此明詔</Answer>
+			</Answerdata>
+			<Additionaldata>南庠 敎 閔百祥</Additionaldata>
+		</Work>
+		<Work id="60">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유성모(柳成模)</Name>
+					<Courtesyname>사집(士集)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>문화(文化)</Origin>
+				<Year>
+					<Birthyear>1724</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">望陣惡如籍</Question>
+				<Answer>淮波浮而鋪敦 繕招搖而治戎 餘舊敵於虎咆 懟惡氛於梟風 倚戎壘而縱望 怳憚汝其如羽 亮所困於平昔 認有惡於克似 哭東城而歸來 朕無畏於天下 燕鋒銳猶葉掃 韓甲堅而兒戱 夷兵仙而櫜矢 謂高枕而無憂 迨黥徒之煽孼 奮天討之耀武 乘餘慢於踞床 擬電掃於揮戈 登晉軾而寓目 憗鄭麗之驚心 軍容宛於鉅鹿 陣勢依於滎陽 靺韋等而移來 鵝鸛翩而彷像 渠門闢而旝動 怳重瞳之叱咤 均服振而鼓盈 若烏騅之馳騖 擡龍顔而戱戱 愕余懷於對彼 追逢螫於廣弩 撫罹困於睢渡 伊小醜之用兵 怳勁敵之毒余 瞻練甲而夐惕 睠荊尸而潛懼 勇何畏於冠軍 兵實襲於敵萬 皇於是乎大惡 羌不圖夫今見 回神武於無敵 怕戰壘於模古 昔荊鋒之莫禦 今淮兵之良苦 俄皇旅之奏凱 竟白頭之懸旂</Answer>
+			</Answerdata>
+			<Additionaldata>西庠 敎 李益輔</Additionaldata>
+		</Work>
+		<Work id="61">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>윤동미(尹東美)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">灑然變色</Question>
+				<Answer>齊筵闢而右躅 楚殿呀而覩鬼 徠九賓使顚倒 屈萬乘以擎跪 垣耳閴而肅如 觀者愕而失色 紆殊禮於匹夫 動群瞻於一席 東隣昨其有言 一簀恢於容汝 乾坤多於醉溲 孰爲汝而儲胥 畸蹤跼以落魄 望竿門而鳴瑟 書空勞於叫閽 草不厭於咳惡 靑雲杳而短袖 九重邃而如天 離宮俄而夕張 王有事乎賓筵 深宵爛而客星 襯孤光而向誰 宮墻暖而月隱 詔簀尸使右之 羔羊肅而屛息 覿如何於我生 跼黼躬而擁篲 綏我容而殊重 貶威尊而踧踖 登傖夫而揖讓 心愈蒼於請敎 禮冞篤於下風 叩餘端於摺齒 寵賓筵而抑贊 風雲菀於一堂 星月森以照人 鵷僚憺而愕顧 是何禮於彼子 曾一介之逋蹤 今止賓於王家 誠不意其異數 何求汝而若是 星弁聚而灑然 面面看而瞠視 心暗暗而相驚 色瀏瀏而齊政 紆殊數於抗衡 羌群囑之壓倒 終惎穰而移柄 又足驚於一國</Answer>
+			</Answerdata>
+			<Additionaldata>中庠 敎 兪彦民</Additionaldata>
+		</Work>
+		<Work id="62">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이가학(李可學)</Name>
+					<Courtesyname>성호(聖乎)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>신평(新平)</Origin>
+				<Year>
+					<Birthyear>1716</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">怒喜罵蕭何</Question>
+				<Answer>七情發於隨處 君子節而得中 知一色之各形 孰兩端之可弄 彼龍顔之罵何 謇胡爲乎怒喜 洵如失於去後 認交作於見遽 曩亟相之云亡 但有怒於王心 回遑沛之卷喜 愕逋蹤之難尋 篁冠欹兮色拂 坐漠然而孤唏 將倚渠而圖大 噫掾吏之我欺 卬無負而負卬 之何國而樛流 倘伊人之悔悟 漭不見兮延佇 方荒亭之自失 鼂誶予曰臣歸 握隆準以驟驚 宛昨日之蕭子 寒溪帶以月色 佩刀筆而儃儃 無手忽其有手 失士還爲得士 思旣極而曶覯 王有心而焉如 抽餘怒於昔逃 沛新喜於今覯 曾何故以納履 謇不告而望望 謂忘我其實多 爾之徠也匪意 休言往兮躡韓 予未信其淺詐 之子去而倀倀 是日遌而欣欣 心瞠慌而莫馮 兩般色於罵汝 棼或怒而或喜 鬱坎中而竝擧 非王情之實怒 喜之過而爲詈</Answer>
+			</Answerdata>
+			<Additionaldata>東庠 敎 閔百昌</Additionaldata>
+		</Work>
+		<Work id="63">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>丁卯</Sexagenarycycle>
+					<Year>1747</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>권경응(權敬應)</Name>
+					<Courtesyname>사근(士謹)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>안동(安東)</Origin>
+				<Year>
+					<Birthyear>1713</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">都是膽</Question>
+				<Answer>靑釭閃而電擊 輕七尺而屹立 干戈際而賈勇 矢石間而袵革 臨漢壘而遊目 朕嘉汝之都是 摎百戰之無敵 獎一身之多膽 曰爾膽之輪囷 鍾正氣於常岑 天爐鐵而鍊出 斗大樣而菀結 玄光蟠而滿腔 幾畜銳而伺發 漢汜忽其氛惡 俾我師之膽戰 張環眼而失色 馬裹足而神勇 鬪原黯其陳雲 孰千萬之可往 餘舊勇於板橋 携大膽而獨出 摩和壘而發弩 蜚瑞雪爲舞槊 金鱗閃而耀武 蝟鬂磔而睹勝 風雲盪於蹴踏 抗勁敵以隻手 胸萬甲而菀盤 破老賊之心膽 懸匏狀而畜貯 缺盆樣而堅凝 旣勇果之若玆 何所有於其中 非腔血之徒赤 豈義肝之但激 天賦汝以木精 先一軀其至剛 其爲氣也彪烈 曾軍中之不縮 梨花爛而突陣 一則是而二是 精靈鍾於丈夫 吾子龍其全得 輕猿臂之勇氣 邁虎頭之雄略 凶鋒猘而曷畏 用不盡於臨陣 斯大耳之垂獎 步戰壘而興嘆</Answer>
+			</Answerdata>
+			<Additionaldata>合製 成 洪象漢 賦 權敬應 金尙敎 申琓 金履福 趙賢逵 林得浩 韓光定 安致範 詩 李瀰 李復圭 李德師 趙德成 李奭輔 金恒柱 嚴(⿰玉+犀) 鄭存謙</Additionaldata>
+		</Work>
+		<Work id="64">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>戊辰</Sexagenarycycle>
+					<Year>1748</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>윤동미(尹東美)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">乃統天</Question>
+				<Answer>玄戶闢而示確 皮殼儲而四性 明純粹而爲徒 斡機緘而相盪 昭昭多而曰統 夥爾元之理賾 掬大始而出首 驗妙用而貫一 天化物以四德 各有主乎一事 流形際而鞠亨 正命間而爲利 融太和而保合 聿成終於終古 翹三者而冠首 德在元而何治 流一氣於美利 鼓萬物而資始 含生生之大化 成亹亹之玄務 斯爲德也許大 謇玄馗而咸囿 嗟擧斯而反三 果天載其孰宰 逌乾始而育物 底亨貞之各乂 微體仁之長善 詎品彙之能遂 融絪縕而沕一 盪機氣以斡四 固有始則有終 仰天路而可稽 冠衆德而爲首 兜健行而播始 具一理於物物 根萬化於乾乾 春旣最於一歲 仁乃貫於四端 乘六龍而大明 亘玄顔而周包 諒動專而大生 信德健而施普 無聲臭而在上 潔網維而包外 肆夫子之繫彖 曰是元之統天 摎始物之化欛 揭首善之玄理 明始終之一貫 詔上下之俱徹 原二儀之肇判 蓋一元之坱圠 至理寓於錯行 衆妙具於推敓 雖玆德之曰四 寔周行而不貳 惟厥理之運妙 君子以則長久 天穹穆其示易 微斯元其靡化 咨始物與生物 摠資爾而能施 盈二五而默運 統囿靈而無窮 肆元聖之贊乾 揭昭訓而詔後 台千載而絶韋 玩孔翼而系辭 系曰 大哉乾 德有四 至哉德 萬化根 孰主張 惟文始 貫亨貞 無不利 天且不違 可焉統 理通終古 誰謂玄 仁者謂仁 知謂知 微聖人言 吾謂信</Answer>
+			</Answerdata>
+			<Additionaldata>初抄 成 鄭益河</Additionaldata>
+		</Work>
+		<Work id="65">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>戊辰</Sexagenarycycle>
+					<Year>1748</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>신응현(申應顯)</Name>
+					<Courtesyname>동보(同甫)</Courtesyname>
+					<Pseudonyms>우헌(愚軒)</Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin>평산(平山)</Origin>
+				<Year>
+					<Birthyear>1722</Birthyear>
+					<Deathyear>1797</Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">乃統天</Question>
+				<Answer>形於上而爲氣 運諸中而成化 斡妙機而動盪 貫大包而資路 曰于天而迺統 余有聞於大易 諒爲本於衆理 認可摠於玄德 冠四德而曰元 蓋無所乎不包 主健剛而體正 涵槖鑰而用普 寔爲根於作成 故靡遺於鉅細 念天道之至大 若無統而自行 運轇輵而宏覆 化磅礡而默通 繽雲行而雨施 汨貞成而利遂 旣無聲而無臭 窅難尋其端猊 然萬物之化育 待一元而成功 包四氣而默運 陶群類而各正 風霆鼓而振盪 飛走動而化生 逌玄機之絪斡 耆神化之旁通 參功用而永鞠 沕可觀乎天德 回肧胎之至化 摠混淪之本休 資剛德而普施 帥玄縡而曠覆 紛或舒而或慘 遹成始而成終 將萬化之樞杻 作一氣之網領 元非天而誰寄 天微元而焉統 化旣妙於亭毒 德可摠於赫戱 天惟大而亦統 元之用也莫京</Answer>
+			</Answerdata>
+			<Additionaldata></Additionaldata>
+		</Work>
+		<Work id="66">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>戊辰</Sexagenarycycle>
+					<Year>1748</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>박수문(朴垂聞)</Name>
+					<Courtesyname>영칙(令則)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>충원(忠原)</Residence>
+				<Origin>비안(比安)</Origin>
+				<Year>
+					<Birthyear>1728</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">喜起明良</Question>
+				<Answer>聆勸聽以念終 懋艱厥以交修 賡女翼以帝光 和德洽曰乃休 聽勅天而載颺 人四字以申之 寔相須而乃成 認交勔之斯摯 曰元首與股肱 在有資於作興 固宮還而律均 亦是吏而歲成 撟九敍以祗瞿 撫艱位而交責 惟天工之代理 在庶明之勵翼 欽四隣以奔走 勖萬機使振作 紛趨下而咸喜 穆在上而方起 然皇王之立極 展百辟之是儀 躬萬化而式照 範庶僚而斯皇 若日月之大明 譬風雲之相從 職旣分於上下 道實資於彼此 逌勵相而績凝 佇表端而影隨 微群力而孰與 賴明德而方娭 若有望於作我 臣所期於導余 執人工而規警 睠天猷而申勔 繽前唱而後和 要乃道之各盡 龍在天而乃見 鶴鳴陰而斯和 班一堂之責難 攬猷爲而申誡 才喜起之永言 又明良之斯規 紛余兪而爾吁 藹深喜於相修</Answer>
+			</Answerdata>
+			<Additionaldata>再抄 成 同</Additionaldata>
+		</Work>
+		<Work id="67">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>戊辰</Sexagenarycycle>
+					<Year>1748</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>채택하(蔡宅夏)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">西銘如棊盤下碁</Question>
+				<Answer>局天地而大圓 手品類而高着 儀權輿於妙極 爛鋪敍於條達 西牖煌其訂頑 一碁盤兮相似 撟前休而後用 怳說枰而落子 撫兩端於西銘 括衆理而碁置 乾坤等於父母 物我分以兄弟 宗子媲於繞理 家相配於紀職 儀子道於繼述 詔孝恭於保翼 文章爛其體用 首尾錯以次第 劈兩截於一篇 覿何物而相較 瞻文枰而大投 攬厥着而焉如 瑤盤煌以旣說 玉子響其丁丁 維三百之雁點 盡九十之兎宮 宮井赫而載布 隨紙盡而權機 援彼棋而有得 撫斯銘而反隅 分首末於一書 資盤棋於十數 顧天君之中處 類文楸之載局 伊物吾之分職 若飛雹之是落 工無體而誰用 棊有局而能着 理近面而似盤 意下段而如棋 依一場之手談 劈萬化之粤旨 知該本而語末 可推小而喩大 肆勉業之揭論 質聖訓而明詔</Answer>
+			</Answerdata>
+			<Additionaldata>三抄 成 同</Additionaldata>
+		</Work>
+		<Work id="68">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>戊辰</Sexagenarycycle>
+					<Year>1748</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>신응현(申應顯)</Name>
+					<Courtesyname>동보(同甫)</Courtesyname>
+					<Pseudonyms>우헌(愚軒)</Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin>평산(平山)</Origin>
+				<Year>
+					<Birthyear>1722</Birthyear>
+					<Deathyear>1792</Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">罷約賦詩</Question>
+				<Answer>蘇戒存於作詩 孔別諭於贈言 雖移志之是懲 詎寫懷之無便 謇罷約而綴吟 予有聞於朱子 諒離思之可抑 認宿戒之姑罷 衡遊後而止詩 及卬友而成約 耽講劘之實工 謝吟弄之浮習 雖登山而臨水 絶批風而抹月 迨雲峯之飮餞 我則東而子西 回蕭寺之舊悵 起南浦之新思 幽情攬於覽物 別懷多於臨岐 摻子裾而欲贈 奈前約之難渝 戀小技之蕩志 戒浪吟之招殃 旣與子而成說 詎此日之忘吟 然綢繆之別意 苟非詩則難寫 搴楮若之贈恨 替尊酒而敍思 雖不取於漫吟 孰有別而無詩 衡岑寒而日落 景物賦於離亭 菀河梁之別愁 動湓浦之詩情 縱前日之有約 豈此別之無聲 心固在於敍懷 戒非忘於喪志 詹歸雲之永悵 盍曩約之姑舍 方宜置於矯杜 吟豈廢於分岐 爰諗玆而破戒 幷詠詩而贈之 停離觴而不御 掇瓊玖而相投</Answer>
+			</Answerdata>
+			<Additionaldata>四抄 成 同</Additionaldata>
+		</Work>
+		<Work id="69">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>戊辰</Sexagenarycycle>
+					<Year>1748</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>최석지(崔錫祉)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">記得南院言</Question>
+				<Answer>衍智炯於刻石 房策疏於備秦 曾何心而裒耳 今乃覺而靦顔 指謫路而愀余 記曩說而傳之 惕前誡之斯符 諭此行之早知 昔承誨於南院 蓋燭禍於西鄙 評權骨於燕顧 瞭叛心於狼子 指鴻樞之早秉 勉豹韜之預講 勅先甲於三日 詔後期於十齡 嗟謏見之罔悟 謾然疑而靡信 位果躋於秉均 計全忽於籌過 俄囊書之告警 咨廟算之結舌 鑑雖符於指期 策奈乏於應猝 勤淸問於捍禦 寂壯猷於樞轄 愚謨謀於輔弼 共聯翩於放逐 指遐陬而催行 撫前說而興臆 言旣驗於料敵 時又契於當軸 苟戒政之早講 詎肉食之無謀 咈良誨於綢繆 瘁危跡於流放 知當日之數語 了吾人之今日 回飛悰於賦鵩 服明見於卜黽 固前知其若神 謾顚倒而興思 臨長路之漫漫 記明訓之歷歷 來故人而遠于 詠在昔而傳說 㫼人言之不爽 悼伊慽之自貽 徵不待於來寅 行己占於先庚</Answer>
+			</Answerdata>
+			<Additionaldata>五抄 成 同</Additionaldata>
+		</Work>
+		<Work id="70">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>戊辰</Sexagenarycycle>
+					<Year>1748</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>김이복(金履復)</Name>
+					<Courtesyname>득초(得初)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>안동(安東)</Origin>
+				<Year>
+					<Birthyear>1720</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">讀訖拜稱神</Question>
+				<Answer>大巫遠而難見 拙工肆而無忌 昧優劣之懸殊 謂得失之可議 忽拜手而稱神 哂自訟於曹公 寔禠魄於上知 故甘心於下風 身四方而翊眞 血三巴而成勳 昧風鴻之勢順 效井蛙之志尊 屬軍山之暫過 睠武侯之遺像 公六出而徒勞 我百戰而皆勝 倘九原之有知 應一頭之相讓 心方夸於碧油 眼忽驚於黃絹 留眞蹟於十字 評襟期於千年 雖儀容之莫接 尙言語之如聞 人如期於逆覩 事何難於當時 由興亡之有數 致利鈍之殊岐 知賢侯之此敎 警吾人之至愚 忠伊呂於伯仲 智蓍龜於前後 居三代而亦可 落千層而焉及 欽神鑑之遠懇 愧小腹之妄度 聲未訖於一詠 髮已竦於三復 回虛夸之壯氣 惹自服之微誠 心如何於小子 死不死者先生 伊今後而乃覺 大而化則爲神 膝何遲於雙跪 首自忙於九頓 驚先知之至烱 謝前言之大錯 螢火視於日月 泰山高於丘垤 時先後於百世 樓上下於千尺 英風挫於上將 雷雨凄於荒祠 苟西屬之竝世 將北面而事師 於床下而可拜 況廟前而敢抗 屬七尺而傴僂 酹三杯而凄愴 寔不昧者斯存 謂之神也亦宜</Answer>
+			</Answerdata>
+			<Additionaldata>六抄 成 同</Additionaldata>
+		</Work>
+		<Work id="71">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>戊辰</Sexagenarycycle>
+					<Year>1748</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>홍희서(洪羲瑞)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">溫公必取斯言</Question>
+				<Answer>春秋嚴於一統 日月揭於千年 嗟化工之已遠 慨史法之難守 徵斯言之必職 歎異議之始定 式不愧於起死 應有資於歸正 緬司馬之著史 有漢統之誤譜 憑陳家之誣筆 亂帝冑之眞派 亂旣失於貶賊 義孰闡於尊王 黃花開於露史 紫陽繼於麟經 尊流龍之垂統 誅鄴狐之簒位 指我伐而爾冠 㫼彼正而此僞 觀二賢之取捨 等千里之遙遠 驚濤蕩於涑水 正派回於寒泉 輸乾坤於俯仰 判袞鉞於前後 彌年歲其距幾 若朝暮之相遇 隨黜陟之各異 致玉閨之自別 言有旨而可服 聖雖遠而不易 倘九原之有知 應一頭之相讓 眞僞定於百代 是非明於一言 伊今後而乃反 視前人有多光 炎光危而復續 史筆謬而更正 知未發之是發 庶斯人之取斯 言有愧於謬次 義多載於將出 魂何還於大樂 靈必謝於重泉 疇非義而可服 認不昧者斯存</Answer>
+			</Answerdata>
+			<Additionaldata>七抄終 成 同 賦 金履信 權詡 鄭一祥 申應顯 詩 愼處權 尹心恊 柳煥猷 宋載中 李春培 洪趾海</Additionaldata>
+		</Work>
+		<Work id="72">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>戊辰</Sexagenarycycle>
+					<Year>1748</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이가학(李可學)</Name>
+					<Courtesyname>성호(聖乎)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>신평(新平)</Origin>
+				<Year>
+					<Birthyear>1716</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">東南風藥周公瑾</Question>
+				<Answer>汾颷潚其動蘋 瑿四葉之天子 紛吹萬而不齊 洎殘火而重之 從東南而大振 使公瑾兮病蘇 詢對症於潛得 蹇爲藥於彼疚 周一病於北風 人莫知乎其源 驚八人之莫施 嬰二豎於自然 靑油臥而事絶 噫何藥之彼效 孔明聞其一莞 已知症於心內 藏跗枝於八門 替綸巾以靑囊 雖云在於膏盲 公自有此竗方 捐蔘木而不御 與天地而相諏 星壇儼而露立 詔飛廉曰念哉 伻大塊而怒吼 噓爾堬之憊氣 先從東而陳陳 復自南而習習 蘆葦盻兮萬軸 可乘風而用大 方其風也氣好 昔者疾兮焉如 纔玄竅之媵響 倐沉痾之去體 元戎起而色康 睠赤壁而含笑 曾爲崇於朔氣 今見瘳於凱風 驅萬竅之所吹 作千金之良劑 扁爲庸於此病 風獨痊於昏倒 如諸葛之不遇 疇下手於危症 曾順颷之不得 子所病者在玆 憐蓬蓬之助勢 又何疾之可憂 星月稀而鵲飛 敗兆見於阿瞞</Answer>
+			</Answerdata>
+			<Additionaldata>東庠 敎 閔百昌</Additionaldata>
+		</Work>
+		<Work id="73">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>戊辰</Sexagenarycycle>
+					<Year>1748</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이현보(李顯普)</Name>
+					<Courtesyname>유인(幼仁)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>벽진(碧珍)</Origin>
+				<Year>
+					<Birthyear>1726</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">不及潮州一鱷魚</Question>
+				<Answer>飄雲裳而世溷 天可能而人否 儀豚孚而足徵 睠蜮射以遐懼 曰彼魚之不及 有詩家之留語 精通靈而物感 曾以人而不如 公談笑而崛起 命與仇而相謀 訝齊瑟於鬼神 驚越雪於狺吠 潮有鱗而最悍 昔操文而麾之 風霆迅於約期 海若藏於騁辭 潭波沸而駮雪 越七日而南走 雖頑物而亦孚 唉彼其之罔極 斐錦成於諑謠 井石下於投抵 紛耳怗而舌刀 靡一日而安朝 翩簧舌於嗾紳 蟲荃心於流袁 羌跋前而躓後 偕五鬼以交詆 般回遹其若玆 比鱗族而焉似 誠猶透於及物 心獨忍於搆賢 南災弭於馴暴 國僚甘於興訕 蠻天黝而瘴嵐 竟擯斥而終古 而皇甫與老李 反彼鱗之多遜 乖於人而合天 亦云命也誰咎 彼於世而抺掇 乃與天以相通 伊白沙之詠句 揭至今而詔評 拚玆詩而溯感 想文公之爲人 文固壯於比武 道遐通於回瀾 嗤宵兒之鼓吻 誣正人以申愬 南箕哆而舌噏 北辰遙而雲暖 伊蠻鄕之斥逐 感惡魚而南徙 雖無知其亦然 疇有誠而不孚 唯夫也之罔念 較彼物而斯下 公千代而照耀 赫山斗而高懸 淸詞鏗而斷案 森筆法於誅奸 台嘐嘐於隔晨 詠遺篇而盤桓</Answer>
+			</Answerdata>
+			<Additionaldata>南庠 敎 任⿰(玉+集)</Additionaldata>
+		</Work>
+		<Work id="74">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>戊辰</Sexagenarycycle>
+					<Year>1748</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>정발(鄭橃)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">借酒澆碨磊</Question>
+				<Answer>人相惑於百世 魂可弔於三盃 留滿腔之斗血 惹塡胷之深懷 非甚酒而莫澆 我於公而宜借 泣兩表於釀感 謀一醉於忘憂 想武侯之心事 蓋先我而有獲 將九條之宿計 較六出之奇績 嗟江南之半壁 等巴西之偏安 挹一羽之遺風 慨三奏之空言 艱憂同於彼此 戰和殊於今古 懷悲憤而自昻 意磈磊而焉攎 拚遺表於出師 釀深感於憂國 材麴蘖於輔佐 義日星於討復 乾坤入於醉裏 朝暮遇於書中 公不辰而展志 我無憂而齎忠 心徒奮於擊壺 意如醉於拈篇 讀無涕則非忠 飮如醇者斯人 輸琳琅於紙上 幻瓊漿於丌間 言有旨於訓命 憂可滌於酩酊 心多少於曠感 酌淺深於追詠 悲龍府之失飮 憬瀘溪之投醪 滌胸裏之煩寃 宛酒中之賢聖 倘英魂之有知 應此盃之相借 寔難澆而能澆 果非酒而卽酒 斟餘瀝而自慰 寬壹鬱而聊抒 篇三復而味長 愁萬斛其氷消 齎悲吟而且感 歎梢工之沉醉 余生晩於漢宋 景酒後之誦表 長飮恨於北代 小如杯於南朝 天何醉於至今 事空感於撫古</Answer>
+			</Answerdata>
+			<Additionaldata>兩庠合設東庠 成代考 鄭益河</Additionaldata>
+		</Work>
+		<Work id="75">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>戊辰</Sexagenarycycle>
+					<Year>1748</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이시모(李時模)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade></Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">借酒澆碨磊</Question>
+				<Answer></Answer>
+			</Answerdata>
+			<Additionaldata>西庠 成 同</Additionaldata>
+		</Work>
+		<Work id="76">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>戊辰</Sexagenarycycle>
+					<Year>1748</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>정유항(鄭維恒)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">驚問黃帝塚</Question>
+				<Answer>自云亭而歸來 朝暮遇於黃神 詹雲鄕而永懷 蛻塵衢而將隣 忽驚眺夫纍纍 何不仙而有塚 惟傾暮於脫屐 起深愕於留塋 軒轅可以攀援 願超氛而從遊 儀休德於首山 慕至軌於鼎湖 飄龍駕以夐想 俟旣望而將擧 期躡塵於五城 佇開宴於玄圃 鼂東山而暮海 庶彷彿其休軌 瑤華老而歲晏 睠荊陽而焉留 忽吾行此喬山 眄圮墳之峩峩 凄一丘之夜月 閉萬年之天子 非不死之舊鄕 宛歸骨之遺址 憑故老而致辭 緬宿計而潛唏 曾以帝爲上仙 卓絶垠於人間 胡斧屋之尙留 泣風雨於千年 昔不料乎今死 亦同歸於荒原 倚宿草而永悲 撫大故而憮然 凄寒山而局顧 爾燕齊其欺余 恒寤寐而及見 促鳥耘之遺丘 跡非眞於龍迎 語實誕於蟬蛻 回疇曩之景慕 起此日之驚怪 目所睹而心訝 問左右之自笑</Answer>
+			</Answerdata>
+			<Additionaldata>中庠 敎 魚錫胤</Additionaldata>
+		</Work>
+		<Work id="77">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>戊辰</Sexagenarycycle>
+					<Year>1748</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>김종수(金鍾秀)</Name>
+					<Courtesyname>정부(定夫)</Courtesyname>
+					<Pseudonyms>몽오(夢梧)</Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>청풍(淸風)</Origin>
+				<Year>
+					<Birthyear>1728</Birthyear>
+					<Deathyear>1799</Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">金鎔賦見將相器業</Question>
+				<Answer>鍊師才於卲詩 鑑相格於寇篇 材獨全於仗鉞 器亦便於登鉉 兼二者於賦金 展范公之文辭 志旣托於鏤物 功可占於鑄世 緬我公之爲士 若良金之在鑛 志一耀於禱祠 工百鍊於煤帷 繽先憂而後樂 聿蓄銳而俟時 迨擧司之就試 有金鎔之新詞 固所願於成鏡 亦我欲於化劍 菱花煙於照肝 露鍔利於破膽 平寇氛於一揮 照姸媸於高懸 羌懷玉而未售 聊代金而成言 俄金甌之協卜 又斧越之登壇 照邦謨於魏鑑 奏戎功於靖爐 軒鯨鯢於西臬 鑄熙皞於嘉祐 惟文治與武績 大爐鞴以陶冶 摎倖業而溯觀 志可見於金賦 鋪龜文而將識 述鸞鏡而知相 懷鎡基於詠物 作金礪於任政 鋒穎露於舊作 陶甄驗於棄時 初鍊精而乍觀 終發硎而大施 挹氣象於賦鎔 占功業於鑄冶 知貴相於素定 非漫吟於當年 留鏡劍於數句 驗鼎彛之高勳 心期見於托物 符卷含於陶世 肆後人之揭說 指遺篇而遐詔</Answer>
+			</Answerdata>
+			<Additionaldata>合製 成 鄭益河 賦 金鍾秀 尹鳳周 兪漢遇 徐命應 趙榮克 金致永 南冑寬 金尙集 詩 吳命耈 崔益男 申光履 李彦忠 韓泰謩 李瀚 尹得毅 李定鎭</Additionaldata>
+		</Work>
+		<Work id="78">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>윤창(尹昶)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">叱鬼屬疏草</Question>
+				<Answer>韓封危於夕貶 蒼魅啾於宵咷 㑋褐朕而不撓 抗血管而愈礪 徵叱鬼而屬疏 偉貞忠於楊氏 斥靈諏而無畏 搆直辭而自如 聆閨訊而蹶起 誅鬼蜮爲己任 唉朝象於五鬼 厭身謀於三休 丹衷菀於嫉惡 素蓄炳於報主 淸宵澹而奮筆 歷腎肝而成說 凌薰天之氣焰 瀉貫日之忠精 森成案於十罪 確無悔於九死 書亹亹而禍逼 時夜半而獨語 啾啾忽其繞槧 何物鬼兮相告 非無見於嘯樑 若有意於被髮 肝徑憺其秋色 假玄鬼而照鞠 撟余懷其信確 兆雖惡而無賴 知生死之付膜 寧禍福之撓志 志可質於神明 辭欲呌於閶闔 縱爾瞰於敗機 豈余輟於血藁 將染室之至悃 恬陰方之危兆 吾方凜於吐瀝 爾莫逞於啼號 排燕禍之夜哭 儗唐藁之朝奏 剛腸凜於嫉惡 詎未徹而徑止 甄忠辭而自確 不無怒而神意 揮台毫而不綴 責揶揄之當前 心毋撓於警夜 氣自肅於搆草 斥悲號於燈前 宛然綴於筆下 式爾鬼之奚至 揮在前而叱之 疇神語之足悕 孰禍厄之有悔 才血緘之告訖 奄扉輸之無覩 終呈牘於象闕 慘罹厄於錦衣</Answer>
+			</Answerdata>
+			<Additionaldata>初抄 成 金時粲</Additionaldata>
+		</Work>
+		<Work id="79">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>신광진(申光震)</Name>
+					<Courtesyname>회원(晦元)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>의성(義城)</Residence>
+				<Origin>아주(鵝洲)</Origin>
+				<Year>
+					<Birthyear>1711</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">城門開言路閉</Question>
+				<Answer>金界黝以晩霞 詠茸毋而餘思 咨四門之不闢 孰六月之誥謨 城之開而言閉 攬輿誦而增愧 當近憂而乍諮 及姑安而旋杜 皇九葉而復隍 久言路之未開 屹禦暴之重門 隔來諫之關捩 方猘鋒之逼閽 始綸綍之求言 紛總總其鎖鑰 云及時而獻謀 招群髦使執籌 徠衆言而盈朝 忸彼兇之姑退 城才閉而忘備 恬孔棘之狁患 抛薄伐之周謨 群龍屛而噤口 庶士退而束手 循玆門之闔闢 言何異於開閉 鴟將肆而逼邊 乍啓路於獻規 狼突屛而小安 儵拒人於千里 繽保窮而處休 天方蹶而泄泄 謨猷紛其孔卬 皇曰恬而臣嬉 班隨時而改路 始則開而復杜 逼蠢玆而暫諮 寢擊柝而姑舍 雖謀大之孔多 奈群小之潛沮 謨不存於繫苞 計誰獻於撤土 宜輿人之發嘆 詠六字而寓慨</Answer>
+			</Answerdata>
+			<Additionaldata>再抄 成 同</Additionaldata>
+		</Work>
+		<Work id="80">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>김재후(金載厚)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">書與零丁詩</Question>
+				<Answer>坡岑瞹以羯塵 海舸邈以宋日 方危蹤之縶虜 幸孤忠之扶國 今何心而誘彼 曩有詩而可質 寔不忍於敎叛 故取贈於詠志 嗟余作此遠俘 國所賴者惟張 隻手違於擎天 片帆餘於航海 等塊肉於虎穴 若一髮於鯨濤 吾已矣於陷虜 子惟在於扶社 賊果以而爲患 要使我兮招誘 餌南冠之縶楚 媒北海之降武 旣在我而失王 忍敎人而叛國 心中事兮欲明 昔者詩兮尙記 零波咽而挽筆 丹血昭而瀝紙 悲孤蹤之遠飄 視素操之彌堅 吾所蓄者如斯 爾無已則觀此 有是詩於是人 亦我心於我友 兩人心兮靡他 一篇上兮相照 鬱滿腔之忠憤 寫瀝肝之前律 凜霜雪於筆下 懸日月於紙上 吾何告以叛耶 詩所云者如是 心常痛於負國 志豈忍於誘人 如所否則天厭 亦零洋之白水 心固凜於昨詩 節益勵於今出 人皆有此秉彛 虜亦爲之動容</Answer>
+			</Answerdata>
+			<Additionaldata>三抄 成 同</Additionaldata>
+		</Work>
+		<Work id="81">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>조덕순(趙德洵)</Name>
+					<Courtesyname>문원(文源)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>임천(林川)</Origin>
+				<Year>
+					<Birthyear>1720</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">子瞻高賈生一格</Question>
+				<Answer>眉山翠而爽懷 眺秋色於長沙 推淵偉而處窮 慜矯激而取禍 曰蘇高於賈生 鹿門有此評語 式所論之旣透 認一層之頗優 拚坡論而溯懷 尙太傅之才器 挈少年之志銳 任大臣之多端 風期沕於宣室 痛哭遽於新進 哀有才而昧用 匪薄恩於君臣 言洋洋於月朝 高着眼於雪堂 㑋弔原於貢憤 惜志大而量小 咨無術於沈漬 抗爽言於危處 循玆說而細繹 人度量而相違 昧處困而忌鵩 藹高論於圓瓢 恬行吟於醉罵 哂大息於流涕 推有君而無用 衋抱才而輕試 撟韙言而達觀 爛品題而透到 鋒鋩露於立談 辭義婉於尙論 般年少之不弘 宛老成之周編 登一篇而上下 評二字而低仰 知鵩舍之卑濕 讓一頭於黃岡 旣論高於用舍 信長裕於洛陽</Answer>
+			</Answerdata>
+			<Additionaldata>四抄 成 同</Additionaldata>
+		</Work>
+		<Work id="82">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>조덕순(趙德洵)</Name>
+					<Courtesyname>문원(文源)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>임천(林川)</Origin>
+				<Year>
+					<Birthyear>1720</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">大龜興三世</Question>
+				<Answer>鞠靈籌而昭明 卜習告而允臧 遵原兆而啓繇 贊皇猷而襲祥 三世蔚其丕興 曰大龜之是賴 推前後之協吉 占基緖之由蔡 摎蒼祚而考禎 有大事則從龜 膺天休於稽象 懋新命於鞠兆 匝三后而明用 胥因物而昭徵 熊羆登於端策 駞騵吉於恊夢 遺大寶於翼冲 奄奠基於卜用 懿鑽兆於世世 遂赫業之祚隆 乘磻溪之卜獵 成牧野之騰鷹 循世守而不違 煌舊緖之勅綏 撟丕績於上下 撫三卜而允符 昭文謨與武烈 翼成業而申著 揚靈休於世寶 弘祚曆於昆命 繽肇迹而奠業 摠發軔於觀禎 謇有叩而卽應 貢大謀於王國 伻令緖而蔚興 稽協休而告吉 知九江之納錫 佑三王之郅隆 般啓前而詔後 一則龜而二龜 矯玉兆之稽疑 占聖神之勅圖 肆史漸之揚言 曰龜興於姬家 攀姬籙之夐綿 懿卜世之靈長 基顯謀於渭畋 成丕烈於牧場</Answer>
+			</Answerdata>
+			<Additionaldata>五抄 成 同</Additionaldata>
+		</Work>
+		<Work id="83">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>안성대(安聖大)</Name>
+					<Courtesyname>사집(士集)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>순흥(順興)</Origin>
+				<Year>
+					<Birthyear>1717</Birthyear>
+					<Deathyear>1752</Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">發笑遠遊篇</Question>
+				<Answer>雲亭晩而箋騷 頫世界於甕鹽 懷遺響於托游 熲余懷於傷時 微吟動於展卷 自不覺其莞爾 撟深意於閱變 寓一哂於悲世 歌遺騷於倚酡 睠以噫夫斯俗 憀時象於膠汨 愀世路於迫阨 千蜹倐其滅沒 頫光景以幾咨 迨余讀夫遠遊 想三閭之遺意 齎瑜瑾於繼珮 悲菉葹於盈室 生民尠於晦在 拊世故而多傷 凭遺訣於赤松 佇洞見於冥黙 扱詞意之細繹 惟憤時之故也 世不堪於妄作 意自切於聞來 淸塵躡於羽衣 指究意以爲期 辭懰懰而起予 幾多想猶展誦 凄詞咽於寄意 濁世唉於貪利 繽傷今而撫古 余懷悠於吟澤 時瞹睫以十分 豈前世其惟是 超塵邦而俯視 良可哂於斯時 謇齎幽而緩吟 發一哂於千古 憑幽懷之鬱結 嗤下流之狂攘 懷旣沕而閔世 歎故深於覽辭</Answer>
+			</Answerdata>
+			<Additionaldata>六抄 成 同</Additionaldata>
+		</Work>
+		<Work id="84">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>송백휴(宋百休)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">赤日出海心不死</Question>
+				<Answer>蒼溟闊而射赤 血腔濕於烏肖 將葵藿之向日 護扶桑之陞暉 紅輪捧以寸丹 覿公心兮如彼 聿皦忠於旣死 宛影子於騰旭 公忠炳於宇宙 昔膺夢於捧日 留陳橋之瑞輝 煥忠臣之腔子 凝山岳而礭峙 竝日星而亘照 崖波盪以日舸 公抱歸於咸池 天未擎於世航 海則闊於魯蹈 忠龍髥而抱上 志魚腹猶不死 雖山糜而海粉 豈公衷之或沫 伊一斗之凜血 赤萬里於滄濤 靈輝遍於水國 覿彷彿於何物 暾將出兮東方 射赤暈於飛野 銅鉦拂以一團 暘谷煥其明光 瞻彼日而想像 公蓋留其精華 黃道通以血海 寸赤宛而騰輝 驅羲駕而赫升 載爾心而煌煌 金鴉行以墮鵬 飛不止於崖海 明輝聿以寸誠 赤光濕以紫丘 炳血忱於閱劍 一輪色於飛天 依背帝於轉輪 怳蹈波而颺靈 公未死於一昇 出海生其若彼 拚遺贊而鏡考 緯前修之所經</Answer>
+			</Answerdata>
+			<Additionaldata>七抄 成 同</Additionaldata>
+		</Work>
+		<Work id="85">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>정익조(鄭益祚)</Name>
+					<Courtesyname>효겸(孝謙)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>해주(海州)</Origin>
+				<Year>
+					<Birthyear>1724</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">以風解</Question>
+				<Answer>丹丘僾而悵予 假塊噓以游辭 邈靑鳥而高擧 御飛廉而言歸 風飄飄而阻道 咸一辭而爲解 跡雖掩於虛返 語故托於回颷 仙系風而解說 曩抵掌於天怪 措輕掉於海飄 語眞訣語煙島 承休風於羽人 俯三山而企予 風柁搖而夕發 皇曰唯其且俟 雲𨍍遠而一笑 橫大海而齊揚 招巨魚而導前 詔馮夷使來迎 雲影杳於莽闊 撫浪𨎵而夷猶 風煙迷於十洲 斷消息於蓮舟 丁寧說其得來 曰何語而還報 言未孚於假虛 術無奈於弢跡 仙家尙其一說 聞海風之引船 飄輕帆於水國 遌風伯而回舟 循玆語而寤懷 朕有辭於自解 言苟假於遭颷 跡可期於未遇 金鈴僾以點雲 盍埃風而止奏 指珠宮之入矚 諉豐隆之阻路 輕舸迷於闊海 匪風發而解之 旣無路於徂求 故有托於歸報 摎秦垂而反復 溯仙說之荒虛</Answer>
+			</Answerdata>
+			<Additionaldata>八抄 成 同</Additionaldata>
+		</Work>
+		<Work id="86">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>강필교(姜必敎)</Name>
+					<Courtesyname>유방(幼方)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1722</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">豈復超超渡湘水</Question>
+				<Answer>薰琴穆以歲晏 邈美人兮南浦 天工代於錫圭 帝度曠於頒瑞 拚湘駕而揭說 夥涑翁之卞明 撟已耄於遜位 筮不再於省方 虞書記其陟方 世誤解以渡湘 經旨晦於升天 史筆訛於死野 珠丘莽以日月 降皇靈於九疑 幽篁悲於夜瑟 暮雲長於蒼梧 搴河蘭以目渺 望帝駕兮然疑 人傳訛於篤信 吾有說於可卞 方睿算之倦勤 已大寶之與賢 雲星爛以夕暉 鳳曆昌於神姒 熙九歌以繼治 屛萬機而無爲 山龍晼以百曆 時不可以遠狩 瞻淸湘之一方 杳南荊之千里 朱維邈於帝甸 寶齡登於靈春 旣得人於付位 自無事於省方 南徽晏以五紀 楚水渺而愁予 群玉歸於會塗 六龍倦於巡衡 方穆穆而高拱 詎迢迢而遐徂 皇春暮於御袗 八鑾閴於南道 禪鴻聲於賢賢 收鳳蹕於巡方 知不狩於四岳 豈復遊於三湘 人雖信其復渡 吾必謂之無稽 皇遊隔於楚南 浪說傳於齊東 雖傳記之襲謬 觀厥時於可知 爰一篇之特揭 劈千古之疑案 原巡湘之一事 歷終古而皆信</Answer>
+			</Answerdata>
+			<Additionaldata>九抄 成 同</Additionaldata>
+		</Work>
+		<Work id="87">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>윤창(尹昶)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">第恐春風吹又生</Question>
+				<Answer>犯畦外以頫惕 別一春於噓茁 爐雖烘於雪點 谿易荒於芳塞 郵筒寄於我友 掔春草而申鞠 懼利根之復萌 喩燒荄之旋折 曩貽書於龍行 指膠盆而喩慾 媺溢樂於養草 懿程戒於觀獵 撟餘思於玩蕉 眷以嘻夫湘學 夸自遊於道林 謂已剪於心棘 究培養於一生 消芥滯於幾分 鋤縱勤於莠侵 風易搖於林靜 膺霄火之尙烈 恐梧檟之難長 循爾工而反顧 攬何辭而相贈 覽察草而有得 非我春於原上 方朱陽之赫烈 庶靑蕪而燒盪 條風俄而一煽 百荄棼其重萌 纔炎炎而擈原 倐芊芊而被野 推難除而易生 反以懼夫諸子 心雖遏於慾根 萌易動於原荄 回柴棘之盡剪 慮蘖芽之旋茂 情還舊於遏處 物有萌於燒餘 亦一草於情田 夏再噓於腔春 豈之彼之除根 恐難圖於蔓生 肆考亭之贈林 眷淸湘而申勂</Answer>
+			</Answerdata>
+			<Additionaldata>十抄終 成 同 賦 姜必敎 宋百休 鄭益祚 安聖大 尹昶 詩 金履安 鄭持淳 申思權 李衍祥 金相定</Additionaldata>
+		</Work>
+		<Work id="88">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>정충빈(鄭忠彬)</Name>
+					<Courtesyname>덕균(德均)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>하동(河東)</Origin>
+				<Year>
+					<Birthyear>1726</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">幡然改</Question>
+				<Answer>犂牛晏而帛戔 詠薖軸而夷猶 田龍利於普施 崗鳳吉於覽輝 行裝穆其永靖 今大覺乎前爲 㫼達道之可行 況遁思之遄回 勛華逖其朕樂 替囂囂而無求 耽幽貞於秉耒 菀曠感於擊壤 點雲怳其入夢 葆井渫而倘佯 翹乘忽其自毫 執余□而三耒 㑋龜尾之曳塗 勔鴻羽之漸陸 矯勤禮而反顧 攬恒幹而多思 盟旣堅於友鹿 志豈渝於縶駒 然余任其大道 如有用則斯措 堯其君而舜民 庶不遠而伊邇 心奚煩於尙友 道可耆於親覯 躬先覺而慨世 恥市撻而難恝 思皐夔之鑄治 詎巢由之葆潔 才猶□於處畝 貴則不於濟世 時顯晦而各適 義厲揭而靡差 曾何心於利遯 悟有道於行義 固昨非而今是 何不改乎前度 嫌繫瓢之不食 占涉川之攸利 諒舒養之各當 所進退之有裕</Answer>
+			</Answerdata>
+			<Additionaldata>東庠 敎 李垍</Additionaldata>
+		</Work>
+		<Work id="89">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>곽일홍(郭一弘)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">歎離騷晩出</Question>
+				<Answer>王春降而孟陬 體風雅而渢渢 繽蘭佩與蕙纕 襍閭巷之謠詠 其不幸而晩出 未見采於尼父 咨魯管之莫遇 咄楚經之不早 昔離騷之未出 擯不與於荊謠 姚響閴於陳岳 鴂音闕於載葩 傳一騷於楚南 菀美謠於三閭 撟菌桂而取比 攬菊英而托興 淸詞炳其日月 寫六義之餘意 辭不愧於載簡 風可陳於省方 苟洙鄕之早傳 豈荊南之無風 麟管煌其特書 夫子時也竊取 輸婉意於詠蕙 采苦詞於吟離 騷可正於反魯 詩不忘於降周 篇三百而復次 風十四而昭揭 謠何𨷂於太師 夷而進於正葩 春秋後而賦騷 生苦晩於遭辰 蘭吟宛其隰苓 時亦維其晼晩 湘潭暮而怨謠 閴洙泗之刪筆 咨聖遠而級降 慨有騷而無時 時相舛於後前 謠孰采於街衖 南汜遠於杏壇 漏一經於葩簡 肆閑堂之尙論 拊楚辭而三歎</Answer>
+			</Answerdata>
+			<Additionaldata>中庠 敎 尹東度</Additionaldata>
+		</Work>
+		<Work id="90">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이요백(李堯白)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">夢周公</Question>
+				<Answer>天畀聖以直道 周有鬼而百年 春秋晩於木鐸 朝暮遇於端冕 發精誠於宵寐 仰仲尼之眷眷 旣寤寐之入思 故彷彿之如見 自發歎於郁郁 已無爲於東周 凭琹操而得文 撫籥章而歌舜 念元聖之晟德 予舍是而焉歸 酌二代之禮樂 煥一時之文物 三王兼而有德 百世俟而無惑 嗟吾生之苦晩 不及見乎晟際 瞻鳳崗而已逖 睠鴻陸而莫追 文雖在於旣後 道素違於親炙 風政邈其歲晏 朕何處而覯之 惟嘐嘐之一念 未曾消於宵寐 靈襟漠而永靚 夜氣淸而遐翹 思神儀而耿耿 撫枕席而凝神 魂營營而夕交 夢中見兮何許 丹扆負而面南 赤舃几而自東 威儀怳於服過 典形森於枕上 忘百代之逈殊 若警咳之親承 積景慕於心上 襯光畢於夢裏 方於夢而旣睹 乃其覺之如在 亮深誠之攸感 認遐邇之不迷</Answer>
+			</Answerdata>
+			<Additionaldata>西庠 敎 李垍</Additionaldata>
+		</Work>
+		<Work id="91">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>신광철(申光哲)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">寄詩賀水部</Question>
+				<Answer>子有故於羽人 揖我謂兮旋兮 拚歸裝而媵女 邈馳神於縣圃 凭瓊漿而結望 矯以遺乎仙居 掬明感於好我 寄遐想於言志 聆奇聞於垈恥 予慕女兮窈窕 收驚魂於蜮弩 結幽情於熊經 鼂眞遊於玉局 夕遐翹於珠庭 存彷彿而不見 精皎皎而來往 人飄飄兮自來 報仙岑之消息 詑其訣而壽我 傳奇遌於識君 說象山之後期 指常岑之宿緣 旅齋窈而對揚 言洋洋乎可迹 登乃言而瞠若 睠歸岑而翹予 朋精粹而乾神 閱滄桑而久視 留不死之舊鄕 與天地兮比壽 心方願於躡人 說何寄於喜我 倘承風於羽衣 庶脫身於塵臼 常山邈其曩遊 朕幸遌而不知 悟已往之不省 冀來者之復見 金丹煌其九轉 願輕擧而從遊 覩靈驗其起予 望仙境而遙思 結遐望而詠詩 伻□喬而詔之 旣有芝而灃蘭 聊寄詩兮願言</Answer>
+			</Answerdata>
+			<Additionaldata>南庠 敎 徐志修</Additionaldata>
+		</Work>
+		<Work id="92">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>황인희(黃仁熙)</Name>
+					<Courtesyname>사집(士緝)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>양성(陽城)</Residence>
+				<Origin>창원(昌原)</Origin>
+				<Year>
+					<Birthyear>1728</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">子房了債人</Question>
+				<Answer>投千金於水市 論薛錢於古宇 籌雙箸而有剩 恩五相而不負 文虞山而載考 本是人之了債 諒扶漢而報韓 認盡責而無餘 祿千鍾而傳五 負多債於身世 悲麥秀而掩涕 撫喬木而圖報 迨陳留之遇主 若奇貨而居之 拚大度之利用 蹔借手而先貸 秦車素而怨報 項劍碧而恩酬 猶漢債之未盡 眷商聲而扣囊 伻鶴書而載回 儼黃冠之趨庭 推玆觀其半世 蓋厥報之焉如 人在弊而責我 所奔走而先後 惟盡償於軹道 亦多酬於坑壘 擡歸貌於宇宙 任塗抹於西東 橋書看而貨傳 出風塵而料理 酬多逋而庶訖 間波此而無愧 勦秦楚而樹劉 無負人於平生 債玆訖而畢願 睠雲岑而引領 從赤松而托跡 志固存於後償 倚志願之畢遂 了其債於人間 將赤手而運智 報宿報之無難 繽酬韓而償劉 幾破産而傾財 肆後世之揭評 債一字而論如</Answer>
+			</Answerdata>
+			<Additionaldata>中庠 敎 金陽澤</Additionaldata>
+		</Work>
+		<Work id="93">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>신완(申琬)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>공주(公州)</Residence>
+				<Origin>평산(平山)</Origin>
+				<Year>
+					<Birthyear>1725</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">蹴虎</Question>
+				<Answer>鈴庭曉而隱霧 鼻雷殷而當谷 凭奇標於虓闞 覘佳緣於雁旭 聲珠履而蹴起 虎而人於斯須 執所見之孔異 要相好而儆起 飄風塵而業娼 混女俠而尋常 高義凜於汧娃 奇遇遲於衛公 晨熹微而赴賀 覿何物於柱下 陰風瞹於在山 皓額隱於負隅 公門鎖於下魚 爾何從而齁齁 忙羅襪而却步 怕履尾而徑歸 鷄人唱而雁鶩 俄重度而回眄 回北平之舊遌 宛武襄之頎幹 風嘯幻於楚藪 黑憇迷於趙廝 倐變化於俄頃 人與虎其誰知 停蓮步而𨀉立 轉蕙心而沈思 訝牛疾而莫信 臆猿化而誰質 豈異徵之偶然 信我服之相燭 人可期於豹變 心已屬於兎絲 整藏纖於竇屛 踵窺雀於柴閨 執來寅之靈標 占繫繩之佳遇 宜須問於厥名 恐未知夫阿誰 懷吉故而永靖 羌偃蹇而蹴起 纔一堂之盡歡 果百年之偕好 閱禪乘而追認 相韓婦之見徵 智惟明於觀象 鑑已高於懸鏡 方官府之夜趨 警異物之當塗 初怳惚而莫質 倐爲人於重觀 伊玆事之可異 整中情之贊訝 嗟慧識之早揣 永相詡以依歸 功名壯於虎幄 榮爵侈於褘衣 誠奇蹟於足徵 留異傳於千禩</Answer>
+			</Answerdata>
+			<Additionaldata>東庠 敎 李應協</Additionaldata>
+		</Work>
+		<Work id="94">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>己巳</Sexagenarycycle>
+					<Year>1749</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>윤위(尹暐)</Name>
+					<Courtesyname>혜중(惠仲)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>파평(坡平)</Origin>
+				<Year>
+					<Birthyear>1726</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">求節敢諫中</Question>
+				<Answer>毓正氣而流形 化朱劍而段笏 雖異軌於異辰 式同歸於全節 如何得乎烈士 捨犯顔而奚察 亮辦義於秉直 宜推斯而求彼 節乃見於時窮 蓋未易於先知 丁板蕩而始識 在淸夷而難卞 固未預矣其終 如厥求而焉見 念朱庭之敢諫 秉烈操而曆變 懷剛腸於謇諤 犯威顔於咫尺 雷霆疊而益勵 鼎鑊嚴而猶確 貞金矢而特立 雖九死而無悔 循素蓄而靚悟 睠以溯夫節義 推鐵心之自貞 驗白刃之可蹈 諒忠烈之洽著 庶生命之易投 紛有智於辦節 摠自出於所守 顧敢言而庶幾 悟於斯而取義 惟臨難而立志 自立朝而抗爭 知不遠於鯁舌 亦可期於熊掌 苟毅烈之合求 盍正直之是審 操旣堅於格君 節宜見於夷險 縱遇時而各殊 庶斯察而先念 謇當察夫面折 指殉身而爲期 回宮門之立鼓 筮封强之聞磬 固皆然於易地 儘分流於同源 肆南軒之對論 謂求義於廷諫</Answer>
+			</Answerdata>
+			<Additionaldata>合製 成 金時粲 賦 尹暐 李普行 李垐 權詡 任時習 洪景海 申光喆 李時模 詩 申⿰(日+垕) 徐有慶 呂善德 朴道翔 李東稷 柳煥猷 尹在一 李夏濟</Additionaldata>
+		</Work>
+		<Work id="95">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이상열(李商說)</Name>
+					<Courtesyname>몽여(夢與)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>전주(全州)</Origin>
+				<Year>
+					<Birthyear>1719</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">却把丹靑畫別人</Question>
+				<Answer>風沙遲於鞠夢 老離朱於砥和 儀洪伐於作繪 笑短技於擅畫 丹靑輸於別人 覽墜烈而愀噫 矯祖烈之未紹 惜小藝之徒事 墜風聲於夢賚 落雲仍於顧廚 傳畫𩪼之妙楷 邈代言之餘休 風雲杳於短神 跼虎頭而棲遑 憑爾藝之擅世 眷乃祖而遐想 回傅巖之操版 入帝夢而繪像 霖雨蔚而永譽 茂績垂以遐熿 靈儀僾而暎眸 令德藹而洋洋 嗟遺昆之忝厥 謾擅名於傳神 家聲墜於纘祖 薄技妙於寫眞 箕精邈而像肖 繪事煥而藝專 墜令聞於作礪 擅末技於吮丹 何箕裘之莫傳 謾馳譽於畫家 休未纘於被袞 業徒工於舐毫 前光佚於後昆 故家墜其令譽 違自家之象設 但他人之摸畫 藝奚求於揮灑 烈莫紹於負荷 繽面面之畫出 摠區區之末藝 無圖象於七分 祗擅聲於三昧 風聲好於矢歌 擥子扶而結貽 抽深感於摸像 托徽意於贈詩 聆魏詩之短什 想傅生之單畫</Answer>
+			</Answerdata>
+			<Additionaldata>初抄 成 任珽</Additionaldata>
+		</Work>
+		<Work id="96">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>최수량(崔粹良)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">投袂</Question>
+				<Answer>南汜蔚以强大 拊初服而赫怒 追化者而欲報 睨弱隣而明徂 王投袂而誰何 矢無負於無畏 亮非偶於奮袖 認有激於所愾 昔日行而曰死 朕有言而必討 憑荊尸而自靠 眇彈丸而將報 章臺峩而坐大 謂無人於我何 行人忽其不返 華謀宋而云戕 釁舊惡於孟諸 肆毒鋒於過疆 違隣好於簡書 效拒轍於螳蜋 柚園秋而死聞 關匏宮而何思 憚星軺之不還 愾小隣之執辭 荊天繞以殺氣 愀袞龍而鼓銳 旣隣侮而戕介 詎我武之遲滯 顧余袂之襜如 蓋餙怒之在玆 心方激於攘臂 憤可示於拂衣 回云軍之挾纊 思一戰之必酬 威旣仗於虎視 耽弱肉而峩旒 陣光動於郢中 兵氣高於袖外 衣飄飄而怫怒 紛擊留而動旅 寧干戈之虛徐 宜袖領之揚屬 謇唾手而奮袂 何意壯而志快 俄寢門之留及 縱百宋而無奈 倚玆事而追認 想楚辟之攸爲 跨南疆而倚勢 睠四方而騁威 當申子之出聘 聿知殞之克赴 噫彼宋之肆怒 愕使者之不旋 它有甚於全侮 我豈無於奮旅 爰盛擧而決意 直欲呑夫彼國 寔爲臣而恩報 亦在君而孔哲 然當日之命使 何悛隣而媒臧 昧機謀而好兵 信戰國之本習 徵交隣之有道 仰鄒訓而興臆</Answer>
+			</Answerdata>
+			<Additionaldata>再抄 成 鄭翬良</Additionaldata>
+		</Work>
+		<Work id="97">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유운우(柳雲羽)</Name>
+					<Courtesyname>봉지(鳳之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1730</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">起舞屬丞相</Question>
+				<Answer>突傲骨而中酒 晲生貴而藐之 孑不犀而如燕 略無忌於投鼠 傞傞舞兮弁峩 擧以屬之彼相 寔多感於食話 所使氣於逞凌 昔期我於城南 奉虛言而望誠 吾有服猶諾爾 侯以酒而謀婦 榮高跡之乍辱 慶冷門之將賁 懷耿耿而望子 目渺渺而愁予 藍田黝以暮色 閴流水之轔轔 羅八簋而不御 索滿堂而無歡 非敢恨乎負我 何遽薄於待候 欥催駕又往速 迫而後乃肯來 方臨途而緩驅 及登筵而餘倨 長縷飄而傲色 來亦書其惠而 男兒有此鐵肝 鬱抗憤而瀏睨 爾旣深於弱我 我豈無乎反爾 樽之前而蹶起 覺有術於相阨 惟蹲蹲之屢舞 盍將把兮酬酌 宜自我而秉翟 且俾汝而執籥 操末技其可恥 在貴者而爲屈 回秦缶與趙瑟 足一雪夫藺怒 爰翩翩而起舞 曰我先而爾次 諒齎怒於負言 認釋感於肆侮 豈眞責以擧袖 將如僇而愧今 狂生軒其氣岸 彼以貴而此傲</Answer>
+			</Answerdata>
+			<Additionaldata>三抄 □…□</Additionaldata>
+		</Work>
+		<Work id="98">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이현보(李顯普)</Name>
+					<Courtesyname>유인(幼仁)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>벽진(碧珍)</Origin>
+				<Year>
+					<Birthyear>1726</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">賣季布</Question>
+				<Answer>傭歌撤而市金 仲秋燈而何語 悲擊筑於宋堂 睠虞卬於梁途 層雲高於廣鯖 貨奇貨以家僮 藏深機於急難 假市道於弢蹤 烏波咽而暮道 朕居子而匪貨 嬴高義於市南 哀乞憐於窮鳥 曼縷颯而劍歌 時有淚而相和 千金重於漢詔 且臣舍之將索 傾購頭於嬴市 阨危蹤於昭槖 卬非畏於買售 禍及子而焉救 彌天下以漢網 庇七尺其無地 傳聲價於俠藪 最急人於魯朱 風燕南之慷慨 士之歸而如家 肝膽照於俠肆 庶恢恢其容汝 粧髠鉗於夜出 跼汝蹤於廣車 聲轔轔於非轉 挈奇男而將貨 鞱傾貌以混款 談朱宅而談價 何論直於此僮 照片心而瘦辭 吾於今而善買 子有價而沽未 凭販買之秘計 倂義氣而許賣 非爲心於賣僮 殆有望於市義 從今日而永付 善爲地於夫也 縱片言之胥許 易奇義以千鎰 風聲載於漢乘 聳俠出於千秋</Answer>
+			</Answerdata>
+			<Additionaldata>四抄 成 同</Additionaldata>
+		</Work>
+		<Work id="99">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이해부(李海敷)</Name>
+					<Courtesyname>여문(汝文)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>덕수(德水)</Origin>
+				<Year>
+					<Birthyear>1724</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">賣季布</Question>
+				<Answer>擔吾簦兮躡屩 求大籝於東街 吳劍缺而莫衒 駿骨朽而無價 籝金多於魯才 夜叩門曰沽之 憑意氣於急難 假市道於求售 曰爾布之名價 非可賣之黃金 乾坤窄於尺劍 梁楚間而片心 千金輕於一諾 吾輩籍而街遊 黃圖售於卯金 俄有詔曰購布 懲推響於博浪 高布價於樊頭 漢已得夫天下 何太慨於壯士 鷄燈烱其劍心 拊楚髠之行裝 輕軺藏其氣岸 短布揜其胡綏 無朱子於關中 何處容其傭歌 朱家富於魯樂 多急人之聲價 飄燕趙之慷慨 易義氣以金璧 金臺荒其重弊 夜擊劍於屠博 顧我僮之窮途 盍將售兮奇嬴 非爲貧而欲賣 亦豈樂乎此行 層雲擁於袖外 暮途遠於關東 君家接於吳市 恐袁絲之先買 毬謌起而劇談 博淵罷而言價 秋燈華於夜券 笑日中於街無 傾寸心於擊筑 眇千鑑其如芥 雖陳金之四萬 豈買獻於豐西 幾武力而物厚 俄嶺鳥之超羅 惟朱俠之高義 一劍照其肝膽 察吳卿之周窮 容漸離於賃傭 軥車忽其入洛 又一言之買死 香聲滿於俠窟 殊價騰於燕市 袁家有此劇孟 笑富人之未買</Answer>
+			</Answerdata>
+			<Additionaldata>□…□</Additionaldata>
+		</Work>
+		<Work id="100">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이해부(李海敷)</Name>
+					<Courtesyname>여문(汝文)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>덕수(德水)</Origin>
+				<Year>
+					<Birthyear>1724</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">示背</Question>
+				<Answer>夢負玉而登天 鼂吾視夫朱玫 輸逢服於易位 悲軫嘗於歸元 麋墉屹其執役 示我背曰覽玆 撟微誠於捍王 視舊痕於受戈 王旗靡於夢澤 曾余衛以此背 吳蛇荐於食國 錡夢軫於射月 計屢敗其血及 身受賊而免國 餘痕斑其尙在 之操版於摩役 賈餘勇於踞轉 非皤腹之千思 崇墉壯其背酅 朕則視以餘事 令尹俄而執鞠 問忽及而高厚 謠澤門之黔晳 誥保障之能否 瓊弁華以玉縷 睠百雉而勤諏 相玆城之宮嶤 非我能於坂築 忠臣貴其喪元 領何事乎獸角 城徒崇於宋植 笑曳甲之復耒 曾雅復於免三 視微忠其何以 寧喩志於指心 尙餘勇於免冑 戈痕菀於背上 尙斑斑而未沬 幽氛歇於郢樹 血雨暗於雲澤 操蝥狐於犀甲 保袞龍於吾背 公休誇其轝服 役行用於崇難 陰雲僾於橘園 棘露沾於瓠居 隴山遠兮日暮 應胥足之重繭 人所難而猶能 背一示而痕見</Answer>
+			</Answerdata>
+			<Additionaldata>五抄 成 同</Additionaldata>
+		</Work>
+		<Work id="101">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>오준근(吳濬根)</Name>
+					<Courtesyname>백심(伯深)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>양성(陽城)</Residence>
+				<Origin>보성(寶城)</Origin>
+				<Year>
+					<Birthyear>1730</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">輿曳柴</Question>
+				<Answer>欒以退而曳柴 尙有捷於城濮 塵何待於甚囂 兵不厭夫疑敵 前車驟而後繼 曳以薪而從之 揚虛翳於昧象 助前驅於馳師 蒲車濟而絲王 戰不可乎曳兵 恢餘智於伐木 賭金勝於繼桑 臣岑高而登彼 以我師而爲小 凭申池之木竹 騁巢車之旟旐 吾方囂而敵覘 兮何計而疑爾 疏陳旣其在前 右車又以張勢 齎深機以暗算 得一術於虛昧 柴無取於對陳 獨揚塵於然疑 山于棫而澤雀 湑其葉而風枝 隨翹翹於漢薪 起溟溟於大車 形權枒而戰戍 響蟋蟀而介馬 兵之交而貴詐 彼見此則宜懼 枰前茅而樹桸 命山虞使鳩醮 車轔轔而載馳 繫之尾其維柴 依叢薄而作逞 間韅靷而倐馳 張其虛而若實 忽平地而生霧 原莽蒼而翳榛 又時僾其薄暮 瞻乎首則繪色 視其尾而塵蔽 山靈驅而虁前 倐乎前而于後 雲橫家而夕翳 旆網瀁而颺族 天風肅其響倐 象鉞戰之𤡆𤡆 依乘槐而示武 倡斬橁使賈勇 東師濱其曳甲 競目奪而心眩 惟輿薪其不見 孰知非夫組練 枚何暇於數圖 劍不及於斷鞅 鳥聲廳於暮壘 見我薪而回翔 山河翳於野樵 草木助其軍容 疇無怕於望塵 倐一散於班淸 蔿何爲而置城 我自是而敵破</Answer>
+			</Answerdata>
+			<Additionaldata>六抄 成 同</Additionaldata>
+		</Work>
+		<Work id="102">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이해부(李海敷)</Name>
+					<Courtesyname>여문(汝文)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>덕수(德水)</Origin>
+				<Year>
+					<Birthyear>1724</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">輿曳柴</Question>
+				<Answer>鷄鳴起而馬首 睠萬竈而樵㸑 莘虛逖以伐木 陰岑嘯其涂燔 車軨軨而起塵 曳以奔夫齊師 運神鞱於誑敵 賭縮甲於設疑 樵柴多於我郇 欒昔曳而誑楚 神謀試於益兵 餉勢飢於贍士 山河圖於表裏 代萬甲以式靈 平陰漭以秣馬 時載余之輜軿 思妖慶之是踐 將齊公使其奔 金鼓張而旝動 車在後而棼棼 前茅慮以夕近 云且近乎滿麋 長河黯以惡氛 困獸張其餘氣 袀旂颺於臣薄 認齊子之憑軾 中權穆其玩寇 將先施以何術 寧湮井而視弱 豈蒙皮而誇勇 詹軍竈之旣夷 菀有柴而悻悻 驅廣路而束載 啓長馗而風塵 驚沙和以坐飛 彼必謂之吾軍 車翹翹而左右 盍將飭兮軍容 凝神權於坐甲 占奇功於鳴鏞 唯齊人之素劫 應不俟乎交鋒 俄曳出於鼎門 遂毒逐於中原 塵濛濛而四起 蔽碣石之高山 城烏翩以上下 班馬爲之吳嘶 龍旂肅其跗注 笑東族之糜糜 歌北風之獨競 揣今日之無齊 陳雲變於渤海 殺氣浮於郇鋒 東人忽其夜遁 焚竹木於申雍 朱絲信於白水 秋實落於牛山 彼太子之斷鞅 獨不見乎此塵</Answer>
+			</Answerdata>
+			<Additionaldata></Additionaldata>
+		</Work>
+		<Work id="103">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유운익(柳雲翼)</Name>
+					<Courtesyname>붕지(鵬之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1734</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">書陳揉桑事</Question>
+				<Answer>發昔夢於瓊宮 帝鞠余以蘭非 謇棠棣其文歈 晩桂爛其秋華 春遊入於影事 指沃若於城西 歌在昔而爲言 要同氣之無疑 桑姊暮而履霜 姊曰嗟余季兮 氏乃竇之血脈 女有兄而則我 摩髧髦而共傷 泣牛衣曰何怙 城南飛以戴勝 春有事於集畦 携懿筐而陟彼 騎穉竹而從後 紅葚爛於女條 時摘甘而啖予 春鳩俄而啼罷 翩繽散彼鴒翼 飄荊花於逐風 任吹落於側席 歈菁杜而獨行 別音凄其桓山 烏車嘽而北臻 訪消息於長安 瑤臺圓以夜月 竇女降於漢宮 詢譜氏而彷彿 問鄕里而惝怳 心然憂其我兄 兀疑翠於櫬闈 崩岸幸其不死 天其感者貴余 心乎異而莫迹 愔愔記其古事 兒家近於陌上 嬉戱已其前塵 倉庚鳴而日陽 女採採兮予怙 后應想其擷葉 我亦記夫伐條 中心依其不忘 惟此事而憶古 知左契之旣明 盍將把兮陳之 天門廣兮入望 籲短章而一投 卬千秋而永溯 想竇兒之孑孑 年四五而縱遊 事一二而能記 及其姊之升壼 遂行哭而西之</Answer>
+			</Answerdata>
+			<Additionaldata>七抄 成同</Additionaldata>
+		</Work>
+		<Work id="104">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유운익(柳雲翼)</Name>
+					<Courtesyname>붕지(鵬之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1734</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">書陳揉桑事</Question>
+				<Answer>棠韡結以桂花 夢季蘭於前夜 牛衣啜以賤儓 翟茀貴於坤位 記舊跡於陌葉 籲天門而臚之 引故事於遊嬉 樂同氣之無疑 桑梓菀以鶺原 昔姊長而吾幼 兄吟梅而自傷 弟騎竹而時戱 兒家近於陌上 女執筐而予偕 紛攬扶而摘葉 相笑樂而扶扔 髧彼髦而採採 時迷藏於林中 連枝忽其一分 落荊花於宜陽 行謠凄於杖杜 泣貌衣而凉凉 人自洛而有傳 好消息於西來 瑤臺欣以人居 出觀津之世家 居吾同而姓衆 匪我兄而伊誰 心然疑而彷彿 欲自適而莫可 顔依俙於久別 跡卑鄙於行丐 風花殊於席溷 恐塤篪之難知 將何舁而靚止 有如彼之春葉 條沃若於隴上 曩弟兄其翶翔 靑絲籠兮玉釣 戱朝日而襭袺 留舊事於短陌 足以此而爲質 吾玄髻而尙記 后應想而休休 門楣赫於我家 盍將陳夫所懷 春遊菀其故迹 上短章於九堦</Answer>
+			</Answerdata>
+			<Additionaldata></Additionaldata>
+		</Work>
+		<Work id="105">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>오준근(吳濬根)</Name>
+					<Courtesyname>백심(伯深)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>양성(陽城)</Residence>
+				<Origin>보성(寶城)</Origin>
+				<Year>
+					<Birthyear>1730</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">請以咸陽壽趙王</Question>
+				<Answer>一白璧猶睨柱 疇反索夫厥價 西隣嘖而我僕 漳城壓而誰繼 咸雉輕於坫爵 汝其先而吾酬 撟彼辭而載反 惡厥對而相加 吾王會而酌壽 自在固於邯鄲 東盟洫而孰侮 北詛棘而咸遵 今澠池而會張 亦兕觥其匪言 山河圓於表裏 兩君好於尊俎 缶聲動於瑟餘 我言觸其爾知 筵方闌而雜進 云有請於秦臣 叢臺西而別城 視可壽而其涎 涇波漫而漳蹙 噫以我爲無人 撟吾以其抗女 攬厥咎以思反 函關小於一丸 太華猶其吾鄙 瞻碓鄙於爾邦 一咸陽以爲大 終南峙而渭環 獨我視而差盈 疇無酬而有酢 亦秦都於趙城 吾何求於十五 彼不過爲一縣 雖耽耽其勢張 亦爾言之吾目 昻昻趁而玉立 睨西鶉而揚言 王爲記而必交 事有施而方報 吾方客於彼主 主固宜於先壽 秦稱大而趙小 大亦可乎多儀 西人旣且有言 豈一城而摼余 繩其酒而肉林 又不都則不稱 勞吾君於遠會 又曷小於其享 靑山翠於六里 楚則欺而吾否 崗陵鬱其我頌 聞有山而宜囿 獨虛宿而色張 玩天寶而指揮 西臣繽其口呿 王不語而心喜 金湯翫於掌上 鼎呂重於舌下 操牛耳而壽王 履虎尾而無噬 風聲哂而血頸 百二險而如砥</Answer>
+			</Answerdata>
+			<Additionaldata>八抄 成 同</Additionaldata>
+		</Work>
+		<Work id="106">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이해부(李海敷)</Name>
+					<Courtesyname>여문(汝文)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>덕수(德水)</Origin>
+				<Year>
+					<Birthyear>1724</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade></Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">請以咸陽壽趙王</Question>
+				<Answer></Answer>
+			</Answerdata>
+			<Additionaldata></Additionaldata>
+		</Work>
+		<Work id="107">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유운익(柳雲翼)</Name>
+					<Courtesyname>붕지(鵬之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1734</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">無多酌</Question>
+				<Answer>平恩捋於武安 我仲儒而唐突 朱門荒以暮莠 古臺凜其秋栢 君有暮而宴樂 且酌余以毋夥 豈但讓以醉呶 認有寓於諷頑 吾在醒而亦狂 非獵由於飮酒 彈陽侯而太癡 郂都尉而何愚 軒傲骨而獨奇 頫搢紳於下風 輸奐新於戚里 卬得請而後往 彈鵝冠而競進 攝禪衣而末至 觚稜鬱其藐視 眼孔大於御史 飄秋鷺之不群 笑賀燕之啾啾 謠斯干而夕衎 我則東而君西 君之酒兮若繩 把滿白曰毋辭 人不醉其而恥 余獨醒而謂何 觥籌錯其在前 詠濡首而宜娛 忽反顧而潛思 予心狂其尙爾 雲第甲於戚隣 自來時而已笑 飛暈煥其眩目 歎室澤而人瘁 猶慗潛而不語 恐貽辱於貴命 顧君酒之勸余 雖欲飮而不可 醒時尙其客氣 醉後必其要言 惟眞情其自發 縱胡叫而無奈 紛側弁而亂定 宜顧憚而醉後 吾豈徒其失儀 君無奈其受侮 停金危而自辭 申以告曰毋多</Answer>
+			</Answerdata>
+			<Additionaldata>九抄 成 同</Additionaldata>
+		</Work>
+		<Work id="108">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>오준근(吳濬根)</Name>
+					<Courtesyname>백심(伯深)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>양성(陽城)</Residence>
+				<Origin>보성(寶城)</Origin>
+				<Year>
+					<Birthyear>1730</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">願得居前死單于</Question>
+				<Answer>秋塵驚於北顧 老猶飛於將軍 前驃騎而語壯 對褊裨而思奮 靑油深而跪請 賭一死而居前 甄素蓄於死敵 要先鋒而當虜 吾頭白於北闕 恨未當夫單于 殲白馬猶小酋 奪輕騎亦胡兒 縱結髮而迄玆 願一當而無路 飄雁門而歲晏 振猿臂而揚垂 功蹉跎而數奇 恐此身之虛死 元戎啓而北出 帝許臣而驅馳 無驕酋於眼底 撒射戱而潛欣 秋塞漭而駐兵 命維何於中權 聲大軍而北乘 逶余馬而東首 前將旣以我部 豈中途而改路 從桑蓬而事胡 今始得此好機 胡雛眇於銳加 何不克而東之 曾有志於死綏 懼此機之又誤 慣水草於朔漠 撫余髮兮紛如 男兒貴以得死 睨天狼其何許 胡未滅而身老 曩語想於王氏 驅我騎而北指 願得當而擧死 多在庭於漠南 丈夫生而堪恥 天山藐於一箭 抑老臣之無踰 前師維於我住 又何以乎東道 無生氣而有死 虜亦憚夫名臣 毋從右而曰前 竊有請於元帥 功未成而不俟 職臣數之多奇 終迷道而責簿 亦云命也誰咎</Answer>
+			</Answerdata>
+			<Additionaldata>十抄終 成 同 賦 吳濬根 李海敷 柳雲翼 安兼濟 徐命善 詩 李趾烈 尹養厚 趙⿰(王+夋) 任珗 姜世南</Additionaldata>
+		</Work>
+		<Work id="109">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>오준근(吳濬根)</Name>
+					<Courtesyname>백심(伯深)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>양성(陽城)</Residence>
+				<Origin>보성(寶城)</Origin>
+				<Year>
+					<Birthyear>1730</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">責謝昌國君</Question>
+				<Answer>夫差虐而胥死 弗去爲乎闔廬 瞻金臺而篲在 睠汶篁而人無 馳得人而載書 攬厥辭其維何 吾非失而子過 一則讓而二謝 自子去而燕危 予自責其不暇 先王禮而莫追 天下切而靡保 長城澈而國蹙 得無哂乎賁觀 吾其溺而笑人 問子義之安居 瞻陵草而未紫 頫棠社而方危 指克知而不顧 一小隙而遐予 叢臺鬱於易水 擁趙女而西嬉 傳流言於載道 子方敵而圖我 憑疇日以予思 我實誤而君過 公之休而反阻 去其浼而罔籍 嗟忘我其已□ 獨不念乎先后 推吾尤其豈無 譬子負則猶小 心依依而曷宣 庶憑書而載鞠 言其勞而道離 意則正而辭遜 翩千里而一封 聿以謝而以責 惟忠名之弗潔 孰舊勳之可諼 沖人縱其不明 厥攸受則先君 環幽薊而日孤 胡爲乎彼邯鄲 雖叢臺之可樂 豈駿骨之知求 遼山翠而待子 雁城高而留疇 如登高而北望 能不懷乎昔日 君臣同於一體 子逬逬而吾否 盈霶沱於一帶 我意長於招子 燕雲峙以九疑 昔何誤於左右 吾知尤而子遠 哺也變而誰歌 侈新封於望諸 子多計其斯多</Answer>
+			</Answerdata>
+			<Additionaldata>兩庠合設西庠 成 鄭翬良</Additionaldata>
+		</Work>
+		<Work id="110">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유언수(兪彦鏽)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">責謝昌國君</Question>
+				<Answer>金臺暮而草鞠 朕孤立而遑遑 收蒼梧之餘淚 惴崇廢之將亡 謇一責而一謝 聊致意於行人 知自誤於寡人 豈爲地於將軍 曰先王之禮遇 予豈忽乎忘諸 恩何深於戮謀 德難諼於擁篲 驚新將於故壁 朕豈疑於吾子 非諞言之過聽 悶河上之逍遙 來消息於半夜 愕逃鉗之行色 投公子於趙壁 滯隨念於秦國 何其邁於是行 已無望於今日 城烏忽其夜飛 倍鼓鼙之新思 瞻齊氛於殷憂 惕楚材之晉固 盍因風而宣意 懷北歸之好音 憑使乎而願言 何所寄於之子 雖云過於朕躬 亦何罪於先君 君胡遽以自疑 我則動於讒說 功至今而不忘 恩在昔而寧孤 雖一身之自計 抑歸報之何欲 吾非敢乎自是 子豈云乎無過 今百悔其曷追 顧厥咎而誰執 將責語與謝意 對吾人而申申 撟此日之懊悔 渙積年之疑阻</Answer>
+			</Answerdata>
+			<Additionaldata>中庠 敎 李顯重</Additionaldata>
+		</Work>
+		<Work id="111">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>조유진(趙維鎭)</Name>
+					<Courtesyname>지경(持卿)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>풍양(豊壤)</Origin>
+				<Year>
+					<Birthyear>1721</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">復定南軒集</Question>
+				<Answer>雩詞罷而亭鎖 人旣去而文貴 留子雲於後死 竚孔刪於朝暮 丌元藁而手定 更新本於朱門 思亡友於臨文 釐前訛於重新 曰君我之講劘 多別本之未錄 承毫析而違遺 言道樞而漏輯 涇渭混於序次 反掩翳其眞面 一太息於掩卷 溯中晩之確論 文不騖於高遠 語皆根於平實 初年後而大醇 曩所論其予服 胡落月之入樑 已遺珠之混沙 虛南山之對床 晦書樓之言懷 傳多訛於賸馥 子九原而難瞑 孑老我之不死 顧是書其誰費 旣樊師之有托 寧石經之使誤 一欠事於行文 朕不能乎辭罪 吾道孤其已痛 文字訛而孰信 開舊本而筆削 擬新篇之永傳 搜塵笥之簡牘 訪後學之誦謄 摎晩歲之立意 作凡例於蒐定 訛詞削而謭棼 闕文補而成統 豈徒益於顓蒙 庶無負於旣骨 四十四兮篇帙 爛有條於復輯</Answer>
+			</Answerdata>
+			<Additionaldata>東庠 敎 李顯重</Additionaldata>
+		</Work>
+		<Work id="112">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이봉덕(李鳳德)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">無人識權字</Question>
+				<Answer>微言降而說夢 聖錘遠而機變 中鮮能於執道 義孰得於覷蘊 謀大猷而永噫 人未有此知權 撟違道之合經 慨昧義而偭眞 嘿天地而時制 聖以經而權之 雜道義而誠衡 載中和而懸錘 平心均而運物 儀予援而措宜 應萬變而低仰 道不離於斯須 斯以義而制權 固何往而不經 合輕重而同得 寔聖者之大用 言一湮於漢下 士談權而云何 徽猷入於術數 大錘歸於機詐 依字操而畫葫 僭時義而疤靴 昧有經而有權 競舍義而牢合 凭一時之達變 閙百家之錯識 繽禱幻而說靴 意瞹瞹而未明 無眞工於造道 但解篆於違聖 惟機功之用變 曾是謂之權兮 矇柚橘之異昧 執裘葛而同時 權非道而豈行 世遠聖而宜趨 誰猛省於這義 眇眞虛於凭地 登孔昊而緯經 歷鄒魯而長夜 宜先儒之牖迷 揚魯論而興慨</Answer>
+			</Answerdata>
+			<Additionaldata>南庠 敎 鄭弘淳</Additionaldata>
+		</Work>
+		<Work id="113">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>庚午</Sexagenarycycle>
+					<Year>1750</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이현보(李顯普)</Name>
+					<Courtesyname>유인(幼仁)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>벽진(碧珍)</Origin>
+				<Year>
+					<Birthyear>1726</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">揖客</Question>
+				<Answer>軒柳營以介冑 揖臣重於天子 甄傲習而自任 撫禮數而多差 將軍貴而獨揖 客偃蹇而何重 亮素性之大倨 所撫尊而矯矯 曾不冠則不見 帝猶遇以客禮 田侯尊亦不拜 張尉貴而猶罵 無權豪以藐視 一傲骨於朝著 榮新貴於衛僮 士趨風而函拜 多依付於曳裾 恭跪起於謟笑 繽尻高而首下 摠賓席之逼逼 擡傲顔而性戇 上客客於阼階 剡起屨於掉袂 步華延而昻昻 冠佩爾其鶴立 上將藐於孩嬰 恭執禮而擎跪 予不屑夫此態 來主人於御厠 詎丈夫之優禮 長其揖而莫拜 憶狂生之遺風 吾儂猶其傲態 宜爲女而執恭 張豪習而小禮 尠予拜於朝端 揄長袂而擧手 賓有禮而止斯 能爲珍於席上 曰有客而孔嘉 而吾人之此腰 豈罄折之容易 名于今而反重 抑君侯之爲地 羌玩世而不恭 亦吾性之難回 軒氣宇而萬丈 肯下風於生貴 空權倖於傲睨 何不憚夫仲卿 靡臨風於一世 獨此身兮亢亢 撟吾以其曩態 客且休乎規我 朱門赫其勢焰 陋炙手之呴呴 吾皇尊於面折 復何懼乎餘外 淮陽歸而亦臥 猶不禮於鄕兒</Answer>
+			</Answerdata>
+			<Additionaldata>合製 成 鄭翬良 賦 李顯普 安聖斗 尹履福 兪彦緯 鄭存性 尹得頤 申應顯 許濟 詩 李商舟 崔益男 趙鎭憲 李惠祚 李敬孝 尹得毅 南泰儉</Additionaldata>
+		</Work>
+		<Work id="114">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>변득양(邊得讓)</Name>
+					<Courtesyname>사겸(士謙)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>황주(黃州)</Origin>
+				<Year>
+					<Birthyear>1723</Birthyear>
+					<Deathyear>1801</Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">一豫讓</Question>
+				<Answer>寃祲菀於藍臺 彗月腥於萇血 歉荀權於少恩 奮荊匕於惎節 兩截人於後前 一介士兮無他 以彼遇而報彼 所一身而事二 登刺傳而評汝 世誤稱其義士 悲春秋之已晦 艶俠氣之尙餘 然行裝之細究 士也貳於終始 忘舊怨於族范 抗否忠於報瑤 惟緬節於故邦 反效義於讐國 中行亦其爾君 昔何負而今報 瞻一士之背向 職二家之待遇 契尋常於視介 照肝膽於知心 新情感於寵出 舊恩薄於待衆 管檻歸而義重 一女子於悅已 層雲重於殊遇 橋匕閃於殉節 同狗彘於一行 辦熊魚於二致 瓦始全於國破 毛終輕於身死 前見薄於禮士 蘄一節於湔仇 今始感於契融 效全忠於塗厠 班一歧而異行 是誰使也君使 知荷眷於事范 豈獨效於爲伯 生豫殊於死豫 一箇身兮如彼 知兩君之異待 允匹夫之無他 肆先儒之大評 所斷案於一字</Answer>
+			</Answerdata>
+			<Additionaldata>初抄 成 李鼎輔</Additionaldata>
+		</Work>
+		<Work id="115">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이규언(李奎彦)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">大風起</Question>
+				<Answer>天籟廓其渾象 月從星於井墟 菀萬竅之怒號 蕩三精之黯輝 蓬蓬吹於起處 朕颺炎而爲綏 爾天威而用社 掃氛移而廓淸 陂雷煌而吾降 象雄風而揚靈 噓洪籟於栢陰 詑祥光於碭雲 弸天地之義氣 括土囊而俟時 金天渺而縱觀 時八荒之雲擾 祲妖氣於鹿原 漲血雨於鶉墟 天窈窈而晝陰 昏萬象而掩翳 皇穹儼其赫怒 倐龍驤而噓風 驅雄響於水市 翼迅颷於彤旋 騰蜚廉使奔厲 詔箕伯於先驅 簛陰陵而震夜 鼓眇波而蜚沙 繽殷天而動地 聲象君之號令 群雄颷而翼趨 恍前唱而隨喁 班關蕭而幕張 順下風而周旋 麾天戈而發發 掃四海之陰雲 三靈赫其變色 九服廓其滌塵 颺熛怒於竝二 屛豐隆而如掃 弸蘭臺之怒號 澄牧野之淸朝 棼日照而露墜 摠草偃於歸服 乘注炎於鼓發 搏九萬而御宇 歸弭節於沛宮 駕大風而矢歌 詹殪氛而起感 引洪颷而申兪 拚風謠而逖聽 偉漢帝之大度 凭威靈於風霆 了整頓於乾坤 歌渢渢而有思 菀侑心於曲裏 流餘光於末葉 幾有助於金刀 汾陰吹而悔萌 壁湖橫而功成 維天命之是荷 亦風師之攸靈 卬千載而擊節 拊林評而追賡 歌曰 大塊噫氣 云刁刁兮 是惟無作 作則怒號 於皇漢祖 其義也風 風之發兮 四海永淸</Answer>
+			</Answerdata>
+			<Additionaldata>再抄 成 同</Additionaldata>
+		</Work>
+		<Work id="116">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>변득양(邊得讓)</Name>
+					<Courtesyname>사겸(士謙)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>황주(黃州)</Origin>
+				<Year>
+					<Birthyear>1723</Birthyear>
+					<Deathyear>1801</Deathyear>
+				</Year>
+				<Grade></Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">大風起</Question>
+				<Answer></Answer>
+			</Answerdata>
+			<Additionaldata></Additionaldata>
+		</Work>
+		<Work id="117">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이시모(李時模)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">借石以吐氣</Question>
+				<Answer>巒嶅㟳而氣厲 沛壹鬱其高馳 濱鈷潭而餘結 越南海而夕浮 洋洋托於巖石 爲之文而遂吐 撟濱荒而不轉 攄滿腔之如礧 移神皐而柳山 子有氣而碨碨 浮崢嶸於海陬 菀磅礡於天涯 節彼南兮上下 尋鑿鑿之奇形 塢門藏以萬態 造化費其靈祥 鍾淑英於天地 竟奇秀於蠻荒 磊磊感於寓目 撫玆狀而遐唏 瓊姿抛以視顔 桂樹叢兮非地 委靈形於瘴土 泣孤影於海裔 天門邈而孰珍 石譜漏而不傳 同繽物於此世 又碨碨而我然 瑰形結而莫釋 義余襟之絓繆 繽磅磅兮我近 或棲棲而相慰 中慍惀其若囷 氣繆流而遂化 啾啾鳴於石面 凭瓊琚而壹鬱 說形態而無窮 諾心志而聊托 天公繽其産靈 爲相儧於今日 非一方之共會 越萬里而同調 器相違於需世 地不與於屛遐 將煌煌之數字 吐囷囷之胸懷 旣以人而石如 遂于假而宣宣</Answer>
+			</Answerdata>
+			<Additionaldata>三抄 成 同</Additionaldata>
+		</Work>
+		<Work id="118">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유운우(柳雲羽)</Name>
+					<Courtesyname>봉지(鳳之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1730</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">暗合老氏知</Question>
+				<Answer>執太白而利靜 遌谷神於朱門 何曾讀夫道德 凡有得於玄牝 華堂空而守黑 契老氏於暗中 撟謝賓而自保 詡無學而沕道 腰印斗而面牆 未有聞於道家 文周樸而旣少 術曹淨而何知 然辭容之一事 其識遠於達士 觚稜崇其列棨 門不市而如市 雕樑垂以燕翼 左門絶其鴻毳 超四君而秉中 笑公孫之束閣 沿其跡而窺心 非不能於援汲 怵危機於禍福 戒奇殃於田竇 居舃奕而塞允 果於何而復來 玄同包以母氏 太上靜而次虛 無名祖於萬物 守柔谷於衆妙 雖非吾於道道 自在彼亦有理 遵李下而反顧 靑安得以到此 曾不識其一丁 豈有籍於學知 恢智囊而默運 謇同體而自然 同罔義之得珠 摠神道於默泯 靑油高而肉食 葆虛恬而爲度 希幾處夫富貴 淸淨持於功業 班同塵而和光 利居寵而不偪 高同化爲道戶 武夫宛其聖人 知其雄而守雌 透紫氣之道眞</Answer>
+			</Answerdata>
+			<Additionaldata>四抄 成 同</Additionaldata>
+		</Work>
+		<Work id="119">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유운우(柳雲羽)</Name>
+					<Courtesyname>봉지(鳳之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1730</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">復來誦婦言</Question>
+				<Answer>薪謌奏而淚先 愴喬蔭於舊家 沂城高而在彼 蔿鬼餒而無依 軒冠佩而自昻 誦室讁而風臚 撟女言之是用 冀王心之或悟 賢相子而析薪 以父命而托我 悲呼癸於首山 慨乏祿於世室 謀口腹於柞槱 風樹凄其孤孑 層雲屹其入眄 撫智囊而揣摩 宮酒暖而笑謔 服敖服而言敖 掀長髥而彷彿 左右紛其灑然 王認我以洎尹 詔再秉其邦勻 臣有妻而亦慧 盍將質其去就 施施來夫蓽閨 詑君言而以驕 女嬋媛而下機 詈申申其維何 奇功著於蓐轅 第一相於南朝 才旣優於佐伯 報宜豐於延嗣 喧郢都以口碑 德在人猶未沫 嗟壞土之未乾 奄塊肉之靡托 陽山蕪以舊居 巨室墜其失業 賢如敖而尙爾 相難爲於芉家 牽余衣而尼之 指前轍而申戒 其言信而有理 宜以此而復爲 知易入於諷諭 庶可濟其孤煢 回諫馬之舊志 恤埋蛇之殘裔 鼂余覿夫翠被 誦閨言而爲對</Answer>
+			</Answerdata>
+			<Additionaldata>五抄 成 同</Additionaldata>
+		</Work>
+		<Work id="120">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>임제원(任濟遠)</Name>
+					<Courtesyname>군즙(君楫)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>해남(海南)</Residence>
+				<Origin>장흥(長興)</Origin>
+				<Year>
+					<Birthyear>1718</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">陸學如閩商</Question>
+				<Answer>零金賈於鐵爐 寶筏艤於曇海 遵蔥嶺而帶得 渰殊波而涉利 招越商而謂爾 一體同於載胥 撟內禪而外儒 喩藏鹽而諱人 象山出以一種 覽子學兮其禪 襲淸淨而奇貨 傳瞿雲而服藏 三幡飄兮聖域 借文字而言空 虛舟泛於學海 慈航繫於沙門 鞱三昧之說法 餙群龍之經言 尼殊淸以本色 玉危當以外面 禪治裏而外錭 儒修襮而內逼 參厭然而打破 覽謂爾其焉如 南商繽其販鹽 駕一舟之滿載 編數鯗於上面 藏萬斛於中航 倩秦車之臭亂 掩吳濞之海煮 疏蓬閉於誑人 風舠利於渡津 咨海商而反思 得聖門之一賈 鹽舟載於學源 活英遮於道腴 濂關蔚其長價 假吾儒而善賈 心禪學而裁得 面聖道而借來 惟滿船之白鹽 類蒲塞之玄昧 而遮帆之編魚 非學波之遊儵 鮑肆臭於聖域 腊朴舷於禪門</Answer>
+			</Answerdata>
+			<Additionaldata>六抄 成 同</Additionaldata>
+		</Work>
+		<Work id="121">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>조유진(趙維鎭)</Name>
+					<Courtesyname>지경(持卿)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>풍양(豊壤)</Origin>
+				<Year>
+					<Birthyear>1721</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">范增不及外黃兒</Question>
+				<Answer>襄迷寤於牧馬 尼智遜於卞皦 齒鄕黨而縱序 覺先後而取儁 居巢老其虛老 反不及於一豎 執不諫與能說 㫼雖耋而讓幼 增年今其過稀 多六十於黃兒 懸車年兮已晏 舞的歲兮方渺 飄黃髮而籌奇 宜師哉於童子 然楚幕之久居 竟羽惡之焉救 長平慘而不言 水濱哀而傍觀 恬殺降與殺士 口長緘於骨鯁 無能爲於老臣 何所成於七十 顧鬢童之舌掉 耆外黃之城全 甄彭劫以緩頰 策梁鋒使解頤 回慓悍而大度 變血雨而春澤 爲長者之所難 豈穉兒之無知 循鮐背而竝論 判智愚其在玆 幼十二而尙謀 老七旬而猶默 無蘧翁之晩悟 讓汪童之早成 帷籌久而過長 轅刺蹔而心革 頭之皤而嫮壽 口尙乳而心老 兒童見其亦及 股肱臣而安用 非黃耈之規模 愧項槖之師孔 苟得君其若增 豈定宇之讓漢</Answer>
+			</Answerdata>
+			<Additionaldata>七抄 成 同</Additionaldata>
+		</Work>
+		<Work id="122">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>조유진(趙維鎭)</Name>
+					<Courtesyname>지경(持卿)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>풍양(豊壤)</Origin>
+				<Year>
+					<Birthyear>1721</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">勅天歌見虞韶不亡</Question>
+				<Answer>夔一鳴而雲過 臺九成而天籟 宣在齊而同罷 季朝西而觀止 皇時哉以永勅 今余知有一韶 拚永言而替音 謂不亡者猶在 樂則韶而歌勅 蓋同源於帝聖 熙如天而德華 敬畏命而治馨 群龍趨而鳳儀 九舞遴於一唱 梧雲古而曲終 悵好音之過耳 桑哇變而響絶 嬴劫閱而器淪 鳴球逖於格神 柷敔閴於儀賓 尋影子而莫見 問還魂其阿那 南風但以解慍 景雲謾其漫禮 吟勅天於夐辰 無韶音而韶心 虞明赫而協度 戒怠荒於太和 劭工采使節奏 秉后德而宮商 微擊石而允諧 非拊瑟而亦格 樂之理兮在心 音焉道其通政 肩九歌之用休 媲五言之在治 韶寥寥兮幾載 聲依永而未亡 發浩唱而擊節 對方冊而嘗音 若琴虧而琴續 復韶在於韶淪 亮盡善而盡美 認非韶而亦韶 擘余恨其已亡 今乃知其尙在 樂府凄而響絶 文字傳以希聲 肆先儒之揭說 韶隨歌而永絶</Answer>
+			</Answerdata>
+			<Additionaldata>八抄 成 同 賦 趙維鎭 李奎彦 邊得讓 柳雲羽 李垐 詩 金履安 申史權 崔重⿰(玉+集) 尹行修 李漢慶</Additionaldata>
+		</Work>
+		<Work id="123">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>홍상택(洪相宅)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">遂封唐</Question>
+				<Answer>監司喉而史墨 王允出而無假 鼎呂重而莫捫 茅土侈而宜追 唐丘煥以介圭 錫汝虞而封之 言旣遂於削葉 約故踐於班瑞 桐其圭而曰言 朕言戱於封若 儀侯章而永畀 友天顯而相謔 昧駟舌之莫追 謂駿文之非眞 信皇皇其自口 佚謂予以簡辰 指王言之毋戱 鞠天樞之有信 臣隣蹌而稟令 儼昭昭其瞻聞 聆昌辭而反顧 撫予髮而愀然 玄袞穆其在身 辟何易於由言 雖其發之有逸 庶斯踐之無玷 高山奕其玩雷 幹飛鳥於遺音 詹汾曲之一域 利建侯而無過 回髫齡之戱像 惕黼座之笑詡 尙成命之勿穆 善爲謔兮何咎 分天璜於享芳 詔金舃於承糦 苟言實其孰信 余乃覺其前爲 龍旆揚以命汝 我言煌其渄耄 圭章燦以代葉 昔則僞而今眞 庸建爾乎孟侯 毋白孺而恪言 撟東土之作尹 成北斗之司舌 年雖中而或久 詔納言曰惟允</Answer>
+			</Answerdata>
+			<Additionaldata>南庠 敎 金善行</Additionaldata>
+		</Work>
+		<Work id="124">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>박동일(朴東一)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin>밀양(密陽)</Origin>
+				<Year>
+					<Birthyear>1715</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">鶴歎</Question>
+				<Answer>滄洲杳以玉階 步物色於華表 愁崢嶸於歲暮 怨消息於仙侶 謇鳥言兮結詒 嗟余友兮樂天 物猶然而慕類 詩可觀於懷君 吳裝返以鶴船 憶相逢於江山 收崑岡之逸思 伴香山之幽賞 鳴皐歌兮舞賦 詩酒爛於同社 音聲凄其叫苦 問主人兮何居 羾天門之羽化 愀空山兮鳥鳴 窺薰帳而詠吟 喙丹鼎而欲罷 文木移於北山 客重來於舊堂 臨到門而不題 有看院而只留 疊霜毛而弄影 顝向我而何意 忽翩躚而軒翥 俯若睨而仰視 回西林而引步 如舊人之欣逢 看未已而太息 宛友聲之相訴 人未返於官遊 物獨遊於巖棲 靑雲遠於帝城 煙月空於吳門 盟鷗鷺而永寒 迹燕鴻而已分 雖劉郞之再度 奈醉飮之無人 偕秋林而叫怨 歸不歸兮王孫 雲幌虛而響哀 石床空而鳴悲 思夫君兮不在 儀鶴顧之浩歎 推同聲之相應 勸知音之□返 反玆事而遐取 揖奇聞於白傅 當吳都之挈鶴 若將老於林泉 及西京之赴君 乃留禽於仙庄 雲衢接於鵠峰 官情負於蟬翼 肆夢得之詠鶴 寓深意於招友 終迹杜之解紱 傳美事之耆英</Answer>
+			</Answerdata>
+			<Additionaldata>中庠 敎 尹光纘</Additionaldata>
+		</Work>
+		<Work id="125">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이규언(李奎彦)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">賀白龜</Question>
+				<Answer>鷄肥呈於井竹 衢謠颺於天口 撟鴻符之炳靈 諜樞封之執醜 龜瑞爛其素甲 別有賀於明庭 凭玆物之視兆 占彼蔡之底平 自湖醜之豕突 皇旰食而西顧 遲屑功於剪鯨 梗聖化於厲豺 天威仗於虎臣 睠淮潾而揚戈 神龜忽其效瑞 白其文而颺靈 匪綠文之呈河 異靑匝之自鄷 呈奇章於鏤甲 尊百介而啓禎 儀神物而永靚 觀厥兆而焉像 龜爲蔡而叶號 白居西而象刑 羌不先而不後 蹈賊巢而是鞠 靈質旣以效異 字義亦其巧合 茶山眇而入望 賊授首其朝暮 移貞書之槖介 作獻馘之玄符 寧長蛇之荐食 筮雄狐之有獲 憑物象於視兆 占洪功於掃賊 猗聖德之致詳 竚靈讖之沕契 天之錫兮在玆 望閶闔而呈賀 徵神介之效象 頌皇靈之攸致 同黃鳥之鞠桓 類白魚之呈姬 諒厥龜之有知 宜賀語之斯騰 登仙李而溯嚮 稽皇穹之降休 鴻烈叶於斷鰲 駿命膺於巢鳥 紛經蓂於四方 何所獨無音瑞 龜之象兮燦燦 又皇靈於元和 及移師於伐蔡 符烈象於執師 非皇德之格天 詎物象之效神 開明堂而出治 占洪運於啓先</Answer>
+			</Answerdata>
+			<Additionaldata>東庠 敎 金致仁</Additionaldata>
+		</Work>
+		<Work id="126">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유이(柳儞)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">松菊猶存</Question>
+				<Answer>桑畦蕪而歲晏 返初服於蓬戶 凭槐柯而寤歎 步蘭皐而容與 靑黃爛其入矚 宛松菊之猶舊 人方勵於晩節 物無改於貞操 松在庭而菊籬 性所愛於平生 嘉勁心於後凋 艶貞姿於晩香 繽倚柯而綴英 謂不改乎此度 銅珮忽其出山 蕙帳空而無主 違幽賞於髥叟 隔淸翫於道友 花塢漭而孰管 時曖曖而將暮 顔桃李而益憐 草寄奴而才滋 三春殘於五柳 睠百草而具腓 棼茅靡而椒侫 非余心之所取 緬桃源而遐擧 拂荷花而結歸 携藜笻於竹逕 訪籬宅而蘭砌 方瞻宇而眄庭 有何物之依舊 黃英餐而乍吐 翠髥蔚而特秀 陰未收於北窓 秋不負於東籬 芳醋烈而未已 姿偃蹇而猶爾 撟胙非而載悔 覽前物而寄懷 吾將遂乎宿志 爾能全此高標 依疇昔之景色 契暮歲之心事 朋堅操於傲霜 伴勁節於保雪 嗅殘香而愛翫 撫孤柯而徘徊 雖旣往之莫追 誓及此而同歸 歌曰 昔我往矣 松菊其茂 今我來思 松菊猶存 歲云暮矣 人間何世 松耶菊耶 與爾終古</Answer>
+			</Answerdata>
+			<Additionaldata>四庠合設中庠 敎 尹光纘</Additionaldata>
+		</Work>
+		<Work id="127">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>황무(黃懋)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">松菊猶存</Question>
+				<Answer>荊門歸而歲晏 頫故林而翹懷 瞻園砌而盡蕪 何草木之不萎 獨也有此松菊 竊余愛其勁貞 推同操於葆晩 喜有存於就荒 松之翠而菊黃 曩余伴而寄情 愛勁姿於歲寒 挹生趣於秋香 澹相對兮托懷 永葆貞而爲期 嗟塵紱之絆身 久勁幹之無主 花徒香於傲霜 柯雖撫於後凋 詹林□而矯懷 睠故其而言歸 携遐世之倦步 訪四逕之物色 歲之暮而雪霜 衆草薆而蕪沒 凋芳華於林皐 小顔色於花砌 迢衆蕪而守貞 顝松靑而菊華 同偃蹇於高人 沕幽貞於逸世 轉淸陰於北窓 爛香容於東籬 林園蕪而獨葆 繽不改於待歸 凭貞幹而乍眄 攬朕懷而延佇 荒砌來於暮途 寒姿沕於逸操 中群草而獨在 對高影而相伴 何獨無此芳草 耿吾艶其孤幹 芳與蔭其雜糅 淸一般於意味 挹貞心而晩保 托幽懷於同調</Answer>
+			</Answerdata>
+			<Additionaldata>西庠 敎 同</Additionaldata>
+		</Work>
+		<Work id="128">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이학원(李學源)</Name>
+					<Courtesyname>습지(習之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>연안(延安)</Origin>
+				<Year>
+					<Birthyear>1732</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">松菊猶存</Question>
+				<Answer>涉苔戺而盤桓 曾以汝爲將蕪 喜不改而待歸 覸垂柯而含情 覺一夢於十年 存四君於三逕 回遐情之結怨 喜勁姿之無恙 籬之芳兮澗翠 益友二於余初 期隱者於晩香 伴髥公於後凋 琴軒遍以雪霜 爰如菊而未沫 何五斗之誤人 奄卄秋之離此 叢臺凄而茹恨 晩翠菀而騰嘲 商颷動於鵬籠 歸夢頻於菟裘 霜葩爛而着未 雪甲蒼而餘幾 嬰幽情之永隔 便芳植之蕪穢 晨光上於葛巾 底事先於下車 甁無粟而不問 酒盈樽而姑舍 惟松菊之余樂 訪顔面於別後 黃花藹而笑人 玉虬轕以探塵 凄如訴而宛靑 脈有情而無言 椒散芳於不改 池含英而依舊 昔謂汝以旣盡 不意今而復覩 看寒梢而可撫 播晩馥而堪嗅 知物色之不變 攬往事而將關 亮待我而多情 願期汝以長存</Answer>
+			</Answerdata>
+			<Additionaldata>東庠 敎 同</Additionaldata>
+		</Work>
+		<Work id="129">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이시현(李蓍賢)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">松菊猶存</Question>
+				<Answer>秋客澹以返鶴 歲旣晏而華余 餘奇遊於竹花 憺歸裝於雲鳥 靑黃迎兮喜色 護衡門而猶存 凭故姿之尙全 喜晩節之相葆 環松菊而我廬 曩相伴於高人 遵黃籬而採掇 倚翠蓋而盤桓 鼂吾撫而夕餐 願終始之靡渝 盟何負於碧山 落人間以五斗 門柳羞而嫀予 逕以內而留汝 芳菲雜以暮籟 怨我歸之遲遲 田園蕪而夢迷 盍將尋乎出期 收山姿而偃蹇 返柴桑之主人 雲山別於始歸 問家中之何間 秋光景於故徑 凋謝多於遐觀 繽皐萄而圃杞 混蕭艾而荒穢 園裏悅其動色 顝兩友而姱美 超群植於歲晏 葆殘聲於秋華 持勁幹而不老 戴貞姿而彌章 謇飄葉而引逕 或低柯而迎車 嘉舊物之尙存 形如翠而如黃 唉草木之可貴 愧以人而不如 要共貞於後凋 願莫笑於黃花 聊拚援而採掇 將怡顔而寄傲 儀遺辭而永唏 想先生之出處 存大義於罔僕 寓深意於鋤奴 黃葩冷而露史 爛昭昭而不渝 携勁草而永貞 伴寒松而無愧 曾彭令之屈腰 亦不屑乎榮利 樂彼園而歸來 松則茂而菊華 撟女以其結幽 聊逍遙兮延佇 少唱曰 先生之出山兮 蒼松黃菊兮管無人 入山兮 先生與爾長切隣</Answer>
+			</Answerdata>
+			<Additionaldata>南庠 敎 同</Additionaldata>
+		</Work>
+		<Work id="130">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>辛未</Sexagenarycycle>
+					<Year>1751</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>변득양(邊得讓)</Name>
+					<Courtesyname>사겸(士謙)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>황주(黃州)</Origin>
+				<Year>
+					<Birthyear>1723</Birthyear>
+					<Deathyear>1801</Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">黃帝三百年</Question>
+				<Answer>炎運火而昊木 履三極而壽康 乘十二而郅化 殿八千而執長 轅以久而特聞 帝胡至于三百 撟神功於存沒 驗洪籌於綿邈 電繞樞而劍藏 生死間於百年 膺土瑞於釜崗 淚雲輧於喬山 砂鍊丹而永懷 歷紀甲而空留 星官逖而莫質 得何術於享祺 幼循齊而長毓 匝無期而澤流 調三辰而利濟 察五紀而裁成 菀麟蹌而鳳儀 爛群生於壽域 湖龍飛而晏駕 神則洋而敎遺 靈昭庭而祗瞿 化運極而盻蠁 僾彷彿而陟天 儀典則於順軌 皇之死而若生 歲幾度於其間 羲和轉而歲遒 寶算外而各百 參存亡而周紀 分順期而添甲 南宿燦於存極 大春映於遺弓 垂年普於在宥 執籌方於衍澤 齊漆沙而靈長 餌玉露而久視 風猷藹於大宙 歲華綿於浩劫 雲鄕渺而縱邈 死不死於等百 德罔間於其生 籌無彊於旣亡 亮三事而非一 所百歲而加二</Answer>
+			</Answerdata>
+			<Additionaldata>合製 成 李鼎輔 賦 邊得讓 崔粹良 尹東美 柳光弼 朴顯禎 姜允成 尹履福 李學源 詩 李漢慶 李宇溟 安鎭恒 李夏濟 崔益男 沈翼雲 沈翛 李敬寬</Additionaldata>
+		</Work>
+		<Work id="131">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>壬申</Sexagenarycycle>
+					<Year>1752</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이병연(李秉延)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">登華諷世</Question>
+				<Answer>龍舟兮石囓 借琴操兮闋之 肅徽墨於迷塗兮 疇揭厲乎風波 詹車箱而曰巇兮 喟世路其亦華 援玆路之孔險兮 詔饗者兮烱戒 曩余擥箕斗而爲輿兮 溯勛華之平塗 結韶金而分章兮 何厥路之赫戱 鼂彌節而夕次兮 路太華而結金晶 明星爲余前導兮 玉女繽其幷迎 輪摧而輿仆兮 何九曲回穴兮中逵 羌內踧踖而反顧兮 下幽晦而多雨 夫豈徒畏道之巉巖兮 此路多於人世 千褒斜於咫尺兮 華不登而已華 踦塵纓而不返兮 往則蹇而需泥 槪厥託裏於道窮兮 摛芳蕤而昌言 聆墨氏之泣絲兮 孔聖亦云其悲麟 顧周行其多巇兮 以我路而悲彼 詹藟困於步步兮 愀塵網之縛女 悲狂瀾於宦海兮 悵人涉而招招 繽仰嘻而頫哂兮 詔游子兮歸來 敉大槪而若驚兮 矢圭璋於臨睨 唉無地於稅駕兮 顝有辭於申諷 揄長袂而矍予兮 巇斯世兮滔滔 台含英有頻圖兮 儀昌徽而逖聽 亦聞其跋前而躓後兮 公不禁乎蝎戱 藍關杳而雪騎兮 抑與悲乎道鬼 繽朝訊而夕替兮 微世道其幾何 蹇乃省躬而悲世兮 羌申申其烱牖 倡曰 華其巇矣 我跌而躓兮 嘻嘻而哭 悲不在路兮 彼冠裳者 往則宜顚兮 頫視乘航 亦華顚兮</Answer>
+			</Answerdata>
+			<Additionaldata>初抄 成 南有容</Additionaldata>
+		</Work>
+		<Work id="132">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>壬申</Sexagenarycycle>
+					<Year>1752</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>한용화(韓用和)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">請畫白頭翁</Question>
+				<Answer>乾坤暮於白社 樹皤鬢而曷歸 腥氛曖於浩劫 淨地開於霜綃 詹子畫而我儀 丐此老於裏面 思寄身於脫累 冀傳神於投閑 紅荳凄而曩詠 白首餘於空門 儀留債而抗慨 跋荊怒而貢憤 江關暮而歲晏 鞠此身而焉托 披雲綃於野老 澹秋客於數幅 疏林欹而石出 潦水盡而潭淸 移秋興於赤壁 老蘇仙於滄江 登畫廚而願言 攬子襟兮淸放 江湖思兮沛然 魚鳥樂其倘佯 超氛却而放浪 撫佳境而心馳 滄桑變而獨淨 別天地於畫裏 振余髮而夐仰 睠子圖而多思 虞岑蔽而羯塵 寄形骸而若浼 山河淨於畫看 夢朝暮於閑臥 憑鮫綃之寫眞 竚鷄窠之超埃 雖寄形於宇內 合騁心於物外 瞻黃葉而起羨 撫皓髮而須畫 秋景閑於繞材 豈曰無此一老 江山杳而入望 神邈邈而先馳 長腰肥於幾頃 暮年思於歸去 看楓箑之別界 倚霜根而遐蹈 招舟子而願代 詠棹歌而逍遙 辭氛埃於犬目 憇寂寞於庬眉 憑文章而攄懷 攬哀涕而愀歈 遂爲之小唱曰 日暮途遠矣 我安適歸 跼高兮蹙厚 慟莫能知 一幅丹靑 喟凭情兮</Answer>
+			</Answerdata>
+			<Additionaldata>再抄 成 同</Additionaldata>
+		</Work>
+		<Work id="133">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>壬申</Sexagenarycycle>
+					<Year>1752</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>심양원(沈陽元)</Name>
+					<Courtesyname>복초(復初)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>양천(陽川)</Residence>
+				<Origin>풍산(豊山)</Origin>
+				<Year>
+					<Birthyear>1709</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">三念戒徐君</Question>
+				<Answer>龍蛇動以陣影 氣卒聽於志帥 移看鳥之舊戒 作捕鼠之新規 思憧憧於擧人 詔及門曰戒哉 撟三端之奪志 勔一上之專思 程文外有用心 曾戒汝以主一 聞毋二之法門 視勿三之心學 相兒曹之忘了 蓋一心而三歧 水火戰於得喪 蚓龍眩於取捨 乍亂思於朱衣 俄馳神於墨水 紛志分而氣餒 竟欲奇而未奇 今隨衆而一試 子能超於箇中 非口氣之願吐 抑心力之恐分 吾家有此餘事 無別法於心外 文隨氣而闊狹 氣因志而餒飽 思千古於一寸 沛禮樂之縱橫 頂針擬於通病 先勿恤於得失 天乎飛而淵淪 詎一例於俗子 人懆懆而百爾 子專專而壹之 三其思而反惑 聖所貴於辭達 欥專潛爲庶幾 孰胡想而能得 馳萬馬於駐足 亦我地於功用 無二用於此心 貽三戒於之子 原擧業之累人 摠壞了其心術 較榮辱於一第 占時好於下筆 豈徒害於眞工 亦無益於是求 彼陽明之爲學 曾不過爲禪家 而師弟之相戒 亦知恥於害心 㫼壞意於患得 勗定志於臨大 嗟後學之滔滔 孰能免於場屋 因遺說而反誦 聊奮辭而自勑</Answer>
+			</Answerdata>
+			<Additionaldata>三抄 成 同 以紅疹止</Additionaldata>
+		</Work>
+		<Work id="134">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>서존수(徐存修)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">暮春戒保介</Question>
+				<Answer>農祥正而日胃 撫豳鼓而遐歈 瞻土膏之方起 睠田事之將懋 來田畯而申勉 時亦維其春暮 辰旣宜於播穡 戒故深於務農 知艱難而乃逸 朕昔聞於元聖 紹稷烈於降種 挹文功於卽田 儀肯穫而永念 撫錦王而靡安 天時屆以星鳥 歲功興於新畬 寒已解於北陸 穀將播於南畝 倉庚鳴而載陽 雨我公而及私 宸旒穆其拊辰 眷耘耔而紆思 期難失於俶載 功可占於如坻 當春序之已闌 可民事之欽授 知有司之卽存 頫臣工而疇戒 顧保介之有職 寔明農其爾責 功有資於播植 勞可想於耕饁 人匪食而奚賴 農不勤而有匱 周原膴而大闢 同我稼而于耟 宜錢鏄之亟治 將以觀夫銍刈 憑掌農之舊功 冀嘉穀之告成 瞻春疇而若時 曰戒汝而申申 寔良辰之可惜 詎農務之或緩 凭厥明而將受 警乃職之無恙</Answer>
+			</Answerdata>
+			<Additionaldata>初抄 成 吳遂采</Additionaldata>
+		</Work>
+		<Work id="135">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유성모(柳成模)</Name>
+					<Courtesyname>사집(士集)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>문화(文化)</Origin>
+				<Year>
+					<Birthyear>1724</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">乘觀對齊侯</Question>
+				<Answer>靈𨥾颭而嘖言 飄競風而東嬉 回奔命於陸歇 㑋曁寧於敦鋪 偕笠轂而縱觀 朕有辭於復后 撟綏服於耀德 折誇言於張武 茅苞曠而舟膠 聽南藪而無辭 詹葵月於九裳 蹙蓽路於三舍 弢練甲而理弊 曁鬪力而潛處 兵中交而使在 目先動而臨陣 渠門闢以伯大 共君乘而周旋 軒韎韋而虓臣 燦貝冑於麋君 倚鞭弭而武色 向魯君而何言 謇三肅而獨笑 予不慴其戎載 寧肆言於晉壘 竚善對於展犒 方城峩而漢湯 楚所畏其惟治 儀柔化而縱歸 恃武力而何用 煌朝衣而濟河 謂文事之能尙 振勻服而耀武 笑兵勢之徒强 人惟懷於舜羽 兵莫施於天府 陳千乘而曷貴 革五兩而宜竢 環荊尸而援孑 非弊邑之笑武 管善籌而戚智 慨贊后其無謀 伊今日之聽順 亦由德之少施 翩翠被而植立 對君辭而申之 因玆事而追認 想伯業於齊侯 仁猶假於尊王 罪姑大於雄汜 知有辭於南伐 孰越厥而不畏 何一言之誇强 反見譏於楚人 羌善復而共歃 先好機而服荊 紛漏師之夜呼 嘅伯功之未終 勤遠路而不懋 其有見於周史 兵三駕而不爭 景徽烈於悼后</Answer>
+			</Answerdata>
+			<Additionaldata>再抄 成 李成中</Additionaldata>
+		</Work>
+		<Work id="136">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유운우(柳雲羽)</Name>
+					<Courtesyname>봉지(鳳之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1730</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">皇朝有其事</Question>
+				<Answer>山河圓於一統 揭王春於寒餘 明紅羅之日月 闢素文之規模 膚功濯於攘夷 我皇成其聖志 追遺義於與奪 媺實效於掃除 革閏元而開國 大鋪敍其春秋 歐氈裘之醜類 正冠屨之大紀 通州赫其凱奏 石坡煌其功勒 雲樓連以瀹鐔 爛文作而子述 拚宏業而耿顧 溯東魯之遺筆 彤管起其已未 寓聖意於尊攘 書天王於定分 擯南荊於會盟 三徵煌其一治 秉袞鉞以婉章 回東周之一嘆 作以繼夫詩亡 留空言於宇宙 歷漢唐而靡克 唉用夏而入夷 歎無地而可讀 黃圖擁以狼望 此書化爲朝紙 歸昭代而大闡 聖意遂於百世 究微顯之大法 集修攘之洪休 時夕陽而道否 但筆削之未施 湖雲霱而世情 爛密勿而自著 烏龍等於瑞麟 若有待於今日 登汗靑而奕奕 煥孔思而進業</Answer>
+			</Answerdata>
+			<Additionaldata>三抄 成 同</Additionaldata>
+		</Work>
+		<Work id="137">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유운우(柳雲羽)</Name>
+					<Courtesyname>봉지(鳳之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1730</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">感助記黃牛</Question>
+				<Answer>魏滔天而泯夏 朕有責於澒洞 艱虞同於洚警 勳業杳於土功 黃祠記以繼蹟 托爲感於助禹 矯陰佑於道流 寓微意於述詞 昔龍菴之高臥 玩此山於壁圖 紆籌策於鼎峙 睠險介於井墟 三顧俄而出世 路黃牛而徘徊 灘聲轉而峽靜 古廟僾以丹靑 山芒芒而禹迹 神有功於水功 鞭應龍而炳靈 翼玄武而效勞 三峯出而水落 免蜀人於其魚 功以食夫宇宙 走村氓於歲時 前桂灣而若麾 左右牛而如驅 靈宮巋而荔丹 遺像肅以淸高 懷靈功而耿耿 撫時事而哂嘻 乾坤裂而魏吳 若大浸之方割 邦危等於究雍 民敎同於河決 皇如堯而頫咨 伯禹我而委寄 西天振其義旅 類壺口之始載 神怳覩其昨夢 庶助漢而昭應 炎井汾而不噓 何不顯夫厥靈 相擒曹而銷祁 俾余告以玄圭 辛夷楣而葺廟 敍深懷於昌辭</Answer>
+			</Answerdata>
+			<Additionaldata>四抄 成 同</Additionaldata>
+		</Work>
+		<Work id="138">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>권소(權邵)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">韓信開出路</Question>
+				<Answer>局震鱗於炎井 渺雲雷於天衢 猴衣繡而自詑 鹿走原而誰主 導帝之兮三秦 袴下人其東出 說有槪於寒機 路新通於傳檄 國士居於治粟 王欲東而無計 委豹鞱而莫伸 按赤幟而如繫 繽謀臣與介冑 賭一隅之偏安 詎吟苦於日夕 六輿倦而閑閑 金壇倐其禮闢 一言合於龍顔 㑋彈丸於劍外 指大寶於關中 今湯武而弔代 望雲霓而壺漿 散關低於馬首 天下事於抵掌 淵衷激而蹶起 沛然下而誰禦 驅六師於故道 詔五丁而前導 回三巴之蠖屈 奄九宇之龍攄 金甌圓於一戎 果誰力而致此 移天涉於玉壘 噤謀舌於靑油 帷籌閟而大機 筆吏計而養兵 微爾信之一言 幾敗事於乃公 言相契於奮義 路忽闢於出東 談戎機於決河 肅黃鉞於建瓴 知金刀之赫業 賴主兵之善悟 循天吏而獨贊 豈兵仙之徒許 開萬夫之莫開 功則首於三傑 惟絳灌其下風 雖黃老猶靡及</Answer>
+			</Answerdata>
+			<Additionaldata>五抄 成 同</Additionaldata>
+		</Work>
+		<Work id="139">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>권소(權邵)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">玉說諷魯王</Question>
+				<Answer>龜蒙閟以夏璜 吝高價於藍田 疑閭玕而告罄 海孚尹而無文 含隱諷於魯庭 宛如玉之其人 撟珍産之不窮 㫼瓌才之必有 荊岑悄而卞去 抱玉鼎余東售 移璜聲於夢藪 貫晴虹於鳧律 循雉門而色溫 觀者憺而環櫝 衷旗僾而莫顯 王不察夫奇珍 推三刖於刻璞 訝再産於嵋山 無神眼於五都 盡自視以伈伈 謇拊躬而一眺 玉非徒而人甚 千乘國於大東 吉士多於拱璧 神靈菀而岳降 美紛紜而輩出 猗廟璉而席玲 道前世而固然 矧荃心之不固 昧所寶之惟賢 間怪鬼於地載 委書苴而天球 王之沽也異諸 終不可以語寶 忠信士於十室 日月輝於玄圃 玄化包以萬彙 物與人其同産 陵陽激而尙採 蘧玉儔而可觀 箴無渴而用裕 璧瑚璉而才謀 丹復梦而欲去 士非興而無爲 嗟世人之眼昧 孰無脛而自至 揚壞說於完璧 托微諷於納約 宜玉旒之去瓊 何千金於酬直</Answer>
+			</Answerdata>
+			<Additionaldata>六抄 成 同</Additionaldata>
+		</Work>
+		<Work id="140">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유운우(柳雲羽)</Name>
+					<Courtesyname>봉지(鳳之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>진주(晉州)</Origin>
+				<Year>
+					<Birthyear>1730</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">刻詩置草堂</Question>
+				<Answer>蒼柟荒以舊居 花鳥憶其主人 風煙凄於竹樓 文藻空於江山 天葩登於一碣 配遺像之淸肅 間多感於卽地 所寄懷於記名 緤余馬於院西 訪公詩於公廬 留春夢於碧洞 晦文星於玄霄 懷天球兮未見 但數椽之蕭條 遵舊址而耿著 子昔我於堂下 題花石於小溪 詠雲霞於幽櫳 危樓居其北斗 文到夔而益工 幽章鳴以大黃 響瀏湸於巴西 河呂公之葺宇 揭不及於昌辭 路繽茅而復遺 遺海珠而不收 蘭楣閟其寶篇 過客爲之咨嗟 遺藻煌其翠荔 豈精華之可殊 文颷潚其報子 幽感深於此地 嗟杖屨之故地 不宜無夫公詩 披康水之舊採 得錦石之新題 瑫章依以大音 固可乘於逈雪 貞珉瑩以鏡面 載華什而眑眑 刊江村之逸韻 記柴門之法治 鏘金聲於玩讀 覿靑袍於彷彿 雲根邈於廡廊 拜公像兮其廋</Answer>
+			</Answerdata>
+			<Additionaldata>七抄 成 同</Additionaldata>
+		</Work>
+		<Work id="141">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이학원(李學源)</Name>
+					<Courtesyname>습지(習之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>연안(延安)</Origin>
+				<Year>
+					<Birthyear>1732</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">留飮語陸賈</Question>
+				<Answer>蠻之土兮蓁蓁 予無樂於君越 瞻原上之逐鹿 病江南之無鐵 色笑沕於傾蓋 喜有聞於信宿 攄雄懷於錫爵 申永好於繫驂 台藐少於趙北 際秦亂而擊劍 推國運於天地 蓄長算於王伯 何越賤之古樓 類齊橫之小島 蠻音鴂於貫預 楚産剽以寡謀 雄圖鬱其落南 我醴設而誰爲 一天下者誰氏 臣妾我而使問 初筵岸以結魋 不謂漠之有人 賓筵煌其說琴 爛一席之新語 卽博我以皇道 又媾好而申之 嗟幾失於國士 見何晩於老夫 嘉使乎之專對 悼昔老之失禮 吾寧繫其四牡 永今夕而嘉容 南宮苑而有酒 我始擧彼大白 撟壯圖於宿苦 聊及爾而一捃 蛟鄕過以半幅 久此樽之不開 宜吾局於一隅 季有臣而卬否 回蓋世之氣槪 佇數月之談語 良對己於世家 幾養尊於隆準 賓斚闌而厭厭 睠敦旅曰毋遄 驪謳遲於酒所 楚氛收於談前 繹遺風於南越 蓋一時之人傑 當秦或之敗亂 士蜂起而相軋 或棼棼於蝸角 或緩緩於劍鉦 誠有志於杞附 何遽不如韓彭 體睥睨而自得 豈低首兮伈伈 惟淸安之球事 興海外之虬髯</Answer>
+			</Answerdata>
+			<Additionaldata>八抄 成 同</Additionaldata>
+		</Work>
+		<Work id="142">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이병연(李秉延)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">忘癖論竹鶴</Question>
+				<Answer>隣芒笏於太初兮 飄至人兮大忘 華老適於遺屨 院叟笑其嬰情 摛禽篁而往記 疇得環於二者 顝呰癖而夸忘 疏外志而申抒 盤之中可託而可捿兮 朝與篁吟兮暮鶴與飛 蒼莨長而翠苞 介鳥翩而氋羽 方寓物而物外 不知我者謂我 衛鳥之翩躚兮 羌猶惡其翫好 晉蓧之蟬蜎兮 終然喪乎其志 申申其詔予兮 紛以誶厥姱慕 夫余淑得於大觀 神翩飄兮廣漠 方其忘也怳惚 果誰竹而誰鶴 誼淇味而寂聆 夢華陰飛兮宜遌 彼古人之攸樂 不以物而觀物 歸天下於土苴 窅然喪乎重華 棼淫佚而役志 殷與夏又弊弊 苟中情之信忘 卬不有乎物外 看雲章於兎詩 等星毛於漁湖 掞孚屐之翫喪 漽華戈之遺貞 蝣裳楚而內膠 何雷章之外效 齊天地於一馬 歸物物於化境 般鍾富與幅芒 自我視以齊物 篁其朕而鳥朕 猶嗒然乎其中 聆遺記而婉釋 摛昌辭而洋洋 蹇乃上聖與神葆 招應魁於在傍 超曠宇而不纍 心棲靚於遐放 胡然與鶴胡然與竹 形若喪兮漠漠 抨外務而不嬰 敉獨超然乎二物 神倐忽而芒若 其樂付於大朴 凝玄精而能窅 疇神忘而淫癖 唱曰 湛煙頂兮陰幽篁 謇誰慕兮誰忘 翫卉物兮何倀倀 鮮不速於顚僵 子以□之虛靚 羌修好而焉貞</Answer>
+			</Answerdata>
+			<Additionaldata>九抄 成 同</Additionaldata>
+		</Work>
+		<Work id="143">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이병연(李秉延)</Name>
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">玄酒味方淡</Question>
+				<Answer>醅線功於氣母 滾滾包於果子 嬗黃律於大芑 保玄胎於初始 吾其聞於邵氏 媲彼酒兮玄兮 換稚陽之始復 漽明水而像之 麯萬物而爲酒 問大味於庖犧 醺四運而迭乘 釀一氣而相欲 陶三微而潑潑 歸品彙於化液 方宵靁之發兆 肇一陽之律滾 酌一之爲樞紐 醅萬化之權輿 肩無極而兆朕 若溟洋之始牙 繽疏絃與大羹 喩未足於斯理 循天機而穆聆 溯厥味兮焉取 重澹肅而反始 水以盛其云河 甄爲本於酌禮 示取質於明說 無芬鬯之尙臭 異恤豆之和葅 儀明著而愔愔 反以擢諸天機 取圖律而朕化 儀甁齊而尙初 推灰管之始噓 符一理於淡泊 掞玄味之未調 宛綵晷之旋斡 窺天心於泰初 其味淡而如水 微無酒於醴醆 卬取取乎泊哉 歸陽意於月鑑 等物理於么阿 㪺三始於洞酌 詔玄冥使揚解 坂遺韻而俯聆 玩物初於嬗陽 諏玄始而斡機 御黃道而肇亨 方圜丘之氣至 膒厥理之焉如 湛遺味於簋缶 抨大首而聽我 敉能薦於尙初 符□掞於陶器 偕從晝而拊本 溯淸深而搢辭 辭曰 黃彛灔灔 尙其質兮 奚取於質 漽古昔兮 綿綿厥陽 羌七復兮 酒以譚陽 一氣味兮 大和之味 一酒一陽 台咀而啗 載洋洋兮</Answer>
+			</Answerdata>
+			<Additionaldata>十抄終 成 同 賦 柳成模 李秉延 柳雲羽 權邵 宋百休 詩 李性源 呂善德 李惠祚 尹行敬 金安基</Additionaldata>
+		</Work>
+		<Work id="144">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>정인환(鄭仁煥)</Name> 
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">顧諟天之明命</Question>
+				<Answer>大天赫其著義 聖人以而恪恭 堯光爛於克明 舜華燦於祗敬 登摯訓而拊聆 仰顧諟於成陽 懼本明之或昧 故常自而自省 天有命而卑人 皇受此而爲德 儀純懿而丕顯 眷乾極而於穆 盤銘煌以耿顧 昧爽肅而靜思 惟於皇之所命 覽厥初其孔昭 立中正於降哀 燦物則於秉彝 偕草木而賁若 較寶鑑而光名 若惇惇而命之 爛昭昭兮靡僭 苟一念之或怠 豈於赫之用休 甲不念而底滅 癸同惕而顚隕 雖蓋高之聽卑 佇對越而罔懈 而游衍與出王 恒洋洋而左右 洵吾德在則天 盍反顧而昧昧 臨昕夕而反省 不敢怠於乾乾 瞻赫戱而恭默 戒造次而不貳 縱聲臭之莫儀 質視聽之孔邇 審天舁之不奭 警物誘之或間 沕其心而茂對 成厥德而克配 肆阿衡之著訓 奉北辟而申諭 㫼天命之不常 勔先烈之克追</Answer>
+			</Answerdata>
+			<Additionaldata>東庠 敎 趙重晦</Additionaldata>
+		</Work>
+	</Contentdata>
+	<Contentdata>
+		<Work id="145">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>임하철(林夏喆)</Name> 
+					<Courtesyname>화숙(華叔)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>나주(羅州)</Origin>
+				<Year>
+					<Birthyear>1733</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三下</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">羹頡侯</Question>
+				<Answer>皇猷密於羹鹿 茅土分於刑馬 雍造怨而先賞 布窘帝而釋辜 封兄子而最後 是何稱於羹頡 畜前憾於憀釜 視深意於錫舀 篁冠欹而昔困 朕受侮於仲嫂 諱羊羹之滿器 效楚婦之慳糗 華堂晏而客散 釜聲戞於傾貯 人情薄於豆羹 極丈夫之困悴 鞱龍氣之混跡 哂匹夫之見色 齎深慍而不諼 何待予其遽薄 鴻基俄其肇創 舊窮換以新貴 恢恩威而屈伸 大則王而小侯 裂百戰之江山 賁群宗之昨土 龍顔憺而溯昔 朕思長於敦宗 嫌何顧於蘇嫂 昨宜頒於蔡仲 南宮闢以剖符 肇錫汝以何名 惟□羹於昔王 悟厥稱之在州 推對客之殊恩 庶俾汝以懷恧 由鼎美之響美 致爵名之相符 匪無稱於錫圭 表獨揭此異號 記前垢而申命 詔厥嗣曰念哉</Answer>
+			</Answerdata>
+			<Additionaldata>中庠春條 敎 鄭弘淳</Additionaldata>
+		</Work>
+	</Contentdata>
+	<Contentdata>
+		<Work id="146">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이덕부(李德溥)</Name> 
+					<Courtesyname>계연(季淵)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>함흥(咸興)</Residence>
+				<Origin>전주(全州)</Origin>
+				<Year>
+					<Birthyear>1728</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade></Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">每食必飽吾亦有奇事</Question>
+				<Answer>遊伊洛而喫緊 飮於河而充如 乘玄誨於悅蒭 指佳境於餟茶 稱奇事於每飽 仰對馮之深意 惕高遠而用心 㫼飮喙亦寓理 搖顔簞余樂道 裘褐外而無事 斥異好於艾棗 得眞味於菽粟 膏腴足於日月 坐實地而無惄 人相隨於十載 聽所得其焉如 回聃關之橫紫 誇莊室之生白 非一月之坐春 異半年之看銘 味常道之耽躬 是則處而遊心 吾有事而異是 顧何舁而語汝 略蒙簋於脯肵 時得飮而飢食 旣洲味之口飮 亦大啗之腹果 斯非强於自爾 恒不差於充然 摎玆理而反觀 吾道亦其孔邇 流天命於畵前 有妙理於常談 其敎明而力邇 沕一柯而暸然 眞工寓於踐器 形上通而對案 斯不難於收工 咨鮮能於知味 云爲際而道存 哺餟中而理在 顧吾子之攸奇 其亦幾乎談龍 雖鄒魯之再起 亦未易乎吾言</Answer>
+			</Answerdata>
+			<Additionaldata>東庠 敎 李惟秀</Additionaldata>
+		</Work>
+	</Contentdata>
+	<Contentdata>
+		<Work id="147">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이태운(李泰運)</Name> 
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">大丈夫</Question>
+				<Answer>天爵煌其賁位 藐天人而囂囂 尊三達而粹面 履四海而胖體 靠安宅而廓立 遹稱之曰丈夫 旣有道而行道 信名州而再州 中天下以廣居 稟浩氣而至大 披禮義之備裳 遊道德之千林 堯何人而舜何 日孼孼而時欽 仁山峙以智水 眇群兇而優游 衍儀非其我徒 妾婦道而苟苟 山東視以鏡坮 面其媚而紛語 其爲道也以順 顧諸余而焉如 仁門闢以德宅 澹純粹而中處 談周孔而尙友 篇晉楚而奚畏 窮其善而達濟 廓蕩蕩而無涯 人千萬猶可往 體大小而分有 倚禮圃而俯視 我行誰其男兒 壟斷屹於利場 摠髯婦而營營 攘提嵬以廣厦 百侍妾其非泰 跟焦原而識象 仰不媿而俯嘻 聿中龢爲庶幾 是英雄於到此 章在左而尹右 亦夫也之隱隱 般不群而介立 儼耽躬而晝粹 巖巖氣以大道 以三字而稱之 攟人挺於兩間 戫大德爲夫夫 恢恢地而大觀 屹屹思而無頗 繽天根與月窟 間往來於日家 依靈坮而獨立 眇凡夫於天下 時滔滔而道幾 世何多於豎子 臨矮居而矇矇 窘捷經而踽踽 雖七尺之其貌 視癡孩其一例 旣厥非而自小 孰云爾如吾僾 翅鄒論余綴辭 恛仁里而逍遙</Answer>
+			</Answerdata>
+			<Additionaldata>中庠夏秋條 敎 金文行</Additionaldata>
+		</Work>
+	</Contentdata>
+	<Contentdata>
+		<Work id="148">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이득일(李得一)</Name> 
+					<Courtesyname>희천(希天)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>전주(全州)</Origin>
+				<Year>
+					<Birthyear>1726</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>二中</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">大風歌不能爲三代王</Question>
+				<Answer>金編發其伯讖 泰堦降而風坮 謠楨輸而慮長 攬鐵礪而羞卑 拚豐韻而溯王 漢以皇而猶慙 旣尙威於守四 認遜化於登三 王風寢而伯心 得帝像於歌中 騁睿想於鼓鼙 菀壯圖於苞桑 洋洋像夫武思 繹遐調而焉尙 登灝噩而穆聆 風謳粹於三英 周敎敷於草偃 舜樂颺於薰吹 笙鏞爛以德音 卓晟軌而難企 流于沛而一變 睠帝風之知自 神猶騁於尙功 志則渺於挽古 天機動於武心 隱鬪智之餘氣 儀玆闋而反顧 果三代其能未 殊文德於暢威 舛淳軌於思終 風徒在於袵革 治莫尙於躋馨 金刀飾以碔玉 背王道而橫騖 肩齊烈於執牛 愧姬德於歸馬 春臺邈而隔夢 伯月煌以盈視 歌瀏瀏而貫操 宛像君之雄思 恢規模於雜覇 閴聲響於行王 玄治息於九歌 洪業止於一匡 豐鄕等於尸壇 后雖帝而虛位 河間肅以鉞旄 喟竟失於三古 小唱曰 豐颺發祥 天子之風 壽域懿化 玄古之風 掃淸歸來 惟伯者風 彼刁刁者 曷云皇風</Answer>
+			</Answerdata>
+			<Additionaldata>南庠 敎 季父</Additionaldata>
+		</Work>
+	</Contentdata>
+	<Contentdata>
+		<Work id="149">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>정필순(鄭必淳)</Name> 
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">退出匣中筑</Question>
+				<Answer>荊歌凄而和聲 昨夢回於燕市 挈肝膽於中操 激慷慨於流徵 胡纓拂於在笥 笻有聲於出匣 撟無窮於畏人 收露態於奏曲 霜匕驚於聽琴 匣余笻而弢踪 顧形幻以鐵鉗 古調凄於峨洋 歸雲愁於薊北 人不見而曲終 傭聽掇而聞笻 我爲誰而彷徨 懷和歌而淚先 語知音而神愴 登華筵而薄□ 攏篝燈而長思 千金重於購頭 一劍久於潛軀 燕臺頹而不歸 挾藪空而無儔 西天窮而髮短 畏首尾而餘幾 藏聲聽而鬱悒 老家僮其非夫 堂有客而豈知 來汝前而搏拊 奇氣上於酒波 問舊笻其存否 縱難久於混僕 聲欲動於知己 繽畏約其幾時 發舊習於遂初 惟脩懷兮邈邈 與寶匣之撚攏 臨筵拂而色拂 倐變習於屠中 悲聽怳於一擊 易水咽於再鼓 神高馳而邈邈 颯英氣之飸座 泠泠入於太息 倐變徵而無路</Answer>
+			</Answerdata>
+			<Additionaldata>南庠 敎 李亮天</Additionaldata>
+		</Work>
+	</Contentdata>
+	<Contentdata>
+		<Work id="150">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>유성모(柳成模)</Name> 
+					<Courtesyname>사집(士集)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>문화(文化)</Origin>
+				<Year>
+					<Birthyear>1724</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">乘韋犒秦師</Question>
+				<Answer>鍄予脩而鐵阜 客容猛於東來 儀秦旂於館虞 敉展策於㗖齊 臨車壘而再拜 執余韋而如贄 旣覘機於襲我 所善辭於犒爾 聆牛呴於旂柩 倚敗車而西夏 鞭馬象於乞靈 壁犧勞於臨境 王師躍而叔噁 臚用武於束封 朝携牛兮遠服 遌爾師於中原 携潛謀於採樵 懟惡氛於衷甲 起三百以暢轂 壓虎牢而張氣 停余軀而愕爾 睠師行而潛翹 杞人詐而伯喪 啓戒心於觀寡 嗟深寇於不意 要改地而制變 門雖發於語楚 策誰善於縋城 詹馬首而嘿展 豈謂晉之無人 叩餘智於善賈 得一術於覸師 犉毛駕而十二 又有彼兮乘之 籠神變於善機 帶陰計於伐謀 人休言於掌鑰 我有思於執幣 勞千里而襲人 矢孟明之無計 繽發遽而備衛 愼丹肆乎宵加 輕無禮於脫險 喜王孫之先知 謇三肅而桓立 雖不腆而迓勞 因玆端而追認 記爭擲之遺事</Answer>
+			</Answerdata>
+			<Additionaldata>兩庠合設中庠冬條 敎 李得宗</Additionaldata>
+		</Work>
+	</Contentdata>
+	<Contentdata>
+		<Work id="151">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>조관진(趙寬鎭)</Name> 
+					<Courtesyname></Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence></Residence>
+				<Origin></Origin>
+				<Year>
+					<Birthyear></Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">乘韋犒秦師</Question>
+				<Answer>鸞鏕閴於土枚 銳叴矛而潛嘻 餌辰牡於備和 拊賣隣於姿脯 牛車輒而自周 奉余韋而衍智 托君命於勞饋 敗敵謀於隱秘 柩牛斗而偃下 我已料於西師 嬴燕策於畜禮 菀申機於存社 重門闢而坼疏 國無備而吾憂 瀁澳夕而駟俴 闞不虞而淺吾 門管謀而孑銳 野無靑其宵如 把口屬之科馬 肉食無於夷竈 師千里而尙昧 駭秋機於輧槊 軺牡賄而邂逅 拊潛鋒而多惕 危方阽於乘魯 秋孰弛於搗莒 憑執事於展喜 饒餘智於囊裏 巢輪阻而我謀 假好意於將弭 嬴千金於保邦 是奇貨之可居 便宜在於下臣 矯國命而何傷 牢其犉而不腆 玩戒機而牢籠 嬴師猘而可緩 我饋張而伐謀 携玄韋而奉賈 叩轅門而爲餌 將后命而孔勞 目不動而申辭 撟牲犒於厚誼 折虓闞於陰面 纔設欺於秦旅 又走急於鄭人</Answer>
+			</Answerdata>
+			<Additionaldata>西庠 敎 同</Additionaldata>
+		</Work>
+	</Contentdata>
+	<Contentdata>
+		<Work id="152">
+			<Examinationdata>
+				<Exam></Exam>
+				<Time>
+					<Sexagenarycycle>癸酉</Sexagenarycycle>
+					<Year>1753</Year>
+				</Time>
+				<Location>
+					<Region></Region>
+					<Site></Site>
+				</Location>
+				<Examiner></Examiner>
+				<SuccessfulCandidate></SuccessfulCandidate>
+			</Examinationdata>
+			<Authordata>
+				<Person>
+					<Name>이학원(李學源)</Name> 
+					<Courtesyname>습지(習之)</Courtesyname>
+					<Pseudonyms></Pseudonyms>
+				</Person>
+				<Residence>한성(京)</Residence>
+				<Origin>연안(延安)</Origin>
+				<Year>
+					<Birthyear>1732</Birthyear>
+					<Deathyear></Deathyear>
+				</Year>
+				<Grade>三上</Grade>
+			</Authordata>
+			<Answerdata>
+				<Question sort="">車轔知强止</Question>
+				<Answer>終把著於繫豳 盛衰兼於評雅 蔚正葩以餘響 載治道而上下 曰秦道之在是 仰筆說於東隣 尋聲氣於八篇 臨事功於兩般 撫鳴缶而□□ 秦爲秦其可□ 丘譏存於不東 季憂深於能夏 挹坂栗而歸來 翳氣象之先著 黃髮襯於錦衣 何禮簡而情孚 回勻天之帝樂 雜歌鳴之俚唱 擯繫節於逮夷 掬深悃於親上 發功烈之强大 肇習尙之易直 推是往而莫京 殆括四而招八 然一節之噍殺 竊獨悲此逝耋 指急景而相顧 擁勞情而播詠 非樂感之嘽緩 但危音之悲□ 聲通靈而止是 治不古而自秦 雖自雄於激越 尙有媿於中和 撟兩端而幷觀 審與奪之在州 肩營威於乘黜 謝德音於熙皥 業固隆於容六 化則遜於過五 彼永言之蹈厲 非鄭衛之靡曼 而西隣之殺聲 異南風之解慍 知是强而是止 一詩中而粲然</Answer>
+			</Answerdata>
+			<Additionaldata>合製 成 李成中</Additionaldata>
+		</Work>
+	</Contentdata>
+</CE>
